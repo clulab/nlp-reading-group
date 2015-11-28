@@ -1,5 +1,8 @@
 Candidate papers for the Spring 2016 reading group:
 
+Addressing an “AI-Complete Question Answering” Challenge by Combining Statistical Methods with Inductive Rule Learning and Reasoning
+http://www.public.asu.edu/~cbaral/papers/aaai2016-sub.pdf
+
 Building interpretable models from NNs:
 https://papers.nips.cc/paper/1152-extracting-tree-structured-representations-of-trained-networks.pdf
 
