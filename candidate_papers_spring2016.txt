@@ -1,5 +1,8 @@
 Candidate papers for the Spring 2016 reading group:
 
+
+Minjoon Seo, Hannaneh Hajishirzi, Ali Farhadi, Oren Etzioni, Clint Malcolm. Solving Geometry Problems: Combining Text and Diagram Interpretation. EMNLP2015.
+
 Addressing an “AI-Complete Question Answering” Challenge by Combining Statistical Methods with Inductive Rule Learning and Reasoning
 http://www.public.asu.edu/~cbaral/papers/aaai2016-sub.pdf
 
