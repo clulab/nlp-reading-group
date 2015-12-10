@@ -1,5 +1,7 @@
 Candidate papers for the Spring 2016 reading group:
 
+Might be relevant to all our applications of domain adaptation:
+http://arxiv.org/abs/1511.05547
 
 Minjoon Seo, Hannaneh Hajishirzi, Ali Farhadi, Oren Etzioni, Clint Malcolm. Solving Geometry Problems: Combining Text and Diagram Interpretation. EMNLP2015.
 
