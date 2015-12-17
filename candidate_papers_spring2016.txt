@@ -1,5 +1,9 @@
 Candidate papers for the Spring 2016 reading group:
 
+Training decision trees using backpropagation:
+http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf
+Another paper trying to build more interpretable models.
+
 Might be relevant to all our applications of domain adaptation:
 http://arxiv.org/abs/1511.05547
 
