@@ -1,143 +1,79 @@
-Candidate papers for the Spring 2016 reading group:
 
-Training decision trees using backpropagation:
+## Learning Natural Language Inference with LSTM
+http://arxiv.org/pdf/1512.08849v1.pdf
+8 pages
+Natural language inference (NLI) is a fun- damentally important task in natural lan- guage processing that has many applications. The recently released Stanford Nat- ural Language Inference (SNLI) corpus has made it possible to develop and eval- uate learning-centered methods such as deep neural networks for the NLI task. In this paper, we propose a special long short-term memory (LSTM) architecture for NLI. Our model builds on top of a recently proposed neutral attention model for NLI but is based on a significantly dif- ferent idea. Instead of deriving sentence embeddings for the premise and the hy- pothesis to be used for classification, our solution uses a matching-LSTM that per- forms word-by-word matching of the hy- pothesis with the premise. This LSTM is able to place more emphasis on important word-level matching results. In particu- lar, we observe that this LSTM remembers important mismatches that are critical for predicting the contradiction or the neutral relationship label. Our experiments on the SNLI corpus show that our model outper- forms the state of the art, achieving an ac- curacy of 86.1% on the test data.
+
+
+The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations
+http://arxiv.org/pdf/1511.02301v3.pdf
+9 pages
+We introduce a new test of how well language models capture meaning in chil- dren’s books. Unlike standard language modelling benchmarks, it distinguishes the task of predicting syntactic function words from that of predicting lower- frequency words, which carry greater semantic content. We compare a range of state-of-the-art models, each with a different way of encoding what has been previ- ously read. We show that models which store explicit representations of long-term contexts outperform state-of-the-art neural language models at predicting seman- tic content words, although this advantage is not observed for syntactic function words. Interestingly, we find that the amount of text encoded in a single memory representation is highly influential to the performance: there is a sweet-spot, not too big and not too small, between single words and full sentences that allows the most meaningful information in a text to be effectively retained and recalled. Fur- ther, the attention over such window-based memories can be trained effectively through self-supervision. We then assess the generality of this principle by ap- plying it to the CNN QA benchmark, which involves identifying named entities in paraphrased summaries of news articles, and achieve state-of-the-art performance.
+
+
+Deep Compositional Question Answering with Neural Module Networks
+http://arxiv.org/pdf/1511.02799v2.pdf
+8 pages
+Visual question answering is fundamentally composi- tional in nature—a question like where is the dog? shares substructure with questions like what color is the dog? and where is the cat? This paper seeks to simultaneously exploit the representational capacity of deep networks and the com- positional linguistic structure of questions. We describe a procedure for constructing and learning neural module net- works, which compose collections of jointly-trained neural “modules” into deep networks for question answering. Our approach decomposes questions into their linguistic sub- structures, and uses these structures to dynamically instan- tiate modular networks (with reusable components for rec- ognizing dogs, classifying colors, etc.). The resulting com- pound networks are jointly trained. We evaluate our ap- proach on two challenging datasets for visual question an- swering, achieving state-of-the-art results on both the VQA natural image dataset and a new dataset of complex ques- tions about abstract shapes.
+
+
+Learning to Compose Neural Networks for Question Answering
+http://arxiv.org/pdf/1601.01705v1.pdf
+8 pages
+We describe a question answering model that applies to both images and structured knowl- edge bases.The model uses natural language strings to automatically assemble neural net- works from a collection of composable mod- ules. Parameters for these modules are learned jointly with network-assembly parameters via reinforcement learning, with only (world, question, answer) triples as supervision. Our approach, which we term a dynamic neural module network, achieves state-of-the-art re- sults on benchmark datasets in both visual and structured domains.
+
+
+Language to Logical Form with Neural Attention
+http://arxiv.org/pdf/1601.01280v1.pdf
+8 pages
+Semantic parsing aims at mapping natural language to machine interpretable meaning representations. Traditional approaches rely on high-quality lexicons, manually-built tem- plates, and linguistic features which are either domain- or representation-specific. In this pa- per, we present a general method based on an attention-enhanced sequence-to-sequence model. We encode input sentences into vec- tor representations using recurrent neural net- works, and generate their logical forms by conditioning the output on the encoding vec- tors. The model is trained in an end-to-end fashion to maximize the likelihood of target logical forms given the natural language in- puts. Experimental results on four datasets show that our approach performs competi- tively without using hand-engineered features and is easy to adapt across domains and mean- ing representations.
+
+
+Basic Reasoning with Tensor Product Representations
+http://arxiv.org/abs/1601.02745 
+12 pages (very theoretical)
+In this paper we present the initial development of a general theory for mapping inference in predicate logic to computation over Tensor Product Representations (TPRs; Smolensky (1990), Smolensky & Legendre (2006)). After an initial brief synopsis of TPRs (Section 0), we begin with particular examples of inference with TPRs in the ‘bAbI’ question-answering task of Weston et al. (2015) (Section 1). We then present a simplification of the general analysis that suffices for the bAbI task (Section 2). Finally, we lay out the general treatment of inference over TPRs (Section 3). We also show the simplification in Section 2 derives the inference methods described in Lee et al. (2016); this shows how the simple methods of Lee et al. (2016) can be formally extended to more general reasoning tasks.
+
+
+Deep Neural Decision Forests
 http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf
-Another paper trying to build more interpretable models.
+8 pages (Training decision trees using backpropagation)
+We present Deep Neural Decision Forests – a novel ap- proach that unifies classification trees with the representa- tion learning functionality known from deep convolutional networks, by training them in an end-to-end manner. To combine these two worlds, we introduce a stochastic and differentiable decision tree model, which steers the rep- resentation learning usually conducted in the initial lay- ers of a (deep) convolutional network. Our model differs from conventional deep networks because a decision for- est provides the final predictions and it differs from con- ventional decision forests since we propose a principled, joint and global optimization of split and leaf node param- eters. We show experimental results on benchmark machine learning datasets like MNIST and ImageNet and find on- par or superior results when compared to state-of-the-art deep models. Most remarkably, we obtain Top5-Errors of only 7.84%/6.38% on ImageNet validation data when in- tegrating our forests in a single-crop, single/seven model GoogLeNet architecture, respectively. Thus, even without any form of training data set augmentation we are improv- ing on the 6.67% error obtained by the best GoogLeNet ar- chitecture (7 models, 144 crops).
 
-Might be relevant to all our applications of domain adaptation:
-http://arxiv.org/abs/1511.05547
 
-Minjoon Seo, Hannaneh Hajishirzi, Ali Farhadi, Oren Etzioni, Clint Malcolm. Solving Geometry Problems: Combining Text and Diagram Interpretation. EMNLP2015.
+Return of Frustratingly Easy Domain Adaptation
+http://arxiv.org/pdf/1511.05547v2.pdf
+7 pages (not NLP)
+Unlike human learning, machine learning often fails to handle changes between training (source) and test (target) input distributions. Such domain shifts, common in practical scenarios, severely damage the performance of conventional machine learning methods. Supervised domain adaptation methods have been proposed for the case when the target data have labels, including some that perform very well despite being "frustratingly easy" to implement. However, in practice, the target domain is often unlabeled, requiring unsupervised adaptation. We propose a simple, effective, and efficient method for unsupervised domain adaptation called CORrelation ALignment (CORAL). CORAL minimizes domain shift by aligning the second-order statistics of source and target distributions, without requiring any target labels. Even though it is extraordinarily simple--it can be implemented in four lines of Matlab code--CORAL performs remarkably well in extensive evaluations on standard benchmark datasets.
 
-Addressing an “AI-Complete Question Answering” Challenge by Combining Statistical Methods with Inductive Rule Learning and Reasoning
+
+Solving Geometry Problems: Combining Text and Diagram Interpretation
+http://geometry.allenai.org/assets/emnlp2015.pdf
+9 pages
+This paper introduces GEOS, the first au- tomated system to solve unaltered SAT ge- ometry questions by combining text un- derstanding and diagram interpretation. We model the problem of understanding geometry questions as submodular opti- mization, and identify a formal problem description likely to be compatible with both the question text and diagram. GEOS then feeds the description to a geometric solver that attempts to determine the cor- rect answer. In our experiments, GEOS achieves a 49% score on official SAT ques- tions, and a score of 61% on practice ques- tions.1 Finally, we show that by integrat- ing textual and visual information, GEOS boosts the accuracy of dependency and se- mantic parsing of the question text.
+
+
+Addressing a Question Answering Challenge by Combining Statistical Methods with Inductive Rule Learning and Reasoning
 http://www.public.asu.edu/~cbaral/papers/aaai2016-sub.pdf
+6 pages
+A group of researchers from Facebook has recently pro- posed a set of 20 question-answering tasks (Facebook’s bAbl dataset) as a challenge for the natural language un- derstanding ability of an intelligent agent. These tasks are designed to measure various skills of an agent, such as: fact based question-answering, simple induction, the ability to find paths, co-reference resolution and many more. Their goal is to aid in the development of sys- tems that can learn to solve such tasks and to allow a proper evaluation of such systems. They show existing systems cannot fully solve many of those toy tasks. In this work, we present a system that excels at all the tasks except one. The proposed model of the agent uses the Answer Set Programming (ASP) language as the pri- mary knowledge representation and reasoning language along with the standard statistical Natural Language Processing (NLP) models. Given a training dataset con- taining a set of narrations, questions and their answers, the agent jointly uses a translation system, an Induc- tive Logic Programming algorithm and Statistical NLP methods to learn the knowledge needed to answer simi- lar questions. Our results demonstrate that the introduc- tion of a reasoning module significantly improves the performance of an intelligent agent.
 
-Building interpretable models from NNs:
+
+Extracting Thee-Structured Representations of Trained Networks
 https://papers.nips.cc/paper/1152-extracting-tree-structured-representations-of-trained-networks.pdf
+7 pages
+A significant limitation of neural networks is that the represen- tations they learn are usually incomprehensible to humans. We present a novel algorithm, TREPAN, for extracting comprehensible, symbolic representations from trained neural networks. Our algo- rithm uses queries to induce a decision tree that approximates the concept represented by a given network. Our experiments demon- strate that TREPAN is able to produce decision trees that maintain a high level of fidelity to their respective networks while being com- prehensible and accurate. Unlike previous work in this area, our algorithm is general in its applicability and scales well to large net- works and problems with high-dimensional input spaces.
 
-From: send mail ONLY to cs <no-reply@arXiv.org>
-Subject: cs daily Subj-class mailing 10 176
-Date: November 23, 2015 at 4:15:23 AM MST
-To: cs daily title/abstract distribution <rabble@arXiv.org>
-Reply-To: <cs@arXiv.org>
 
-------------------------------------------------------------------------------
-------------------------------------------------------------------------------
-Send any comments regarding submissions directly to submitter.
-------------------------------------------------------------------------------
-Archives at http://arxiv.org/
-To unsubscribe, e-mail To: cs@arXiv.org, Subject: cancel
-------------------------------------------------------------------------------
-Submissions to:
-Computation and Language
-received from  Thu 19 Nov 15 21:00:00 GMT  to  Fri 20 Nov 15 21:00:00 GMT
-------------------------------------------------------------------------------
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06379
-Date: Thu, 19 Nov 2015 21:07:27 GMT   (237kb,D)
+sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings
+http://arxiv.org/pdf/1511.06388v1.pdf
+7 pages
+Neural word representations have proven useful in Natural Language Processing (NLP) tasks due to their ability to efficiently model complex semantic and syntactic word relationships. However, most techniques model only one representation per word, despite the fact that a single word can have multiple meanings or "senses". Some techniques model words by using multiple vectors that are clustered based on context. However, recent neural approaches rarely focus on the application to a consuming NLP algorithm. Furthermore, the training process of recent word-sense models is expensive relative to single-sense embedding processes. This paper presents a novel approach which addresses these concerns by modeling multiple embeddings for each word based on supervised disambiguation, which provides a fast and accurate way for a consuming NLP model to select a sense-disambiguated embedding. We demonstrate that these embeddings can disambiguate both contrastive senses such as nominal and verbal senses as well as nuanced senses such as sarcasm. We further evaluate Part-of-Speech disambiguated embeddings on neural dependency parsing, yielding a greater than 8% average error reduction in unlabeled attachment scores across 6 languages.
 
-Title: Dynamic Adaptive Network Intelligence
-Authors: Richard Searle, Megan Bingham-Walker
-Categories: cs.CL cs.LG
-Comments: 8 pages, 2 figures, 3 tables, ICLR 2016 conference paper submission
-\\
- Accurate representational learning of both the explicit and implicit
-relationships within data is critical to the ability of machines to perform
-more complex and abstract reasoning tasks. We describe the efficient weakly
-supervised learning of such inferences by our Dynamic Adaptive Network
-Intelligence (DANI) model. We report state-of-the-art results for DANI over
-question answering tasks in the bAbI dataset that have proved difficult for
-contemporary approaches to learning representation (Weston et al., 2015).
-\\ ( http://arxiv.org/abs/1511.06379 ,  237kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06388
-Date: Thu, 19 Nov 2015 21:22:42 GMT   (94kb,D)
 
-Title: sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In
- Neural Word Embeddings
-Authors: Andrew Trask, Phil Michalak, John Liu
-Categories: cs.CL cs.LG
-\\
- Neural word representations have proven useful in Natural Language Processing
-(NLP) tasks due to their ability to efficiently model complex semantic and
-syntactic word relationships. However, most techniques model only one
-representation per word, despite the fact that a single word can have multiple
-meanings or "senses". Some techniques model words by using multiple vectors
-that are clustered based on context. However, recent neural approaches rarely
-focus on the application to a consuming NLP algorithm. Furthermore, the
-training process of recent word-sense models is expensive relative to
-single-sense embedding processes. This paper presents a novel approach which
-addresses these concerns by modeling multiple embeddings for each word based on
-supervised disambiguation, which provides a fast and accurate way for a
-consuming NLP model to select a sense-disambiguated embedding. We demonstrate
-that these embeddings can disambiguate both contrastive senses such as nominal
-and verbal senses as well as nuanced senses such as sarcasm. We further
-evaluate Part-of-Speech disambiguated embeddings on neural dependency parsing,
-yielding a greater than 8% average error reduction in unlabeled attachment
-scores across 6 languages.
-\\ ( http://arxiv.org/abs/1511.06388 ,  94kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06396
-Date: Thu, 19 Nov 2015 21:42:23 GMT   (36kb)
-
-Title: Multilingual Relation Extraction using Compositional Universal Schema
-Authors: Patrick Verga, David Belanger, Emma Strubell, Benjamin Roth, Andrew
- McCallum
-Categories: cs.CL cs.LG
-Comments: Under review as a conference paper at ICLR 2016
-\\
- When building a knowledge base (KB) of entities and relations from multiple
-structured KBs and text, universal schema represents the union of all input
-schema, by jointly embedding all relation types from input KBs as well as
-textual patterns expressing relations. In previous work, textual patterns are
-parametrized as a single embedding, preventing generalization to unseen textual
-patterns. In this paper we employ an LSTM to compositionally capture the
-semantics of relational text. We dramatically demonstrate the flexibility of
-our approach by evaluating in a multilingual setting, in which the English
-training data entities overlap with the seed KB, but the Spanish text does not.
-Additional improvements are obtained by tying word embeddings across languages.
-In extensive experiments on the English and Spanish TAC KBP benchmark, our
-techniques provide substantial accuracy improvements. Furthermore we find that
-training with the additional non-overlapping Spanish also improves English
-relation extraction accuracy. Our approach is thus suited to broad-coverage
-automated knowledge base construction in low-resource domains and languages.
-\\ ( http://arxiv.org/abs/1511.06396 ,  36kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06397
-Date: Thu, 19 Nov 2015 21:42:47 GMT   (562kb)
-
-Title: Compressing Word Embeddings
-Authors: Martin Andrews
-Categories: cs.CL cs.LG
-Comments: 10 pages, 6 figures, ICLR-2016
-\\
- Recent methods for learning vector space representations of words have
-succeeded in capturing fine-grained semantic and syntactic regularities using
-vector arithmetic. However, these vector space representations (created through
-large-scale text analysis) are typically stored verbatim, since their internal
-structure is opaque. Using word-analogy tests to monitor the level of detail
-stored in compressed re-representations of the same vector space, the
-trade-offs between the reduction in memory usage and expressiveness are
-investigated. A simple scheme is outlined that can reduce the memory footprint
-of a state-of-the-art embedding by a factor of 10, with only minimal impact on
-performance. Then, using the same 'bit budget', a binary (approximate)
-factorisation of the same space is also explored, with the aim of creating an
-equivalent representation with better interpretability.
-\\ ( http://arxiv.org/abs/1511.06397 ,  562kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06426
-Date: Thu, 19 Nov 2015 22:30:10 GMT   (37kb)
-
-Title: Reasoning in Vector Space: An Exploratory Study of Question Answering
-Authors: Moontae Lee, Xiaodong He, Wen-tau Yih, Jianfeng Gao, Li Deng, Paul
- Smolensky
-Categories: cs.CL
-\\
+Reasoning in Vector Space: An Exploratory Study of Question Answering
+http://arxiv.org/pdf/1511.06426v2.pdf
+11 pages
  Question answering tasks have shown remarkable progress with distributed
 vector representations. In this paper, we look into the recently proposed
 Facebook 20 tasks (FB20). Finding the answers for questions in FB20 requires
@@ -153,327 +89,4 @@ identified from this study. The exploration reported in this paper and our
 subsequent work on generalizing the current model to the TPR formalism suggest
 the feasibility of developing further reasoning models in tensor space with
 learning capabilities.
-\\ ( http://arxiv.org/abs/1511.06426 ,  37kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06438
-Date: Thu, 19 Nov 2015 22:58:10 GMT   (321kb)
 
-Title: Joint Word Representation Learning using a Corpus and a Semantic Lexicon
-Authors: Danushka Bollegala, Alsuhaibani Mohammed, Takanori Maehara, Ken-ichi
- Kawarabayashi
-Categories: cs.CL cs.AI
-Comments: Accepted to AAAI-2016
-Journal-ref: Proceedings of the AAAI 2016
-\\
- Methods for learning word representations using large text corpora have
-received much attention lately due to their impressive performance in numerous
-natural language processing (NLP) tasks such as, semantic similarity
-measurement, and word analogy detection. Despite their success, these
-data-driven word representation learning methods do not consider the rich
-semantic relational structure between words in a co-occurring context. On the
-other hand, already much manual effort has gone into the construction of
-semantic lexicons such as the WordNet that represent the meanings of words by
-defining the various relationships that exist among the words in a language. We
-consider the question, can we improve the word representations learnt using a
-corpora by integrating the knowledge from semantic lexicons?. For this purpose,
-we propose a joint word representation learning method that simultaneously
-predicts the co-occurrences of two words in a sentence subject to the
-relational constrains given by the semantic lexicon. We use relations that
-exist between words in the lexicon to regularize the word representations
-learnt from the corpus. Our proposed method statistically significantly
-outperforms previously proposed methods for incorporating semantic lexicons
-into word representations on several benchmark datasets for semantic similarity
-and word analogy.
-\\ ( http://arxiv.org/abs/1511.06438 ,  321kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06591
-Date: Fri, 20 Nov 2015 13:41:31 GMT   (484kb)
-
-Title: Polysemy in Controlled Natural Language Texts
-Authors: Normunds Gruzitis and Guntis Barzdins
-Categories: cs.CL
-Journal-ref: Lecture Notes in Computer Science, Vol. 5972, Springer, 2010, pp.
- 102-120
-DOI: 10.1007/978-3-642-14418-9_7
-\\
- Computational semantics and logic-based controlled natural languages (CNL) do
-not address systematically the word sense disambiguation problem of content
-words, i.e., they tend to interpret only some functional words that are crucial
-for construction of discourse representation structures. We show that
-micro-ontologies and multi-word units allow integration of the rich and
-polysemous multi-domain background knowledge into CNL thus providing
-interpretation for the content words. The proposed approach is demonstrated by
-extending the Attempto Controlled English (ACE) with polysemous and procedural
-constructs resulting in a more natural CNL named PAO covering narrative
-multi-domain texts.
-\\ ( http://arxiv.org/abs/1511.06591 ,  484kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06709
-Date: Fri, 20 Nov 2015 17:58:37 GMT   (27kb)
-
-Title: Improving Neural Machine Translation Models with Monolingual Data
-Authors: Rico Sennrich and Barry Haddow and Alexandra Birch
-Categories: cs.CL
-\\
- Neural Machine Translation (NMT) has obtained state-of-the art performance
-for several language pairs, while only using parallel data for training.
-Monolingual data plays an important role in boosting fluency for phrase-based
-statistical machine translation, and we investigate the use of monolingual data
-for neural machine translation (NMT). In contrast to previous work, which
-integrates a separately trained RNN language model into an NMT architecture, we
-note that encoder-decoder NMT architectures already have the capacity to learn
-the same information as a language model, and we explore strategies to include
-monolingual training data in the training process. Through our use of
-monolingual data, we obtain substantial improvements on the WMT 15 (+2.8--3.4
-BLEU) task for English->German, and for the low-resourced IWSLT 14 task
-Turkish->English (+2.1--3.4 BLEU), obtaining new state-of-the-art results. We
-also show that fine-tuning on in-domain monolingual and parallel data gives
-substantial improvements for the IWSLT 15 task for English->German.
-\\ ( http://arxiv.org/abs/1511.06709 ,  27kb)
-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-%-
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06391 (*cross-listing*)
-Date: Thu, 19 Nov 2015 21:31:26 GMT   (38kb,D)
-
-Title: Order Matters: Sequence to sequence for sets
-Authors: Oriol Vinyals, Samy Bengio, Manjunath Kudlur
-Categories: stat.ML cs.CL cs.LG
-\\
- Sequences have become first class citizens in supervised learning thanks to
-the resurgence of recurrent neural networks. Many complex tasks that require
-mapping from or to a sequence of observations can now be formulated with the
-sequence-to-sequence (seq2seq) framework which employs the chain rule to
-efficiently represent the joint probability of sequences. In many cases,
-however, variable sized inputs and/or outputs might not be naturally expressed
-as sequences. For instance, it is not clear how to input a set of numbers into
-a model where the task is to sort them; similarly, we do not know how to
-organize outputs when they correspond to random variables and the task is to
-model their unknown joint probability. In this paper, we first show using
-various examples that the order in which we organize input and/or output data
-matters significantly when learning an underlying model. We then discuss an
-extension of the seq2seq framework that goes beyond sequences and handles input
-sets in a principled way. In addition, we propose a loss which, by searching
-over possible orders during training, deals with the lack of structure of
-output sets. We show empirical evidence of our claims regarding ordering, and
-on the modifications to the seq2seq framework on benchmark language modeling
-and parsing tasks, as well as two artificial tasks -- sorting numbers and
-estimating the joint probability of unknown graphical models.
-\\ ( http://arxiv.org/abs/1511.06391 ,  38kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06407 (*cross-listing*)
-Date: Thu, 19 Nov 2015 21:56:53 GMT   (253kb,D)
-
-Title: Recurrent Models for Auditory Attention in Multi-Microphone Distance
- Speech Recognition
-Authors: Suyoun Kim, Ian Lane
-Categories: cs.LG cs.CL
-Comments: Under review as a conference paper at ICLR 2016
-\\
- Integration of multiple microphone data is one of the key ways to achieve
-robust speech recognition in noisy environments or when the speaker is located
-at some distance from the input device. Signal processing techniques such as
-beamforming are widely used to extract a speech signal of interest from
-background noise. These techniques, however, are highly dependent on prior
-spatial information about the microphones and the environment in which the
-system is being used. In this work, we present a neural attention network that
-directly combines multi-channel audio to generate phonetic states without
-requiring any prior knowledge of the microphone layout or any explicit signal
-preprocessing for speech enhancement. We embed an attention mechanism within a
-Recurrent Neural Network (RNN) based acoustic model to automatically tune its
-attention to a more reliable input source. Unlike traditional multi-channel
-preprocessing, our system can be optimized towards the desired output in one
-step. Although attention-based models have recently achieved impressive results
-on sequence-to-sequence learning, however, no attention mechanisms have been
-applied to learn multiple inputs which may be asynchronous and non-stationary.
-We evaluate our neural attention model on a subset of the CHiME-3 challenge
-task, and we show that the model achieves comparable performance to beamforming
-using a purely data-driven method.
-\\ ( http://arxiv.org/abs/1511.06407 ,  253kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06420 (*cross-listing*)
-Date: Thu, 19 Nov 2015 22:15:46 GMT   (32kb)
-
-Title: Skip-Thought Memory Networks
-Authors: Ethan Caballero
-Categories: cs.NE cs.CL cs.LG
-Comments: submitted as conference paper for ICLR 2016. arXiv admin note: text
- overlap with arXiv:1506.06726, arXiv:1503.08895 by other authors
-\\
- Question Answering (QA) is fundamental to natural language processing in that
-most nlp problems can be phrased as QA (Kumar et al., 2015). Current weakly
-supervised memory network models that have been proposed so far struggle at
-answering questions that involve relations among multiple entities (such as
-facebook's bAbi qa5-three-arg-relations in (Weston et al., 2015)). To address
-this problem of learning multi-argument multi-hop semantic relations for the
-purpose of QA, we propose a method that combines the jointly learned long-term
-memory and attentive inference components of end-to-end memory networks
-(MemN2N) (Sukhbaatar et al., 2015) with distributed sentence vector
-representations encoded by a Skip-Thought model (Kiros et al., 2015). This
-choice to append Skip-Thought Vectors to the existing MemN2N framework is
-motivated by the fact that Skip-Thought Vectors have been shown to accurately
-model multi-argument semantic relations (Kiros et al., 2015).
-\\ ( http://arxiv.org/abs/1511.06420 ,  32kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06674 (*cross-listing*)
-Date: Fri, 20 Nov 2015 16:33:13 GMT   (2711kb,D)
-
-Title: Stories in the Eye: Contextual Visual Interactions for Efficient Video
- to Language Translation
-Authors: Anirudh Goyal and Marius Leordeanu
-Categories: cs.CV cs.CL
-\\
- Integrating higher level visual and linguistic interpretations is at the
-heart of human intelligence. As automatic visual category recognition in images
-is approaching human performance, the high level understanding in the dynamic
-spatiotemporal domain of videos and its translation into natural language is
-still far from being solved. While most works on vision-to-text translations
-use pre-learned or pre-established computational linguistic models, in this
-paper we present an approach that uses vision alone to efficiently learn how to
-translate into language the video content. We discover, in simple form, the
-story played by main actors, while using only visual cues for representing
-objects and their interactions. Our method learns in a hierarchical manner
-higher level representations for recognizing subjects, actions and objects
-involved, their relevant contextual background and their interaction to one
-another over time. We have a three stage approach: first we take in
-consideration features of the individual entities at the local level of
-appearance, then we consider the relationship between these objects and actions
-and their video background, and third, we consider their spatiotemporal
-relations as inputs to classifiers at the highest level of interpretation.
-Thus, our approach finds a coherent linguistic description of videos in the
-form of a subject, verb and object based on their role played in the overall
-visual story learned directly from training data, without using a known
-language model. We test the efficiency of our approach on a large scale dataset
-containing YouTube clips taken in the wild and demonstrate state-of-the-art
-performance, often superior to current approaches that use more complex,
-pre-learned linguistic knowledge.
-\\ ( http://arxiv.org/abs/1511.06674 ,  2711kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06732 (*cross-listing*)
-Date: Fri, 20 Nov 2015 19:25:54 GMT   (1935kb,D)
-
-Title: Sequence Level Training with Recurrent Neural Networks
-Authors: Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba
-Categories: cs.LG cs.CL
-\\
- Many natural language processing applications use language models to generate
-text. These models are typically trained to predict the next word in a
-sequence, given the previous words and some context such as an image. However,
-at test time the model is expected to generate the entire sequence from
-scratch. This discrepancy makes generation brittle, as errors may accumulate
-along the way. We address this issue by proposing a novel sequence level
-training algorithm that directly optimizes the BLEU score: a popular metric to
-compare a sequence to a reference. On three different tasks, our approach
-outperforms several strong baselines for greedy generation, and it matches
-their performance with beam search, while being several times faster.
-\\ ( http://arxiv.org/abs/1511.06732 ,  1935kb)
-%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%--%%
-------------------------------------------------------------------------------
-\\
-arXiv:1510.07526
-replaced with revised version Fri, 20 Nov 2015 15:36:56 GMT   (231kb,D)
-
-Title: Empirical Study on Deep Learning Models for Question Answering
-Authors: Yang Yu, Wei Zhang, Chung-Wei Hang, Bing Xiang and Bowen Zhou
-Categories: cs.CL cs.AI cs.LG
-\\ ( http://arxiv.org/abs/1510.07526 ,  231kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.03683
-replaced with revised version Fri, 20 Nov 2015 19:17:07 GMT   (1072kb,D)
-
-Title: Capturing Meaning in Product Reviews with Character-Level Generative
- Text Models
-Authors: Zachary C. Lipton, Sharad Vikram, Julian McAuley
-Categories: cs.CL cs.LG
-\\ ( http://arxiv.org/abs/1511.03683 ,  1072kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.04623
-replaced with revised version Thu, 19 Nov 2015 23:35:42 GMT   (190kb)
-
-Title: Learning to Represent Words in Context with Multilingual Supervision
-Authors: Kazuya Kawakami, Chris Dyer
-Categories: cs.CL
-\\ ( http://arxiv.org/abs/1511.04623 ,  190kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.04747
-replaced with revised version Fri, 20 Nov 2015 01:37:01 GMT   (571kb)
-
-Title: Learning Representations of Affect from Speech
-Authors: Sayan Ghosh, Eugene Laksana, Louis-Philippe Morency, Stefan Scherer
-Categories: cs.CL cs.LG
-Comments: This is a submission for the ICLR (International Conference on
- Learning Representations). The submission will be updated and revised by
- 11/19/2016, after the arXiv identifier is obtained
-\\ ( http://arxiv.org/abs/1511.04747 ,  571kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06341
-replaced with revised version Fri, 20 Nov 2015 19:33:36 GMT   (153kb,D)
-
-Title: Communicating Semantics: Reference by Description
-Authors: Ramanathan V Guha, Vineet Gupta
-Categories: cs.CL
-\\ ( http://arxiv.org/abs/1511.06341 ,  153kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1507.01526
-replaced with revised version Fri, 20 Nov 2015 17:40:17 GMT   (444kb,D)
-
-Title: Grid Long Short-Term Memory
-Authors: Nal Kalchbrenner, Ivo Danihelka, Alex Graves
-Categories: cs.NE cs.CL cs.LG
-Comments: 15 pages
-\\ ( http://arxiv.org/abs/1507.01526 ,  444kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1507.05910
-replaced with revised version Fri, 20 Nov 2015 16:36:09 GMT   (548kb,D)
-
-Title: Clustering is Efficient for Approximate Maximum Inner Product Search
-Authors: Alex Auvolat, Sarath Chandar, Pascal Vincent, Yoshua Bengio, Hugo
- Larochelle
-Categories: cs.LG cs.CL stat.ML
-Comments: 10 pages, Under review at ICLR 2016
-\\ ( http://arxiv.org/abs/1507.05910 ,  548kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.04891
-replaced with revised version Thu, 19 Nov 2015 22:36:55 GMT   (7322kb,D)
-
-Title: Sherlock: Modeling Structured Knowledge in Images
-Authors: Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed
- Elgammal
-Categories: cs.CV cs.CL cs.LG
-Comments: Under Review for ICLR2016 (Update submission, Nov 19-2016)
-\\ ( http://arxiv.org/abs/1511.04891 ,  7322kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.05392 (*cross-listing*)
-replaced with revised version Fri, 20 Nov 2015 04:43:11 GMT   (151kb,D)
-
-Title: Infinite Dimensional Word Embeddings
-Authors: Eric Nalisnick, Sachin Ravi
-Categories: stat.ML cs.CL cs.LG
-Comments: ICLR 2016 submission
-\\ ( http://arxiv.org/abs/1511.05392 ,  151kb)
-------------------------------------------------------------------------------
-\\
-arXiv:1511.06349
-replaced with revised version Fri, 20 Nov 2015 02:59:34 GMT   (188kb,D)
-
-Title: Generating Sentences from a Continuous Space
-Authors: Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal
- Jozefowicz, Samy Bengio
-Categories: cs.LG cs.CL
-Comments: First two authors contributed equally. Work was done when all authors
- were at Google, Inc. Under review for ICLR 2016
