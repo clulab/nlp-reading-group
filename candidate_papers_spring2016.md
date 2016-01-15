@@ -1,3 +1,4 @@
+# Proposed by Mihai:
 
 ## Learning Natural Language Inference with LSTM
 http://arxiv.org/pdf/1512.08849v1.pdf
@@ -90,3 +91,38 @@ subsequent work on generalizing the current model to the TPR formalism suggest
 the feasibility of developing further reasoning models in tensor space with
 learning capabilities.
 
+# Proposed by Michael:
+
+## Collaborative Filering for Implicit Feedback Datasets
+http://yifanhu.net/PUB/cf.pdf
+
+(10 pages) A common task of recommender systems is to improve customer experience through personalized recommendations based on prior implicit feedback. These systems passively track different sorts of user behavior, such as purchase history, watching habits and browsing activity, in order to model user preferences. Unlike the much more extensively researched explicit feedback, we do not have any direct input from the users regarding their preferences. In particular, we lack substantial evidence on which products consumer dislike. In this work we identify unique properties of implicit feedback datasets. We propose treating the data as indication of positive and negative preference associated with vastly varying confidence levels. This leads to a factor model which is especially tailored for implicit feedback recommenders. We also suggest a scalable optimization procedure, which scales linearly with the data size. The algorithm is used successfully within a recommender system for television shows. It compares favorably with well tuned implementations of other known methods. In addition, we offer a novel way to give explanations to recommendations given by this factor model.
+
+
+##LTSM: A Search Space Odyssey
+http://arxiv.org/pdf/1503.04069v1.pdf
+
+(10 pages + supplementary material) Several variants of the Long Short-Term Memory (LSTM) architecture for recurrent neural networks have been proposed since its inception in 1995. In recent years, these networks have become the state-of-the-art models for a variety of machine learning problems. This has led to a renewed interest in understanding the role and utility of various computational components of typical LSTM variants. In this paper, we present the first large-scale analysis of eight LSTM variants on three representative tasks: speech recognition, handwriting recognition, and polyphonic music modeling. The hyperparameters of all LSTM variants for each task were optimized separately using random search and their importance was assessed using the powerful fANOVA framework. In total, we summarize the results of 5400 experimental runs (≈ 15 years of CPU time), which makes our study the largest of its kind on LSTM networks. Our results show that none of the variants can improve upon the standard LSTM architecture significantly, and demonstrate the forget gate and the output activation function to be its most critical components. We further observe that the studied hyperparameters are virtually independent and derive guidelines for their efficient adjustment.
+
+##Sequence to Sequence Learning with Neural Networks
+http://arxiv.org/pdf/1409.3215v3.pdf
+
+(9 pages) Deep Neural Networks (DNNs) are powerful models that have achieved excellent performance on difficult learning tasks. Although DNNs work well whenever large labeled training sets are available, they cannot be used to map sequences to sequences. In this paper, we present a general end-to-end approach to sequence learning that makes minimal assumptions on the sequence structure. Our method uses a multilayered Long Short-Term Memory (LSTM) to map the input sequence to a vector of a fixed dimensionality, and then another deep LSTM to decode the target sequence from the vector. Our main result is that on an English to French translation task from the WMT’14 dataset, the translations produced by the LSTM achieve a BLEU score of 34.8 on the entire test set, where the LSTM’s BLEU score was penalized on out-of-vocabulary words. Additionally, the LSTM did not have difficulty on long sentences. For comparison, a phrase-based SMT system achieves a BLEU score of 33.3 on the same dataset. When we used the LSTM to rerank the 1000 hypotheses produced by the aforementioned SMT system, its BLEU score increases to 36.5, which is close to the previous best result on this task. The LSTM also learned sensible phrase and sentence representations that are sensitive to word order and are relatively invariant to the active and the passive voice. Finally, we found that reversing the order of the words in all source sentences (but not target sentences) improved the LSTM’s performance markedly, because doing so introduced many short term dependencies between the source and the target sentence which made the optimization problem easier. 
+
+
+##Feedforward Sequential Memory Networks: A New Structure to Learn Long-term Dependency
+http://arxiv.org/pdf/1512.08301v2.pdf
+
+(12 pages) In this paper, we propose a novel neural network structure, namely feedforward sequential memory networks (FSMN), to model long-term dependency in time series without using recurrent feedback. The proposed FSMN is a standard fully-connected feedforward neural network equipped with some learnable memory blocks in its hidden layers. The memory blocks use a tapped-delay line structure to encode the long context information into a fixed-size representation as short-term memory mechanism. We have evaluated the proposed FSMNs in several standard benchmark tasks, including speech recognition and language modelling. Experimental results have shown FSMNs significantly outperform the conventional recurrent neural networks (RNN), including LSTMs, in modeling sequential signals like speech or language. Moreover, FSMNs can be learned much more reliably and faster than RNNs or LSTMs due to the inherent non-recurrent model structure.
+
+
+##Understanding LSTM Networks
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+**This is a blog post that goes through the concept of the LSTM architecture.**
+
+
+##On the saddle point problem for non-convex optimization
+http://arxiv.org/pdf/1405.4604v2.pdf
+
+(12 pages) A central challenge to many fields of science and engineering involves minimizing non-convex error functions over continuous, high dimensional spaces. Gradient descent or quasi-Newton methods are almost ubiquitously used to perform such minimizations, and it is often thought that a main source of difficulty for the ability of these local methods to find the global minimum is the proliferation of local minima with much higher error than the global minimum. Here we argue, based on results from statistical physics, random matrix theory, and neural network theory, that a deeper and more profound difficulty originates from the proliferation of saddle points, not local minima, especially in high dimensional problems of practical interest. Such saddle points are surrounded by high error plateaus that can dramatically slow down learning, and give the illusory impression of the existence of a local minimum. Motivated by these arguments, we propose a new algorithm, the saddle-free Newton method, that can rapidly escape high dimensional saddle points, unlike gradient descent and quasi-Newton methods. We apply this algorithm to deep neural network training, and provide preliminary numerical evidence for its superior performance.
