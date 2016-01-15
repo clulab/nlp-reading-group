@@ -1,12 +1,12 @@
 # Proposed by Mihai:
 
-## Learning Natural Language Inference with LSTM
+## Learning Natural Language Inference with LSTM 
 http://arxiv.org/pdf/1512.08849v1.pdf
 
 (8 pages) Natural language inference (NLI) is a fun- damentally important task in natural lan- guage processing that has many applications. The recently released Stanford Nat- ural Language Inference (SNLI) corpus has made it possible to develop and eval- uate learning-centered methods such as deep neural networks for the NLI task. In this paper, we propose a special long short-term memory (LSTM) architecture for NLI. Our model builds on top of a recently proposed neutral attention model for NLI but is based on a significantly dif- ferent idea. Instead of deriving sentence embeddings for the premise and the hy- pothesis to be used for classification, our solution uses a matching-LSTM that per- forms word-by-word matching of the hy- pothesis with the premise. This LSTM is able to place more emphasis on important word-level matching results. In particu- lar, we observe that this LSTM remembers important mismatches that are critical for predicting the contradiction or the neutral relationship label. Our experiments on the SNLI corpus show that our model outper- forms the state of the art, achieving an ac- curacy of 86.1% on the test data.
 
 
-## The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations
+## The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations - 
 http://arxiv.org/pdf/1511.02301v3.pdf
 
 (9 pages) We introduce a new test of how well language models capture meaning in chil- dren’s books. Unlike standard language modelling benchmarks, it distinguishes the task of predicting syntactic function words from that of predicting lower- frequency words, which carry greater semantic content. We compare a range of state-of-the-art models, each with a different way of encoding what has been previ- ously read. We show that models which store explicit representations of long-term contexts outperform state-of-the-art neural language models at predicting seman- tic content words, although this advantage is not observed for syntactic function words. Interestingly, we find that the amount of text encoded in a single memory representation is highly influential to the performance: there is a sweet-spot, not too big and not too small, between single words and full sentences that allows the most meaningful information in a text to be effectively retained and recalled. Fur- ther, the attention over such window-based memories can be trained effectively through self-supervision. We then assess the generality of this principle by ap- plying it to the CNN QA benchmark, which involves identifying named entities in paraphrased summaries of news articles, and achieve state-of-the-art performance.
@@ -66,7 +66,7 @@ https://papers.nips.cc/paper/1152-extracting-tree-structured-representations-of-
 (7 pages) A significant limitation of neural networks is that the represen- tations they learn are usually incomprehensible to humans. We present a novel algorithm, TREPAN, for extracting comprehensible, symbolic representations from trained neural networks. Our algo- rithm uses queries to induce a decision tree that approximates the concept represented by a given network. Our experiments demon- strate that TREPAN is able to produce decision trees that maintain a high level of fidelity to their respective networks while being com- prehensible and accurate. Unlike previous work in this area, our algorithm is general in its applicability and scales well to large net- works and problems with high-dimensional input spaces.
 
 
-## sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings
+## sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings - GUS
 http://arxiv.org/pdf/1511.06388v1.pdf
 
 (7 pages) Neural word representations have proven useful in Natural Language Processing (NLP) tasks due to their ability to efficiently model complex semantic and syntactic word relationships. However, most techniques model only one representation per word, despite the fact that a single word can have multiple meanings or "senses". Some techniques model words by using multiple vectors that are clustered based on context. However, recent neural approaches rarely focus on the application to a consuming NLP algorithm. Furthermore, the training process of recent word-sense models is expensive relative to single-sense embedding processes. This paper presents a novel approach which addresses these concerns by modeling multiple embeddings for each word based on supervised disambiguation, which provides a fast and accurate way for a consuming NLP model to select a sense-disambiguated embedding. We demonstrate that these embeddings can disambiguate both contrastive senses such as nominal and verbal senses as well as nuanced senses such as sarcasm. We further evaluate Part-of-Speech disambiguated embeddings on neural dependency parsing, yielding a greater than 8% average error reduction in unlabeled attachment scores across 6 languages.
@@ -130,24 +130,24 @@ http://arxiv.org/pdf/1405.4604v2.pdf
 
 # Proposed by Marco:
 
-## Show and Tell: A Neural Image Caption Generator
+## Show and Tell: A Neural Image Caption Generator - MARCO
 http://arxiv.org/pdf/1411.4555v2.pdf
 
 (9 pages) Automatically describing the content of an image is a fundamental problem in artificial intelligence that connects computer vision and natural language processing. In this paper, we present a generative model based on a deep recurrent architecture that combines recent advances in computer vision and machine translation and that can be used to generate natural sentences describing an image. The model is trained to maximize the likelihood of the target description sentence given the training image. Experiments on several datasets show the accuracy of the model and the fluency of the language it learns solely from image descriptions. Our model is often quite accurate, which we verify both qualitatively and quantitatively. For instance, while the current state-of-the-art BLEU-1 score (the higher the better) on the Pascal dataset is 25, our approach yields 59, to be compared to human performance around 69. We also show BLEU-1 score improvements on Flickr30k, from 56 to 66, and on SBU, from 19 to 28. Lastly, on the newly released COCO dataset, we achieve a BLEU-4 of 27.7, which is the current state-of-the-art.
 
-## A Transition-based Algorithm for AMR Parsing
+## A Transition-based Algorithm for AMR Parsing - BECKY
 http://www.cs.brandeis.edu/~xuen/publications/wang-2015-naacl.pdf
 
 (10 pages) We present a two-stage framework to parse a sentence into its Abstract Meaning Representation (AMR). We first use a dependency parser to generate a dependency tree for the sentence. In the second stage, we design a novel transition-based algorithm that transforms the dependency tree to an AMR graph. There are several advantages with this approach. First, the dependency parser can be trained on a training set much larger than the training set for the tree-to-graph algorithm, resulting in a more accurate AMR parser overall. Our parser yields an improvement of 5% absolute in F-measure over the best previous result. Second, the actions that we design are linguistically intuitive and capture the regularities in the mapping between the dependency structure and the AMR of a sentence. Third, our parser runs in nearly linear time in practice in spite of a worst-case complexity of O(n 2 ).
 
-## Unsupervised Morphology Induction Using Word Embeddings
+## Unsupervised Morphology Induction Using Word Embeddings - NICK
 http://www.aclweb.org/anthology/N15-1186.pdf
 
 (11 pages) We present a language agnostic, unsupervised method for inducing morphological transformations between words. The method relies on certain regularities manifest in high-dimensional vector spaces. We show that this method is capable of discovering a wide range of morphological rules, which in turn are used to build morphological analyzers. We evaluate this method across six different languages and nine datasets, and show significant improvements across all languages.
 
 # Proposed by Enrique:
 
-## Improving Topic Models with Latent Feature Word Representations
+## Improving Topic Models with Latent Feature Word Representations - ENRIQUE
 https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/582/158
 
 (15 pages) Probabilistic topic models are widely used to discover latent topics in document collections, while latent feature vector representations of words have been used to obtain high performance in many NLP tasks. In this paper, we extend two different Dirichlet multinomial topic models by incorporating latent feature vector representations of words trained on very large corpora to improve the word-topic mapping learnt on a smaller corpus. Experimental results show that by using information from the external corpora, our new models produce significant improvements on topic coherence, document clustering and document classification tasks, especially on datasets with few or short documents.
