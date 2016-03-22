@@ -14,3 +14,8 @@ http://research.microsoft.com/pubs/254916/emnlp2015kgtext.pdf
 
 ## Harnessing Deep Neural Networks with Logic Rules
 http://arxiv.org/abs/1603.06318
+
+# Proposed by Michael:
+
+## A Persona-based Neural Conversation Model
+http://arxiv.org/pdf/1603.06155.pdf
