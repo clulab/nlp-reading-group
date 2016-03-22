@@ -11,3 +11,6 @@ http://arxiv.org/abs/1603.04351
 
 ## Representing Text for Joint Embedding of Text and Knowledge Bases
 http://research.microsoft.com/pubs/254916/emnlp2015kgtext.pdf
+
+## Harnessing Deep Neural Networks with Logic Rules
+http://arxiv.org/abs/1603.06318
