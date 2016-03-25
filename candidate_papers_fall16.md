@@ -15,6 +15,9 @@ http://research.microsoft.com/pubs/254916/emnlp2015kgtext.pdf
 ## Harnessing Deep Neural Networks with Logic Rules
 http://arxiv.org/abs/1603.06318
 
+## Probabilistic Reasoning via Deep Learning: Neural Association Models
+http://arxiv.org/abs/1603.07704
+
 # Proposed by Michael:
 
 ## A Persona-based Neural Conversation Model
