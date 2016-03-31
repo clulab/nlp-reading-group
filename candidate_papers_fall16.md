@@ -22,3 +22,8 @@ http://arxiv.org/abs/1603.07704
 
 ## A Persona-based Neural Conversation Model
 http://arxiv.org/pdf/1603.06155.pdf
+
+# Proposed by Marco:
+
+## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
+http://arxiv.org/pdf/1603.07954v1.pdf
