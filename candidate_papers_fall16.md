@@ -27,3 +27,6 @@ http://arxiv.org/pdf/1603.06155.pdf
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
 http://arxiv.org/pdf/1603.07954v1.pdf
+
+## A Fast Unified Model for Parsing and Sentence Understanding
+http://arxiv.org/pdf/1603.06021.pdf
