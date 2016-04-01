@@ -23,6 +23,10 @@ http://arxiv.org/abs/1603.07704
 ## A Persona-based Neural Conversation Model
 http://arxiv.org/pdf/1603.06155.pdf
 
+##Neural Machine Translation By Jointly Learning to Align and Translate
+###The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
+http://arxiv.org/pdf/1409.0473.pdf
+
 # Proposed by Marco:
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
