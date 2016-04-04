@@ -1,5 +1,8 @@
 # Proposed by Mihai:
 
+## Building Machines That Learn and Think Like People
+http://arxiv.org/abs/1604.00289
+
 ## Visualizing and Understanding Neural Models in NLP
 http://arxiv.org/abs/1506.01066
 
