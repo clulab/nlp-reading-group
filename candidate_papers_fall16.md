@@ -24,8 +24,12 @@ http://arxiv.org/abs/1603.07704
 http://arxiv.org/pdf/1603.06155.pdf
 
 ##Neural Machine Translation By Jointly Learning to Align and Translate
-###The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
+The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
 http://arxiv.org/pdf/1409.0473.pdf
+
+##Deep Networks with Stochastic Depth
+Summarized in this blog post: http://deliprao.com/archives/134
+http://arxiv.org/abs/1603.09382v1
 
 # Proposed by Marco:
 
