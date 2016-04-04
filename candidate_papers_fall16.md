@@ -27,6 +27,9 @@ http://arxiv.org/pdf/1603.06155.pdf
 ###The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
 http://arxiv.org/pdf/1409.0473.pdf
 
+##Learning to Tranduce with Unbounded Memory
+Comes up with the idea of "neural stacks"
+http://arxiv.org/pdf/1506.02516.pdf
 # Proposed by Marco:
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
