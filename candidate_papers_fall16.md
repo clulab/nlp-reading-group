@@ -40,3 +40,6 @@ http://arxiv.org/pdf/1603.07954v1.pdf
 
 ## A Fast Unified Model for Parsing and Sentence Understanding
 http://arxiv.org/pdf/1603.06021.pdf
+
+## Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary
+https://aclweb.org/anthology/Q/Q15/Q15-1019.pdf
