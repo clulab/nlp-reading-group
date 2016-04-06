@@ -1,5 +1,8 @@
 # Proposed by Mihai:
 
+## Question Answering with Subgraph Embeddings
+http://arxiv.org/pdf/1406.3676v3.pdf
+
 ## Building Machines That Learn and Think Like People
 http://arxiv.org/abs/1604.00289
 
