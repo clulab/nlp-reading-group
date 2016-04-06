@@ -46,3 +46,6 @@ http://arxiv.org/pdf/1603.06021.pdf
 
 ## Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary
 https://aclweb.org/anthology/Q/Q15/Q15-1019.pdf
+
+## Learning to Generate Posters of Scientific Papers
+http://arxiv.org/pdf/1604.01219v1.pdf
