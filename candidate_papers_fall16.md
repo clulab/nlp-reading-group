@@ -30,12 +30,16 @@ http://arxiv.org/abs/1603.07704
 http://arxiv.org/pdf/1603.06155.pdf
 
 ##Neural Machine Translation By Jointly Learning to Align and Translate
-###The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
+The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
 http://arxiv.org/pdf/1409.0473.pdf
 
 ##Learning to Tranduce with Unbounded Memory
 Comes up with the idea of "neural stacks"
 http://arxiv.org/pdf/1506.02516.pdf
+
+##A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories
+https://arxiv.org/pdf/1604.01696v1
+
 # Proposed by Marco:
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
