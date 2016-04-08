@@ -54,5 +54,8 @@ http://arxiv.org/pdf/1603.06021.pdf
 ## Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary
 https://aclweb.org/anthology/Q/Q15/Q15-1019.pdf
 
+## Long Short-Term Memory-Networks for Machine Reading
+https://arxiv.org/pdf/1601.06733v5
+
 ## Learning to Generate Posters of Scientific Papers
 http://arxiv.org/pdf/1604.01219v1.pdf
