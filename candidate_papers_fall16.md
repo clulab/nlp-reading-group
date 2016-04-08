@@ -40,6 +40,9 @@ http://arxiv.org/pdf/1506.02516.pdf
 ##A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories
 https://arxiv.org/pdf/1604.01696v1
 
+##Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves
+https://arxiv.org/pdf/1604.02038v1
+
 # Proposed by Marco:
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
