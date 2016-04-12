@@ -66,5 +66,8 @@ https://arxiv.org/pdf/1601.06733v5
 ## End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures
 http://arxiv.org/pdf/1601.00770v2.pdf
 
+## Augur: Mining Human Behaviors from Fiction to Power Interactive Systems
+http://hci.stanford.edu/publications/augur-chi-2016.pdf
+
 ## Learning to Generate Posters of Scientific Papers
 http://arxiv.org/pdf/1604.01219v1.pdf
