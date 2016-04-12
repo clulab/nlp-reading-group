@@ -46,6 +46,9 @@ https://arxiv.org/pdf/1604.02038v1
 ##Using Sentence-Level LSTM Language Models for Script Inference
 https://arxiv.org/pdf/1604.02993v1
 
+##“Why Should I Trust You?” Explaining the Predictions of Any Classifier
+http://arxiv.org/pdf/1602.04938v1.pdf
+
 # Proposed by Marco:
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
