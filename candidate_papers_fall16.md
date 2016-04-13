@@ -24,6 +24,9 @@ http://arxiv.org/abs/1603.06318
 ## Probabilistic Reasoning via Deep Learning: Neural Association Models
 http://arxiv.org/abs/1603.07704
 
+## Symbolic Knowledge Extraction using Lukasiewicz Logics
+https://arxiv.org/abs/1604.03099#
+
 # Proposed by Michael:
 
 ## A Persona-based Neural Conversation Model
