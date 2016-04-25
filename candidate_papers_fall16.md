@@ -40,9 +40,6 @@ http://arxiv.org/pdf/1409.0473.pdf
 Comes up with the idea of "neural stacks"
 http://arxiv.org/pdf/1506.02516.pdf
 
-##A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories
-https://arxiv.org/pdf/1604.01696v1
-
 ##Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves
 https://arxiv.org/pdf/1604.02038v1
 
@@ -51,6 +48,9 @@ https://arxiv.org/pdf/1604.02993v1
 
 ##“Why Should I Trust You?” Explaining the Predictions of Any Classifier
 http://arxiv.org/pdf/1602.04938v1.pdf
+
+##Dialogue-based Language Learning
+https://arxiv.org/pdf/1604.06045v1
 
 # Proposed by Marco:
 
