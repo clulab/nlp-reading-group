@@ -52,6 +52,9 @@ http://arxiv.org/pdf/1602.04938v1.pdf
 ##Dialogue-based Language Learning
 https://arxiv.org/pdf/1604.06045v1
 
+##Easy-First Dependency Parsing with Hierarchical Tree LSTMs
+http://arxiv.org/pdf/1603.00375v1.pdf
+
 # Proposed by Marco:
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
