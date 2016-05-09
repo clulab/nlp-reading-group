@@ -55,6 +55,9 @@ https://arxiv.org/pdf/1604.06045v1
 ##Easy-First Dependency Parsing with Hierarchical Tree LSTMs
 http://arxiv.org/pdf/1603.00375v1.pdf
 
+##Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
+http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf
+
 # Proposed by Marco:
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
