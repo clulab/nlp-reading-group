@@ -1,5 +1,8 @@
 # Proposed by Mihai:
 
+## Globally Normalized Transition-based Neural Networks
+http://arxiv.org/pdf/1603.06042v1.pdf
+
 ## Question Answering with Subgraph Embeddings
 http://arxiv.org/pdf/1406.3676v3.pdf
 
