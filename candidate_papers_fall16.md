@@ -1,5 +1,8 @@
 # Proposed by Mihai:
 
+## Knowledge Base Unification via Sense Embeddings and Disambiguation
+https://www.semanticscholar.org/paper/Knowledge-Base-Unification-via-Sense-Embeddings-Bovi-Anke/874b8e70bc560315c21cd2692037f079e623347d/pdf
+
 ## Globally Normalized Transition-based Neural Networks
 http://arxiv.org/pdf/1603.06042v1.pdf
 
