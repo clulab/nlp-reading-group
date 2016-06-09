@@ -64,6 +64,13 @@ http://arxiv.org/pdf/1603.00375v1.pdf
 ##Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
 http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf
 
+##BLACKOUT: Speeding Up Recurrent Neural Network Language Models With Very Large Vocabularies
+http://arxiv.org/pdf/1511.06909v7.pdf
+
+##Deep Networks with Stochastic Depth
+Summarized in this blog post: http://deliprao.com/archives/134
+http://arxiv.org/abs/1603.09382v1
+
 # Proposed by Marco:
 
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
