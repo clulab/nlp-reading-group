@@ -73,6 +73,12 @@ http://arxiv.org/abs/1603.09382v1
 
 # Proposed by Marco:
 
+## Concept Grounding to Multiple Knowledge Bases via Indirect Supervision
+https://aclweb.org/anthology/Q/Q16/Q16-1011.pdf
+
+## Joint Extraction of Events and Entities within a Document Context
+http://www.cs.cmu.edu/~bishan/papers/joint_event_naacl16.pdf
+
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
 http://arxiv.org/pdf/1603.07954v1.pdf
 
