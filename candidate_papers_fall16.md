@@ -79,6 +79,9 @@ https://aclweb.org/anthology/Q/Q16/Q16-1011.pdf
 ## Joint Extraction of Events and Entities within a Document Context
 http://www.cs.cmu.edu/~bishan/papers/joint_event_naacl16.pdf
 
+## Bidirectional RNN for Medical Event Detection in Electronic Health Records
+http://aclweb.org/anthology/N/N16/N16-1056.pdf
+
 ## Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning
 http://arxiv.org/pdf/1603.07954v1.pdf
 
