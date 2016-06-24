@@ -105,3 +105,15 @@ https://arxiv.org/abs/1604.05781
 
 ## Learning to Generate Posters of Scientific Papers
 http://arxiv.org/pdf/1604.01219v1.pdf
+
+# Proposed by Dane:
+
+## Word Sense Disambiguation with Neural Language Models
+http://arxiv.org/pdf/1603.07012.pdf
+
+## Explaining Predictions of Non-Linear Classifiers in NLP
+https://arxiv.org/pdf/1606.07298v1.pdf
+
+## On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
+
