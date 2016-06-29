@@ -1,5 +1,8 @@
 # Proposed by Mihai:
 
+## Matching Networks for One Shot Learning
+http://arxiv.org/pdf/1606.04080v1.pdf
+
 ## Knowledge Base Unification via Sense Embeddings and Disambiguation
 https://www.semanticscholar.org/paper/Knowledge-Base-Unification-via-Sense-Embeddings-Bovi-Anke/874b8e70bc560315c21cd2692037f079e623347d/pdf
 
