@@ -1,5 +1,8 @@
 # Proposed by Mihai:
 
+Learning Language Games through Interaction
+http://arxiv.org/pdf/1606.02447.pdf
+
 ## Matching Networks for One Shot Learning
 http://arxiv.org/pdf/1606.04080v1.pdf
 
