@@ -41,6 +41,13 @@ https://arxiv.org/abs/1604.03099#
 
 # Proposed by Michael:
 
+## Tutorial on Reinforcement Learning
+https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
+### Playing Atari with Deep Reinforcement Learning
+http://arxiv.org/pdf/1312.5602v1.pdf
+### Deep Reinforcement Learning for Dialogue Generation
+https://arxiv.org/pdf/1606.01541v3.pdf
+
 ## A Persona-based Neural Conversation Model
 http://arxiv.org/pdf/1603.06155.pdf
 
@@ -55,14 +62,8 @@ http://arxiv.org/pdf/1506.02516.pdf
 ##Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves
 https://arxiv.org/pdf/1604.02038v1
 
-##Using Sentence-Level LSTM Language Models for Script Inference
-https://arxiv.org/pdf/1604.02993v1
-
 ##“Why Should I Trust You?” Explaining the Predictions of Any Classifier
 http://arxiv.org/pdf/1602.04938v1.pdf
-
-##Dialogue-based Language Learning
-https://arxiv.org/pdf/1604.06045v1
 
 ##Easy-First Dependency Parsing with Hierarchical Tree LSTMs
 http://arxiv.org/pdf/1603.00375v1.pdf
