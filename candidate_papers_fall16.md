@@ -80,6 +80,12 @@ http://arxiv.org/abs/1603.09382v1
 
 # Proposed by Marco:
 
+## Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey
+https://arxiv.org/abs/1605.07895
+
+## Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation, Context, and Association Features
+http://acl2014.org/acl2014/P14-1/pdf/P14-1093.pdf
+
 ## Concept Grounding to Multiple Knowledge Bases via Indirect Supervision
 https://aclweb.org/anthology/Q/Q16/Q16-1011.pdf
 
