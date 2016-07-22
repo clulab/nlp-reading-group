@@ -122,11 +122,13 @@ http://arxiv.org/pdf/1604.01219v1.pdf
 # Proposed by Dane:
 
 ## Word Sense Disambiguation with Neural Language Models
-http://arxiv.org/pdf/1603.07012.pdf
+http://arxiv.org/abs/1603.07012
 
 ## Explaining Predictions of Non-Linear Classifiers in NLP
-https://arxiv.org/pdf/1606.07298v1.pdf
+https://arxiv.org/abs/1606.07298
 
 ## On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
 
+## Enriching Word Vectors with Subword Information
+https://arxiv.org/abs/1607.04606
