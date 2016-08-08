@@ -1,6 +1,6 @@
 # Proposed by Mihai:
 
-Learning Language Games through Interaction
+## Learning Language Games through Interaction
 http://arxiv.org/pdf/1606.02447.pdf
 
 ## Matching Networks for One Shot Learning
@@ -48,35 +48,35 @@ http://arxiv.org/pdf/1312.5602v1.pdf
 ### Deep Reinforcement Learning for Dialogue Generation
 https://arxiv.org/pdf/1606.01541v3.pdf
 
-## A Persona-based Neural Conversation Model
-http://arxiv.org/pdf/1603.06155.pdf
-
-##Neural Machine Translation By Jointly Learning to Align and Translate
+## Neural Machine Translation By Jointly Learning to Align and Translate
 The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
 http://arxiv.org/pdf/1409.0473.pdf
 
-##Learning to Tranduce with Unbounded Memory
+## Learning to Tranduce with Unbounded Memory
 Comes up with the idea of "neural stacks"
 http://arxiv.org/pdf/1506.02516.pdf
 
-##Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves
-https://arxiv.org/pdf/1604.02038v1
-
-##“Why Should I Trust You?” Explaining the Predictions of Any Classifier
+## “Why Should I Trust You?” Explaining the Predictions of Any Classifier
 http://arxiv.org/pdf/1602.04938v1.pdf
 
-##Easy-First Dependency Parsing with Hierarchical Tree LSTMs
-http://arxiv.org/pdf/1603.00375v1.pdf
+## A Neural Knowledge Language Model
+http://arxiv.org/abs/1608.00318
 
-##Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
+## A Persona-based Neural Conversation Model
+http://arxiv.org/pdf/1603.06155.pdf
+
+## Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
 http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf
 
-##BLACKOUT: Speeding Up Recurrent Neural Network Language Models With Very Large Vocabularies
+## BLACKOUT: Speeding Up Recurrent Neural Network Language Models With Very Large Vocabularies
 http://arxiv.org/pdf/1511.06909v7.pdf
 
-##Deep Networks with Stochastic Depth
+## Deep Networks with Stochastic Depth
 Summarized in this blog post: http://deliprao.com/archives/134
 http://arxiv.org/abs/1603.09382v1
+
+## Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves
+https://arxiv.org/pdf/1604.02038v1
 
 # Proposed by Marco:
 
