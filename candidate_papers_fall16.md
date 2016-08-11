@@ -43,6 +43,7 @@ https://arxiv.org/abs/1604.03099#
 
 ## Tutorial on Reinforcement Learning
 https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
+http://blog.deeprobotics.es/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/07/10/rl-tutorial/
 ### Playing Atari with Deep Reinforcement Learning
 http://arxiv.org/pdf/1312.5602v1.pdf
 ### Deep Reinforcement Learning for Dialogue Generation
