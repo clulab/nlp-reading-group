@@ -48,6 +48,9 @@ http://arxiv.org/pdf/1312.5602v1.pdf
 ### Deep Reinforcement Learning for Dialogue Generation
 https://arxiv.org/pdf/1606.01541v3.pdf
 
+##Linear Algebraic Structure of Word Senses, with Applications to Polysemy
+https://arxiv.org/pdf/1601.03764v1.pdf
+
 ## Neural Machine Translation By Jointly Learning to Align and Translate
 The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
 http://arxiv.org/pdf/1409.0473.pdf
