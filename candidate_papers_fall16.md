@@ -136,3 +136,10 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140
 
 ## Enriching Word Vectors with Subword Information
 https://arxiv.org/abs/1607.04606
+
+
+# Proposed by Gus:
+
+## Improving Hypernymy Detection with an Integrated Path-based and Distributional Method
+http://arxiv.org/abs/1603.06076
+
