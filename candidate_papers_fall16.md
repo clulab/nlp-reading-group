@@ -49,8 +49,14 @@ http://arxiv.org/pdf/1312.5602v1.pdf
 ### Deep Reinforcement Learning for Dialogue Generation
 https://arxiv.org/pdf/1606.01541v3.pdf
 
+##Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks
+http://arxiv.org/pdf/1608.04207v1.pdf
+
 ##Linear Algebraic Structure of Word Senses, with Applications to Polysemy
 https://arxiv.org/pdf/1601.03764v1.pdf
+
+## “Why Should I Trust You?” Explaining the Predictions of Any Classifier
+http://arxiv.org/pdf/1602.04938v1.pdf
 
 ## Neural Machine Translation By Jointly Learning to Align and Translate
 The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
@@ -59,9 +65,6 @@ http://arxiv.org/pdf/1409.0473.pdf
 ## Learning to Tranduce with Unbounded Memory
 Comes up with the idea of "neural stacks"
 http://arxiv.org/pdf/1506.02516.pdf
-
-## “Why Should I Trust You?” Explaining the Predictions of Any Classifier
-http://arxiv.org/pdf/1602.04938v1.pdf
 
 ## A Neural Knowledge Language Model
 http://arxiv.org/abs/1608.00318
