@@ -87,6 +87,15 @@ https://arxiv.org/pdf/1604.02038v1
 
 # Proposed by Marco:
 
+## Constraint Detection in Natural Language Problem Descriptions
+http://lia.disi.unibo.it/~ml/publications/IJCAI2016.pdf
+
+## Sparse Word Embeddings Using L1 Regularized Online Learning
+http://www.ijcai.org/Proceedings/16/Papers/414.pdf
+
+## Knowledge Representation Learning with Entities, Attributes and Relations
+http://www.ijcai.org/Proceedings/16/Papers/407.pdf
+
 ## Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey
 https://arxiv.org/abs/1605.07895
 
