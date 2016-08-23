@@ -58,6 +58,9 @@ https://arxiv.org/pdf/1601.03764v1.pdf
 ## “Why Should I Trust You?” Explaining the Predictions of Any Classifier
 http://arxiv.org/pdf/1602.04938v1.pdf
 
+##Logic Tensor Networks: Deep Learning and Logical Reasoning from Data and Knowledge
+https://arxiv.org/pdf/1606.04422v2.pdf
+
 ## Neural Machine Translation By Jointly Learning to Align and Translate
 The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
 http://arxiv.org/pdf/1409.0473.pdf
