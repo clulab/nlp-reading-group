@@ -1,5 +1,17 @@
 # Proposed by Mihai:
 
+## Combining Natural Logic and Shallow Reasoning for Question Answering
+http://nlp.stanford.edu/pubs/angeli2016naturalli.pdf
+
+## Easy Questions First? A Case Study on Curriculum Learning for Question Answering
+http://www.cs.cmu.edu/~epxing/papers/2016/Sachan_Xing_ACL16a.pdf
+
+## Unsupervised Person Slot Filling based on Graph Mining
+http://nlp.cs.rpi.edu/paper/sfgraph2016.pdf
+
+## A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task
+https://arxiv.org/abs/1606.02858
+
 ## Learning Language Games through Interaction
 http://arxiv.org/pdf/1606.02447.pdf
 
