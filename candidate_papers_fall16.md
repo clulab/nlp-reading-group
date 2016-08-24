@@ -105,7 +105,7 @@ https://arxiv.org/pdf/1604.02038v1
 ## Constraint Detection in Natural Language Problem Descriptions
 http://lia.disi.unibo.it/~ml/publications/IJCAI2016.pdf
 
-## Sparse Word Embeddings Using L1 Regularized Online Learning
+## Sparse Word Embeddings Using L1 Regularized Online Learning (skip)
 http://www.ijcai.org/Proceedings/16/Papers/414.pdf
 
 ## Knowledge Representation Learning with Entities, Attributes and Relations
@@ -144,10 +144,10 @@ http://arxiv.org/pdf/1601.00770v2.pdf
 ## Augur: Mining Human Behaviors from Fiction to Power Interactive Systems
 http://hci.stanford.edu/publications/augur-chi-2016.pdf
 
-## What we write about when we write about causality: Features of causal statements across large-scale social discourse
+## What we write about when we write about causality: Features of causal statements across large-scale social discourse (skip)
 https://arxiv.org/abs/1604.05781
 
-## Learning to Generate Posters of Scientific Papers
+## Learning to Generate Posters of Scientific Papers (skip)
 http://arxiv.org/pdf/1604.01219v1.pdf
 
 # Proposed by Dane:
