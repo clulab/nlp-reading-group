@@ -64,7 +64,7 @@ https://arxiv.org/pdf/1606.01541v3.pdf
 ##Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks
 http://arxiv.org/pdf/1608.04207v1.pdf
 
-##Linear Algebraic Structure of Word Senses, with Applications to Polysemy
+##Linear Algebraic Structure of Word Senses, with Applications to Polysemy (SKIP)
 https://arxiv.org/pdf/1601.03764v1.pdf
 
 ## “Why Should I Trust You?” Explaining the Predictions of Any Classifier
@@ -77,7 +77,7 @@ https://arxiv.org/pdf/1606.04422v2.pdf
 The seminal paper that introduces an "attention mechanism" to sequence-to-sequence models
 http://arxiv.org/pdf/1409.0473.pdf
 
-## Learning to Tranduce with Unbounded Memory
+## Learning to Tranduce with Unbounded Memory (SKIP)
 Comes up with the idea of "neural stacks"
 http://arxiv.org/pdf/1506.02516.pdf
 
@@ -87,17 +87,17 @@ http://arxiv.org/abs/1608.00318
 ## A Persona-based Neural Conversation Model
 http://arxiv.org/pdf/1603.06155.pdf
 
-## Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks
+## Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks (SKIP)
 http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf
 
-## BLACKOUT: Speeding Up Recurrent Neural Network Language Models With Very Large Vocabularies
+## BLACKOUT: Speeding Up Recurrent Neural Network Language Models With Very Large Vocabularies (SKIP)
 http://arxiv.org/pdf/1511.06909v7.pdf
 
 ## Deep Networks with Stochastic Depth
 Summarized in this blog post: http://deliprao.com/archives/134
 http://arxiv.org/abs/1603.09382v1
 
-## Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves
+## Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves (SKIP)
 https://arxiv.org/pdf/1604.02038v1
 
 # Proposed by Marco:
