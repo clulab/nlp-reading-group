@@ -170,3 +170,16 @@ https://arxiv.org/abs/1607.04606
 ## Improving Hypernymy Detection with an Integrated Path-based and Distributional Method
 http://arxiv.org/abs/1603.06076
 
+# Proposed by Carlos:
+
+## Supersparse linear models for interpretable classification
+https://arxiv.org/abs/1306.6677
+
+## Explaining the predictions of any classifier
+
+## Semantics derived automatically from language corpora necessarily contain human biases
+http://randomwalker.info/publications/language-bias.pdf
+
+## Visualizing and Understanding Recurrent Networks
+https://arxiv.org/abs/1506.02078
+
