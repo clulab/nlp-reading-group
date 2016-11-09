@@ -40,3 +40,8 @@ http://aclweb.org/anthology/D/D16/D16-1209.pdf
 
 ### A Decomposable Attention Model for Natural Language Inference
 http://aclweb.org/anthology/D/D16/D16-1244.pdf
+
+# Proposed by Robert:
+
+### Emergence of Gricean Maxims from Multi-Agent Decision Theory
+http://nlp.stanford.edu/pubs/cards-naacl2013.pdf
