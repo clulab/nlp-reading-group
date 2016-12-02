@@ -30,6 +30,9 @@ https://arxiv.org/abs/1611.05104
 ### Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks
 https://arxiv.org/abs/1607.01426
 
+### Decoding the Thought Vector (blog)
+http://gabgoh.github.io/ThoughtVectors/
+
 # Proposed by Steven:
 
 ### TODO: Social impact of NLP
