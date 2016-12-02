@@ -50,6 +50,9 @@ http://aclweb.org/anthology/D/D16/D16-1209.pdf
 ### A Decomposable Attention Model for Natural Language Inference
 http://aclweb.org/anthology/D/D16/D16-1244.pdf
 
+### Quasi-Recurrent Neural Networks
+https://arxiv.org/pdf/1611.01576v2.pdf
+
 # Proposed by Robert:
 
 ### Emergence of Gricean Maxims from Multi-Agent Decision Theory
