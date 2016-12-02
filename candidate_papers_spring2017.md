@@ -36,22 +36,23 @@ https://arxiv.org/abs/1607.01426
 
 # Proposed by Michael:
 
-### Evaluating Word Embeddings Using a Representative Suite of Practical Tasks
-http://www.aclweb.org/anthology/W/W16/W16-2504.pdf
-### Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks
-https://arxiv.org/pdf/1608.04207v1.pdf
+### Evaluating Word Embeddings Using a Representative Suite of Practical Tasks AND Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks
+http://www.aclweb.org/anthology/W/W16/W16-2504.pdf and https://arxiv.org/pdf/1608.04207v1.pdf
+
+### Learning to Transduce with Unbounded Memory 
+https://arxiv.org/pdf/1506.02516v3.pdf
 
 ### Rationale-Augmented Convolutional Neural Networks for Text Classification
 http://aclweb.org/anthology/D/D16/D16-1076.pdf
-
-### Gated Word-Character Recurrent Language Model
-http://aclweb.org/anthology/D/D16/D16-1209.pdf
 
 ### A Decomposable Attention Model for Natural Language Inference
 http://aclweb.org/anthology/D/D16/D16-1244.pdf
 
 ### Quasi-Recurrent Neural Networks
 https://arxiv.org/pdf/1611.01576v2.pdf
+
+### Dialogue Learning with Human-in-the-loop
+https://arxiv.org/pdf/1611.09823v1.pdf
 
 # Proposed by Robert:
 
