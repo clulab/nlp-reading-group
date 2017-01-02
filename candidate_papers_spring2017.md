@@ -39,6 +39,9 @@ http://gabgoh.github.io/ThoughtVectors/
 
 # Proposed by Michael:
 
+### Understanding Neural Networks through Representation Erasure
+https://arxiv.org/pdf/1612.08220.pdf
+
 ### Evaluating Word Embeddings Using a Representative Suite of Practical Tasks AND Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks
 http://www.aclweb.org/anthology/W/W16/W16-2504.pdf and https://arxiv.org/pdf/1608.04207v1.pdf
 
