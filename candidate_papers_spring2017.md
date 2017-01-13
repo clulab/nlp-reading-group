@@ -6,7 +6,7 @@ https://arxiv.org/abs/1306.6677
 # Proposed by Clay:
 
 ### Generative Adversarial Nets
-http://papers.nips.cc/paper/5423-generative-adversarial
+https://papers.nips.cc/paper/5423-generative-adversarial-nets
 
 # Proposed by Marco:
 
