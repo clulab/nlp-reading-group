@@ -19,3 +19,7 @@ https://arxiv.org/abs/1701.08734
 
 ## Be Precise or Fuzzy: Learning the Meaning of Cardinals and Quantifiers from Vision
 https://arxiv.org/abs/1702.05270
+
+# Proposed by Heather
+## Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs)
+https://arxiv.org/abs/1511.06434
