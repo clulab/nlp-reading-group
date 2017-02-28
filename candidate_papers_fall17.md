@@ -8,6 +8,9 @@ https://arxiv.org/pdf/1702.01417.pdf
 ## Data Programming: Machine Learning with Weak Supervision (blog)
 http://hazyresearch.github.io/snorkel/blog/weak_supervision.html
 
+## On the Origin of Deep Learning
+https://arxiv.org/pdf/1702.07800.pdf
+
 # Proposed by Ajay
 
 ## Optimizing Multivariate Performance Measures for Learning Relation Extraction Models
