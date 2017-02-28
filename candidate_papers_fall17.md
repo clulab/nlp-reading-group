@@ -11,6 +11,9 @@ http://hazyresearch.github.io/snorkel/blog/weak_supervision.html
 ## On the Origin of Deep Learning
 https://arxiv.org/pdf/1702.07800.pdf
 
+## DYNAMIC COATTENTION NETWORKS FOR QUESTION ANSWERING
+https://arxiv.org/pdf/1611.01604.pdf
+
 # Proposed by Ajay
 
 ## Optimizing Multivariate Performance Measures for Learning Relation Extraction Models
