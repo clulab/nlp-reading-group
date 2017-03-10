@@ -29,3 +29,7 @@ https://arxiv.org/abs/1702.05270
 # Proposed by Heather
 ## Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs)
 https://arxiv.org/abs/1511.06434
+
+# Proposed by Michael
+## FairML
+http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
