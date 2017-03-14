@@ -14,6 +14,9 @@ https://arxiv.org/pdf/1702.07800.pdf
 ## DYNAMIC COATTENTION NETWORKS FOR QUESTION ANSWERING
 https://arxiv.org/pdf/1611.01604.pdf
 
+## Evolution Strategies as a Scalable Alternative to Reinforcement Learning
+https://arxiv.org/abs/1703.03864
+
 # Proposed by Ajay
 
 ## Optimizing Multivariate Performance Measures for Learning Relation Extraction Models
