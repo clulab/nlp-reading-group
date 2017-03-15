@@ -36,3 +36,9 @@ https://arxiv.org/abs/1511.06434
 # Proposed by Michael
 ## FairML
 http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
+
+## Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics
+http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning-tagging.pdf
+
+## A JOINT MANY-TASK MODEL: GROWING A NEURAL NETWORK FOR MULTIPLE NLP TASKS
+https://openreview.net/pdf?id=SJZAb5cel
