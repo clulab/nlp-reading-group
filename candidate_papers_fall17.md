@@ -17,6 +17,9 @@ https://arxiv.org/pdf/1611.01604.pdf
 ## Evolution Strategies as a Scalable Alternative to Reinforcement Learning
 https://arxiv.org/abs/1703.03864
 
+## Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling
+https://arxiv.org/abs/1703.04826
+
 # Proposed by Ajay
 
 ## Optimizing Multivariate Performance Measures for Learning Relation Extraction Models
