@@ -37,11 +37,15 @@ https://arxiv.org/abs/1702.05270
 https://arxiv.org/abs/1511.06434
 
 # Proposed by Michael
-## FairML
+
+## FairML (blog post)
 http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
 
 ## Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics
 http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning-tagging.pdf
 
-## A JOINT MANY-TASK MODEL: GROWING A NEURAL NETWORK FOR MULTIPLE NLP TASKS
+## A Joint Many-task Model: Growing a Neural Network for Multiple NLP Tasks
 https://openreview.net/pdf?id=SJZAb5cel
+
+## Learning When to Skim and When to Read (blog post)
+https://metamind.io/research/learning-when-to-skim-and-when-to-read
