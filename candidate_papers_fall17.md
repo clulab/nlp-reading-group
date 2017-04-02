@@ -44,8 +44,8 @@ http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-
 ## Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics
 http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning-tagging.pdf
 
-## A Joint Many-task Model: Growing a Neural Network for Multiple NLP Tasks
-https://openreview.net/pdf?id=SJZAb5cel
+## Reasoning with Neural Tensor Networks for KB completion
+https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf
 
 ## Learning When to Skim and When to Read (blog post)
 https://metamind.io/research/learning-when-to-skim-and-when-to-read
