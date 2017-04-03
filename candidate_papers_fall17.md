@@ -42,10 +42,16 @@ https://arxiv.org/abs/1511.06434
 http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
 
 ## Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics
+## Linguistically Naive != Language Independent: Why NLP Needs Linguistic Typology
 http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning-tagging.pdf
+http://www.aclweb.org/anthology/W/W09/W09-0106.pdf
 
 ## Reasoning with Neural Tensor Networks for KB completion
 https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf
 
 ## Learning When to Skim and When to Read (blog post)
 https://metamind.io/research/learning-when-to-skim-and-when-to-read
+
+## Evolution Strategies as a Scalable Alternative to Reinforcement Learning
+paper: https://arxiv.org/pdf/1703.03864.pdf
+blog: https://blog.openai.com/evolution-strategies/
