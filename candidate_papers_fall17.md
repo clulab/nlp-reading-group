@@ -55,3 +55,6 @@ https://metamind.io/research/learning-when-to-skim-and-when-to-read
 ## Evolution Strategies as a Scalable Alternative to Reinforcement Learning
 paper: https://arxiv.org/pdf/1703.03864.pdf
 blog: https://blog.openai.com/evolution-strategies/
+
+## Learning Distributed Representations of Sentences from Unlabelled Data
+https://arxiv.org/pdf/1602.03483.pdf
