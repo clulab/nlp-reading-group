@@ -46,9 +46,6 @@ http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-
 http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning-tagging.pdf
 http://www.aclweb.org/anthology/W/W09/W09-0106.pdf
 
-## Reasoning with Neural Tensor Networks for KB completion
-https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf
-
 ## Learning When to Skim and When to Read (blog post)
 https://metamind.io/research/learning-when-to-skim-and-when-to-read
 
@@ -58,3 +55,6 @@ blog: https://blog.openai.com/evolution-strategies/
 
 ## Learning Distributed Representations of Sentences from Unlabelled Data
 https://arxiv.org/pdf/1602.03483.pdf
+
+## Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks
+https://arxiv.org/pdf/1702.05870.pdf
