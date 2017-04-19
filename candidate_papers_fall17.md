@@ -58,3 +58,17 @@ https://arxiv.org/pdf/1602.03483.pdf
 
 ## Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks
 https://arxiv.org/pdf/1702.05870.pdf
+
+# Proposed by Gus
+
+## Overcoming Catastrophic Forgetting in Neural Networks
+https://arxiv.org/abs/1612.00796
+http://rylanschaeffer.github.io/content/research/overcoming_catastrophic_forgetting/main.html
+
+## Random synaptic feedback weights support error backpropagation for deep learning
+https://www.nature.com/articles/ncomms13276
+http://www.breloff.com/no-backprop-part1/
+http://www.breloff.com/no-backprop-part2/
+
+## A Graph-based algorithm for inducing lexical taxonomies from scratch
+http://wwwusers.di.uniroma1.it/~navigli/pubs/IJCAI_2011_Navigli_Velardi_Faralli.pdf
