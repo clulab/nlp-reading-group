@@ -2,7 +2,7 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
-### [Summer 2017 Get-Togethers](https://drive.google.com/open?id=1xDcrzUs24GrJGCIGO4GhkAWCa4U&usp=sharing)
+### [Summer 2017 Get-Togethers](https://github.com/clulab/nlp-reading-group/wiki/Summer-2017-Schedule)
 
 We'll have an informal get together every other Thursday from 3:30 - 5:00 at Connect CoWorking downtown.  Each session someone will present something more "practical" in nature (an implementation, a new software, a problem they are having.
 
