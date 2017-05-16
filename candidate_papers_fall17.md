@@ -53,8 +53,13 @@ https://metamind.io/research/learning-when-to-skim-and-when-to-read
 paper: https://arxiv.org/pdf/1703.03864.pdf
 blog: https://blog.openai.com/evolution-strategies/
 
-## Learning Distributed Representations of Sentences from Unlabelled Data
-https://arxiv.org/pdf/1602.03483.pdf
+## Learning to Act By Predicting the Future
+paper: https://openreview.net/pdf?id=rJLS7qKel
+blog: https://blog.acolyer.org/2017/05/12/learning-to-act-by-predicting-the-future/
+
+## Understanding Deep Learning Requires Rethinking Generalization
+paper: https://openreview.net/pdf?id=Sy8gdB9xx
+blog: https://blog.acolyer.org/2017/05/11/understanding-deep-learning-requires-re-thinking-generalization/
 
 ## Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks
 https://arxiv.org/pdf/1702.05870.pdf
