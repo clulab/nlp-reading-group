@@ -5,6 +5,9 @@ https://arxiv.org/pdf/1702.01417.pdf
 
 # Proposed by Mihai:
 
+## UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION
+https://openreview.net/forum?id=Sy8gdB9xx&noteId=Sy8gdB9xx
+
 ## Data Programming: Machine Learning with Weak Supervision (blog)
 http://hazyresearch.github.io/snorkel/blog/weak_supervision.html
 
