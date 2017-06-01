@@ -7,6 +7,7 @@ https://arxiv.org/pdf/1702.01417.pdf
 
 ## UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION
 https://openreview.net/forum?id=Sy8gdB9xx&noteId=Sy8gdB9xx
+blog: https://blog.acolyer.org/2017/05/11/understanding-deep-learning-requires-re-thinking-generalization/
 
 ## Data Programming: Machine Learning with Weak Supervision (blog)
 http://hazyresearch.github.io/snorkel/blog/weak_supervision.html
@@ -19,6 +20,7 @@ https://arxiv.org/pdf/1611.01604.pdf
 
 ## Evolution Strategies as a Scalable Alternative to Reinforcement Learning
 https://arxiv.org/abs/1703.03864
+blog: https://blog.openai.com/evolution-strategies/
 
 ## Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling
 https://arxiv.org/abs/1703.04826
@@ -53,17 +55,9 @@ http://www.aclweb.org/anthology/W/W09/W09-0106.pdf
 ## Adversarial Generation of Natural Language
 https://arxiv.org/pdf/1705.10929.pdf
 
-## Evolution Strategies as a Scalable Alternative to Reinforcement Learning
-paper: https://arxiv.org/pdf/1703.03864.pdf
-blog: https://blog.openai.com/evolution-strategies/
-
 ## Learning to Act By Predicting the Future
 paper: https://openreview.net/pdf?id=rJLS7qKel
 blog: https://blog.acolyer.org/2017/05/12/learning-to-act-by-predicting-the-future/
-
-## Understanding Deep Learning Requires Rethinking Generalization
-paper: https://openreview.net/pdf?id=Sy8gdB9xx
-blog: https://blog.acolyer.org/2017/05/11/understanding-deep-learning-requires-re-thinking-generalization/
 
 ## Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks
 https://arxiv.org/pdf/1702.05870.pdf
