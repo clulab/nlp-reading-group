@@ -36,6 +36,7 @@ https://arxiv.org/abs/1701.08734
 https://arxiv.org/abs/1702.05270
 
 # Proposed by Heather
+
 ## Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs)
 https://arxiv.org/abs/1511.06434
 
@@ -49,8 +50,8 @@ http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-
 http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning-tagging.pdf
 http://www.aclweb.org/anthology/W/W09/W09-0106.pdf
 
-## Learning When to Skim and When to Read (blog post)
-https://metamind.io/research/learning-when-to-skim-and-when-to-read
+## Adversarial Generation of Natural Language
+https://arxiv.org/pdf/1705.10929.pdf
 
 ## Evolution Strategies as a Scalable Alternative to Reinforcement Learning
 paper: https://arxiv.org/pdf/1703.03864.pdf
