@@ -5,6 +5,9 @@ https://arxiv.org/pdf/1702.01417.pdf
 
 # Proposed by Mihai:
 
+## Reading Wikipedia to Answer Open-Domain Questions
+https://nlp.stanford.edu/pubs/chen2017reading.pdf
+
 ## UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION
 https://openreview.net/forum?id=Sy8gdB9xx&noteId=Sy8gdB9xx
 blog: https://blog.acolyer.org/2017/05/11/understanding-deep-learning-requires-re-thinking-generalization/
