@@ -56,7 +56,9 @@ http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning
 http://www.aclweb.org/anthology/W/W09/W09-0106.pdf
 
 ## Adversarial Generation of Natural Language
-https://arxiv.org/pdf/1705.10929.pdf
+https://arxiv.org/pdf/1705.10929.pdf (bad review from Goldberg)
+## Language Generation with Recurrent Generative Adversarial Networks without Pre-training
+https://arxiv.org/pdf/1706.01399.pdf
 
 ## Learning to Act By Predicting the Future
 paper: https://openreview.net/pdf?id=rJLS7qKel
