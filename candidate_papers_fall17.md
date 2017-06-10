@@ -67,6 +67,9 @@ blog: https://blog.acolyer.org/2017/05/12/learning-to-act-by-predicting-the-futu
 ## Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks
 https://arxiv.org/pdf/1702.05870.pdf
 
+## Self-Normalizing Neural Networks
+https://arxiv.org/pdf/1706.02515.pdf
+
 # Proposed by Gus
 
 ## Overcoming Catastrophic Forgetting in Neural Networks
