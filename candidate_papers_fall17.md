@@ -83,3 +83,7 @@ http://www.breloff.com/no-backprop-part2/
 
 ## A Graph-based algorithm for inducing lexical taxonomies from scratch
 http://wwwusers.di.uniroma1.it/~navigli/pubs/IJCAI_2011_Navigli_Velardi_Faralli.pdf
+
+# Proposed by Adam
+## Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
+https://arxiv.org/pdf/1607.06520.pdf
