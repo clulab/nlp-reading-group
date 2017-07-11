@@ -90,3 +90,7 @@ http://wwwusers.di.uniroma1.it/~navigli/pubs/IJCAI_2011_Navigli_Velardi_Faralli.
 # Proposed by Adam
 ## Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
 https://arxiv.org/pdf/1607.06520.pdf
+
+# Proposed by John
+## A Simple but Tough-to-Beat Baseline for Sentence Embeddings
+https://openreview.net/pdf?id=SyK00v5xx
