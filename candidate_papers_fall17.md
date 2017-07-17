@@ -94,3 +94,6 @@ https://arxiv.org/pdf/1607.06520.pdf
 # Proposed by John
 ## A Simple but Tough-to-Beat Baseline for Sentence Embeddings
 https://openreview.net/pdf?id=SyK00v5xx
+
+## Ultradense Word Embeddings by Orthogonal Transformation
+https://arxiv.org/pdf/1602.07572.pdf
