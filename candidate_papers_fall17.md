@@ -5,6 +5,9 @@ https://arxiv.org/pdf/1702.01417.pdf
 
 # Proposed by Mihai:
 
+## Adversarial Sets for Regularising Neural Link Predictors
+https://arxiv.org/abs/1707.07596
+
 ## Reading Wikipedia to Answer Open-Domain Questions
 https://nlp.stanford.edu/pubs/chen2017reading.pdf
 
