@@ -3,6 +3,7 @@
 ## All-but-the-Top: Simple and Effective Postprocessing for Word Representations
 https://arxiv.org/pdf/1702.01417.pdf
 
+
 # Proposed by Mihai:
 
 ## Adversarial Sets for Regularising Neural Link Predictors
@@ -31,10 +32,12 @@ blog: https://blog.openai.com/evolution-strategies/
 ## Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling
 https://arxiv.org/abs/1703.04826
 
+
 # Proposed by Ajay
 
 ## Optimizing Multivariate Performance Measures for Learning Relation Extraction Models
 https://www.semanticscholar.org/paper/Optimizing-Multivariate-Performance-Measures-for-Haffari-Nagesh/39a4df0e88eba81d5cea53eaf57295f914099586
+
 
 # Proposed by Dane:
 ## PathNet: Evolution Channels Gradient Descent in Super Neural Networks
@@ -46,17 +49,21 @@ https://arxiv.org/abs/1702.05270
 ## Explaining Recurrent Neural Network Predictions in Sentiment Analysis
 https://arxiv.org/abs/1706.07206
 
+
 # Proposed by Heather
 
 ## Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs)
 https://arxiv.org/abs/1511.06434
+
 
 # Proposed by Michael
 
 ## FairML (blog post)
 http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
 
-## Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics
+## Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?  
+https://nlp.stanford.edu/~manning/papers/CICLing2011-manning-tagging.pdf
+
 ## Linguistically Naive != Language Independent: Why NLP Needs Linguistic Typology
 http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning-tagging.pdf
 http://www.aclweb.org/anthology/W/W09/W09-0106.pdf
@@ -67,7 +74,7 @@ https://arxiv.org/pdf/1705.10929.pdf (bad review from Goldberg)
 https://arxiv.org/pdf/1706.01399.pdf
 
 ## Learning to Act By Predicting the Future
-paper: https://openreview.net/pdf?id=rJLS7qKel
+paper: https://openreview.net/pdf?id=rJLS7qKel  
 blog: https://blog.acolyer.org/2017/05/12/learning-to-act-by-predicting-the-future/
 
 ## Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks
@@ -76,7 +83,17 @@ https://arxiv.org/pdf/1702.05870.pdf
 ## Self-Normalizing Neural Networks
 https://arxiv.org/pdf/1706.02515.pdf
 
+
 # Proposed by Gus
+
+## VERB PHYSICS: Relative Physical Knowledge of Actions and Objects
+http://www.aclweb.org/anthology/P17-1025
+
+## Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules
+http://www.aclweb.org/anthology/P17-1006
+
+## Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix
+http://www.aclweb.org/anthology/P17-1040
 
 ## Overcoming Catastrophic Forgetting in Neural Networks
 https://arxiv.org/abs/1612.00796
@@ -89,6 +106,7 @@ http://www.breloff.com/no-backprop-part2/
 
 ## A Graph-based algorithm for inducing lexical taxonomies from scratch
 http://wwwusers.di.uniroma1.it/~navigli/pubs/IJCAI_2011_Navigli_Velardi_Faralli.pdf
+
 
 # Proposed by Adam
 ## Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
