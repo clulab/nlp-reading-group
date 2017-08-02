@@ -107,6 +107,25 @@ http://www.breloff.com/no-backprop-part2/
 ## A Graph-based algorithm for inducing lexical taxonomies from scratch
 http://wwwusers.di.uniroma1.it/~navigli/pubs/IJCAI_2011_Navigli_Velardi_Faralli.pdf
 
+## Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf
+
+## Machine Science
+http://www.jstor.org.ezproxy4.library.arizona.edu/stable/40731977?pq-origsite=summon&seq=1#page_scan_tab_contents (requires NetID login)
+
+## Reading the web with learned syntactic-semantic inference rules
+https://www.cs.cmu.edu/~nlao/publication/2012/2012.emnlp.paper.pdf
+
+## A review of relational machine learning for knowledge graphs
+https://arxiv.org/pdf/1503.00759.pdf
+
+## Knowledge vault: A web-scale approach to probabilistic knowledge fusion
+https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf
+
+## Traversing knowledge graphs in vector space
+http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP038.pdf
+
+
 
 # Proposed by Adam
 ## Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
