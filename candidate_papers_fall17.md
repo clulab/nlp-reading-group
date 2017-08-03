@@ -128,6 +128,8 @@ https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf
 ## Traversing knowledge graphs in vector space
 http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP038.pdf
 
+## Language to Logical Form with Neural Attention
+http://www.aclweb.org/anthology/P16-1004
 
 # Proposed by Adam
 ## Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
