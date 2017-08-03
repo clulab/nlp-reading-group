@@ -129,7 +129,6 @@ https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf
 http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP038.pdf
 
 
-
 # Proposed by Adam
 ## Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
 https://arxiv.org/pdf/1607.06520.pdf
