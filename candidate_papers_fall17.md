@@ -6,6 +6,9 @@ https://arxiv.org/pdf/1702.01417.pdf
 
 # Proposed by Mihai:
 
+## Multi-Task Video Captioning with Video and Entailment Generation
+https://arxiv.org/abs/1704.07489
+
 ## Adversarial Sets for Regularising Neural Link Predictors
 https://arxiv.org/abs/1707.07596
 
