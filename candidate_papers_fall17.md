@@ -3,6 +3,9 @@
 ## All-but-the-Top: Simple and Effective Postprocessing for Word Representations
 https://arxiv.org/pdf/1702.01417.pdf
 
+## Deep Learning for NLP Best Practices
+http://ruder.io/deep-learning-nlp-best-practices/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_66
+
 
 # Proposed by Mihai:
 
