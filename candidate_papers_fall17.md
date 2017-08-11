@@ -144,3 +144,6 @@ https://openreview.net/pdf?id=SyK00v5xx
 
 ## Ultradense Word Embeddings by Orthogonal Transformation
 https://arxiv.org/pdf/1602.07572.pdf
+
+## Enhancing Word Vectors with Subword Information
+https://arxiv.org/pdf/1607.04606.pdf
