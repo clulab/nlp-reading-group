@@ -64,31 +64,21 @@ https://arxiv.org/abs/1511.06434
 
 # Proposed by Michael
 
-## FairML (blog post)
-http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html
-
 ## Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?  
-https://nlp.stanford.edu/~manning/papers/CICLing2011-manning-tagging.pdf
-
 ## Linguistically Naive != Language Independent: Why NLP Needs Linguistic Typology
 http://machinelearningtext.pbworks.com/w/file/fetch/48157747/CICLing2011-manning-tagging.pdf
 http://www.aclweb.org/anthology/W/W09/W09-0106.pdf
 
-## Adversarial Generation of Natural Language
-https://arxiv.org/pdf/1705.10929.pdf (bad review from Goldberg)
+## Adversarial Generation of Natural Language (bad review from Goldberg)
 ## Language Generation with Recurrent Generative Adversarial Networks without Pre-training
+https://arxiv.org/pdf/1705.10929.pdf 
 https://arxiv.org/pdf/1706.01399.pdf
 
-## Learning to Act By Predicting the Future
-paper: https://openreview.net/pdf?id=rJLS7qKel  
-blog: https://blog.acolyer.org/2017/05/12/learning-to-act-by-predicting-the-future/
+## A Structured Self-Attentive Sentence Embedding
+https://openreview.net/pdf?id=BJC_jUqxe
 
-## Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks
-https://arxiv.org/pdf/1702.05870.pdf
-
-## Self-Normalizing Neural Networks
-https://arxiv.org/pdf/1706.02515.pdf
-
+## Visually Grounded and Textual Semantic Models Differentially Decode Brain Activity Associated with Concrete and Abstract Nouns
+https://transacl.org/ojs/index.php/tacl/article/view/879/223
 
 # Proposed by Gus
 
