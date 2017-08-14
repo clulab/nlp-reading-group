@@ -77,8 +77,8 @@ https://arxiv.org/pdf/1706.01399.pdf
 ## A Structured Self-Attentive Sentence Embedding
 https://openreview.net/pdf?id=BJC_jUqxe
 
-## Visually Grounded and Textual Semantic Models Differentially Decode Brain Activity Associated with Concrete and Abstract Nouns
-https://transacl.org/ojs/index.php/tacl/article/view/879/223
+## Supervised Learning of Universal Sentence Representations from Natural Language Inference Data
+https://arxiv.org/pdf/1705.02364.pdf
 
 # Proposed by Gus
 
