@@ -140,3 +140,6 @@ https://arxiv.org/pdf/1602.07572.pdf
 
 ## Enhancing Word Vectors with Subword Information
 https://arxiv.org/pdf/1607.04606.pdf
+
+## Men Also Like Shopping: Reducing Gender Bias Using Corpus-level Constraints
+https://arxiv.org/abs/1707.09457
