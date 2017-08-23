@@ -77,8 +77,8 @@ https://arxiv.org/pdf/1706.01399.pdf
 ## A Structured Self-Attentive Sentence Embedding
 https://openreview.net/pdf?id=BJC_jUqxe
 
-## Supervised Learning of Universal Sentence Representations from Natural Language Inference Data
-https://arxiv.org/pdf/1705.02364.pdf
+## Twin Networks: Using the Future as a Regularizer
+https://arxiv.org/pdf/1708.06742.pdf
 
 ## What Analogies Reveal About Word Vectors and Their Compositionality
 https://aclweb.org/anthology/S/S17/S17-1001.pdf
