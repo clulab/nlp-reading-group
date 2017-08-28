@@ -78,7 +78,7 @@ https://arxiv.org/pdf/1706.01399.pdf
 https://openreview.net/pdf?id=BJC_jUqxe
 
 ## Wide and Deep Learning for Recommender Systems
-https://arxiv.org/pdf/1606.07792.pdf
+paper: https://arxiv.org/pdf/1606.07792.pdf  blog/tutorial: https://www.tensorflow.org/tutorials/wide_and_deep 
 
 ## What Analogies Reveal About Word Vectors and Their Compositionality
 https://aclweb.org/anthology/S/S17/S17-1001.pdf
