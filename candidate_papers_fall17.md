@@ -74,8 +74,8 @@ http://www.aclweb.org/anthology/W/W09/W09-0106.pdf
 https://arxiv.org/pdf/1705.10929.pdf 
 https://arxiv.org/pdf/1706.01399.pdf
 
-## A Structured Self-Attentive Sentence Embedding
-https://openreview.net/pdf?id=BJC_jUqxe
+## Adversarial Examples for Evaluating Reading Comprehension Systems
+https://nlp.stanford.edu/pubs/jia2017adversarial.pdf
 
 ## Wide and Deep Learning for Recommender Systems
 paper: https://arxiv.org/pdf/1606.07792.pdf  blog/tutorial: https://www.tensorflow.org/tutorials/wide_and_deep 
