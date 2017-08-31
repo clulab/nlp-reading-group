@@ -143,3 +143,15 @@ https://arxiv.org/abs/1707.09457
 
 ##Confounds and Consequences in Geotagged Twitter Data
 https://arxiv.org/pdf/1506.02275.pdf
+
+
+# Proposed by Clay
+
+## Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data (ICML 2017)
+http://proceedings.mlr.press/v70/zaheer17a.html
+
+## Discovering Structure in High-Dimensional Data Through Correlation Explanation (AISTATS 2015)
+https://arxiv.org/abs/1406.1222
+
+## The Information Sieve (related to above) (ICML 2016)
+https://arxiv.org/abs/1507.02284
