@@ -192,3 +192,11 @@ extended version: https://arxiv.org/pdf/1707.06799.pdf
 
 ## Hybrid computing using a neural network with dynamic external memory
 https://www.nature.com/nature/journal/v538/n7626/pdf/nature20101.pdf
+
+# Proposed by Dongfang
+## Comparative Study of CNN and RNN for Natural Language Processing
+https://arxiv.org/pdf/1702.01923.pdf
+
+## Fast and Accurate Entity Recognition with Iterated Dilated Convolutions
+https://arxiv.org/pdf/1702.02098.pdf
+
