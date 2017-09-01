@@ -182,7 +182,7 @@ https://arxiv.org/pdf/1602.07572.pdf
 ## Men Also Like Shopping: Reducing Gender Bias Using Corpus-level Constraints
 https://arxiv.org/abs/1707.09457
 
-##Confounds and Consequences in Geotagged Twitter Data
+## Confounds and Consequences in Geotagged Twitter Data
 https://arxiv.org/pdf/1506.02275.pdf
 
 
