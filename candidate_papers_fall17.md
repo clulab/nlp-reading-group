@@ -244,6 +244,9 @@ http://www.aclweb.org/anthology/P/P17/P17-1007.pdf
 http://www.aclweb.org/anthology/P/P17/P17-1025.pdf
 
 
+## Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules
+http://www.aclweb.org/anthology/P/P17/P17-1006.pdf
+
 ## Automatically Generating Rhythmic Verse with Neural Networks
 http://www.aclweb.org/anthology/P/P17/P17-1016.pdf
 
