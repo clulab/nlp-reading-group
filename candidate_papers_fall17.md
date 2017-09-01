@@ -223,3 +223,6 @@ https://arxiv.org/pdf/1702.01923.pdf
 ## Fast and Accurate Entity Recognition with Iterated Dilated Convolutions
 https://arxiv.org/pdf/1702.02098.pdf
 
+# Proposed by Vikas
+## Crowdsourcing Multiple Choice Science Questions
+https://arxiv.org/pdf/1707.06209.pdf
