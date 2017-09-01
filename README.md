@@ -2,6 +2,14 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
+### [Fall 2017 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/FALL-2017-Reading-Schedule)
+
+The group will be meeting nearly every Friday during the Fall 2017 semester on the ninth floor of [Gould-Simpson](http://map.arizona.edu) from 2-3PM in room 906. 
+  
+Everyone is welcome to participate (faculty and students alike).  The only expectation is that participants read the paper scheduled for that week ahead of time.
+  
+
+
 ### [Summer 2017 Get-Togethers](https://github.com/clulab/nlp-reading-group/wiki/Summer-2017-Schedule)
 
 We'll have an informal get together every other Thursday from 3:30 - 5:00 at Connect CoWorking downtown.  Each session someone will present something more "practical" in nature (an implementation, a new software, a problem they are having.
