@@ -155,3 +155,17 @@ https://arxiv.org/abs/1406.1222
 
 ## The Information Sieve (related to above) (ICML 2016)
 https://arxiv.org/abs/1507.02284
+
+# Proposed by Enrique
+
+## DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning
+https://arxiv.org/abs/1707.06690
+
+## Learning how to Active Learn: A Deep Reinforcement Learning Approach
+https://arxiv.org/abs/1708.02383
+
+## Task-Oriented Query Reformulation with Reinforcement Learning
+https://arxiv.org/abs/1704.04572
+
+## Learning to Paraphrase for Question Answering
+https://arxiv.org/abs/1708.06022
