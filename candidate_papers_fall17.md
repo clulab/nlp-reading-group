@@ -1,3 +1,7 @@
+# Vote here: 
+https://docs.google.com/spreadsheets/d/1S3afCApltgDAJx7vXIy7vSGV65dA6aind4aJjXi1NEw/edit?usp=sharing
+
+
 # Proposed by Becky:
 
 ## All-but-the-Top: Simple and Effective Postprocessing for Word Representations
