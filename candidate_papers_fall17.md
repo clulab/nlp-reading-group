@@ -188,7 +188,7 @@ https://arxiv.org/abs/1708.06022
 
 ## Optimal Hyperparameters for Deep LSTM-Networks for Sequence Labeling Tasks
 https://arxiv.org/pdf/1707.09861.pdf
-https://arxiv.org/pdf/1707.06799.pdf
+(emnlp 2017 paper): https://arxiv.org/pdf/1707.06799.pdf
 
 ## Hybrid computing using a neural network with dynamic external memory
 https://www.nature.com/nature/journal/v538/n7626/pdf/nature20101.pdf
