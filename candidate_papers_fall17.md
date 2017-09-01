@@ -97,8 +97,20 @@ paper: https://arxiv.org/pdf/1606.07792.pdf  blog/tutorial: https://www.tensorfl
 ## What Analogies Reveal About Word Vectors and Their Compositionality
 https://aclweb.org/anthology/S/S17/S17-1001.pdf
 
+# Proposed by Marco
+
+Hierarchical clustering
+## Discovering Structure in High-Dimensional Data Through Correlation Explanation
+http://arxiv.org/abs/1406.1222
+https://github.com/gregversteeg/CorEx
+https://github.com/gregversteeg/bio_corex/
+
+## Maximally Informative Hierarchical Representions of High-Dimensional Data
+http://arxiv.org/abs/1410.7404
+
 # Proposed by Gus
 
+From ACL 2017
 ## VERB PHYSICS: Relative Physical Knowledge of Actions and Objects
 http://www.aclweb.org/anthology/P17-1025
 
@@ -108,23 +120,12 @@ http://www.aclweb.org/anthology/P17-1006
 ## Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix
 http://www.aclweb.org/anthology/P17-1040
 
-## Overcoming Catastrophic Forgetting in Neural Networks
-https://arxiv.org/abs/1612.00796
-http://rylanschaeffer.github.io/content/research/overcoming_catastrophic_forgetting/main.html
+## Abstract  Syntax Networks for Code Generation and Semantic Parsing
+http://aclanthology.info/papers/P17-1105/abstract-syntax-networks-for-code-generation-and-semantic-parsing
 
-## Random synaptic feedback weights support error backpropagation for deep learning
-https://www.nature.com/articles/ncomms13276
-http://www.breloff.com/no-backprop-part1/
-http://www.breloff.com/no-backprop-part2/
-
+IE and Knowledge Graphs
 ## A Graph-based algorithm for inducing lexical taxonomies from scratch
 http://wwwusers.di.uniroma1.it/~navigli/pubs/IJCAI_2011_Navigli_Velardi_Faralli.pdf
-
-## Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records  
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf
-
-## Machine Science
-http://www.jstor.org.ezproxy4.library.arizona.edu/stable/40731977?pq-origsite=summon&seq=1#page_scan_tab_contents (requires NetID login)
 
 ## Reading the web with learned syntactic-semantic inference rules
 https://www.cs.cmu.edu/~nlao/publication/2012/2012.emnlp.paper.pdf
@@ -138,8 +139,30 @@ https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf
 ## Traversing knowledge graphs in vector space
 http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP038.pdf
 
+Logical Form
 ## Language to Logical Form with Neural Attention
 http://www.aclweb.org/anthology/P16-1004
+
+## LangPro: Natural Language Theorem Prover
+https://arxiv.org/abs/1708.09417
+
+Biomedical applications of NLP, etc.
+## Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4869115/pdf/srep26094.pdf
+
+## Machine Science
+http://www.jstor.org.ezproxy4.library.arizona.edu/stable/40731977?pq-origsite=summon&seq=1#page_scan_tab_contents (requires NetID login)
+
+Not NLP
+## Overcoming Catastrophic Forgetting in Neural Networks
+https://arxiv.org/abs/1612.00796
+http://rylanschaeffer.github.io/content/research/overcoming_catastrophic_forgetting/main.html
+
+## Random synaptic feedback weights support error backpropagation for deep learning
+https://www.nature.com/articles/ncomms13276
+http://www.breloff.com/no-backprop-part1/
+http://www.breloff.com/no-backprop-part2/
+
 
 # Proposed by Adam
 ## Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
