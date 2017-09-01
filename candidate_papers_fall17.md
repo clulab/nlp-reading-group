@@ -230,3 +230,22 @@ https://arxiv.org/pdf/1702.02098.pdf
 # Proposed by Vikas
 ## Crowdsourcing Multiple Choice Science Questions
 https://arxiv.org/pdf/1707.06209.pdf
+
+
+# Proposed by Mithun
+##Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning
+http://www.aclweb.org/anthology/P/P17/P17-1066.pdf
+
+## Skip-Gram – Zipf + Uniform = Vector Additivity
+http://www.aclweb.org/anthology/P/P17/P17-1007.pdf
+
+
+##VERB PHYSICS: Relative Physical Knowledge of Actions and Objects
+http://www.aclweb.org/anthology/P/P17/P17-1025.pdf
+
+
+##Automatically Generating Rhythmic Verse with Neural Networks
+http://www.aclweb.org/anthology/P/P17/P17-1016.pdf
+
+
+
