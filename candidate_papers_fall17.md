@@ -9,11 +9,25 @@ http://ruder.io/deep-learning-nlp-best-practices/?utm_campaign=Artificial%2BInte
 
 # Proposed by Mihai:
 
+## Adversarial Examples for Evaluating Reading Comprehension Systems
+https://arxiv.org/pdf/1707.07328.pdf
+Reading comprehension systems are not comprehending
+
+## Understanding Black-box Predictions via Influence Functions
+https://arxiv.org/pdf/1703.04730.pdf
+Fundamental for interpretability
+
+## On the State of the Art of Evaluation in Neural Language Models
+https://arxiv.org/pdf/1707.05589.pdf
+LSTMs still the best
+
 ## Multi-Task Video Captioning with Video and Entailment Generation
 https://arxiv.org/abs/1704.07489
+Multi-modal learning
 
 ## Adversarial Sets for Regularising Neural Link Predictors
 https://arxiv.org/abs/1707.07596
+Nice example of how to use adversarial examples for RE
 
 ## Reading Wikipedia to Answer Open-Domain Questions
 https://nlp.stanford.edu/pubs/chen2017reading.pdf
