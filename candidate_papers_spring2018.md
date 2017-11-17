@@ -3,9 +3,6 @@
 ### On the State of the Art of Evaluation in Neural Language Models
 https://openreview.net/pdf?id=ByJHuTgA-
 
-### Evolution Strategies as a Scalable Alternative to Reinforcement Learning
-https://arxiv.org/abs/1703.03864 <br>
-blog: https://blog.openai.com/evolution-strategies/
 
 ### Dynamic Routing Between Capsules
 https://arxiv.org/pdf/1710.09829.pdf <br>
