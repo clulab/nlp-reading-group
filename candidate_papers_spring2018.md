@@ -1,3 +1,8 @@
+# Proposed by Mihai:
+
+### Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples
+https://arxiv.org/abs/1711.09576
+
 # Proposed by Michael:
 
 ### On the State of the Art of Evaluation in Neural Language Models
