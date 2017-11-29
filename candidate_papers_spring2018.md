@@ -17,3 +17,6 @@ https://arxiv.org/pdf/1710.09829.pdf <br>
 blog visualization: https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737 <br>
 blog explained: https://towardsdatascience.com/hinton-1e6d26a64bd6
 
+### Concrete Problems in AI Safety
+https://arxiv.org/pdf/1606.06565.pdf <br>
+blog: https://blog.acolyer.org/2017/11/29/concrete-problems-in-ai-safety/
