@@ -3,6 +3,9 @@
 ### Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples
 https://arxiv.org/abs/1711.09576
 
+### Distilling a Neural Network Into a Soft Decision Tree
+https://arxiv.org/abs/1711.09784
+
 # Proposed by Michael:
 
 ### On the State of the Art of Evaluation in Neural Language Models
