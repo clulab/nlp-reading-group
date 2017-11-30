@@ -20,3 +20,8 @@ blog explained: https://towardsdatascience.com/hinton-1e6d26a64bd6
 ### Concrete Problems in AI Safety
 https://arxiv.org/pdf/1606.06565.pdf <br>
 blog: https://blog.acolyer.org/2017/11/29/concrete-problems-in-ai-safety/
+
+# Proposed by Dane:
+
+### The Lifted Matrix-Space Model for Semantic Composition
+https://arxiv.org/abs/1711.03602
