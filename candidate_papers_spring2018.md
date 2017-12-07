@@ -21,6 +21,10 @@ blog explained: https://towardsdatascience.com/hinton-1e6d26a64bd6
 https://arxiv.org/pdf/1606.06565.pdf <br>
 blog: https://blog.acolyer.org/2017/11/29/concrete-problems-in-ai-safety/
 
+### Get To The Point: Summarization with Pointer-Generator Networks
+https://arxiv.org/pdf/1704.04368.pdf <br>
+blog: http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
+
 # Proposed by Dane:
 
 ### The Lifted Matrix-Space Model for Semantic Composition
