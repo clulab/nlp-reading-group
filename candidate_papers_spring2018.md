@@ -25,6 +25,11 @@ blog: https://blog.acolyer.org/2017/11/29/concrete-problems-in-ai-safety/
 https://arxiv.org/pdf/1704.04368.pdf <br>
 blog: http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
 
+### WORD TRANSLATION WITHOUT PARALLEL DATA
+https://arxiv.org/pdf/1710.04087.pdf
+### UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY
+https://arxiv.org/pdf/1711.00043.pdf
+
 # Proposed by Dane:
 
 ### The Lifted Matrix-Space Model for Semantic Composition
