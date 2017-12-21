@@ -11,7 +11,6 @@ https://arxiv.org/abs/1711.09784
 ### On the State of the Art of Evaluation in Neural Language Models
 https://openreview.net/pdf?id=ByJHuTgA-
 
-
 ### Dynamic Routing Between Capsules
 https://arxiv.org/pdf/1710.09829.pdf <br>
 blog visualization: https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737 <br>
@@ -29,6 +28,14 @@ blog: http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.
 https://arxiv.org/pdf/1710.04087.pdf
 ### UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY
 https://arxiv.org/pdf/1711.00043.pdf
+
+### Poincaré Embeddings for Learning Hierarchical Representations
+https://arxiv.org/pdf/1705.08039.pdf <br>
+blog of `gensim` implementation: https://rare-technologies.com/implementing-poincare-embeddings/
+
+### Alernatives to `word2vec`
+http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/ <br>
+http://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/
 
 # Proposed by Dane:
 
