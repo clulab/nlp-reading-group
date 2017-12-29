@@ -1,5 +1,8 @@
 # Proposed by Mihai:
 
+### A causal framework for explaining the predictions of black-box sequence-to-sequence models
+http://aclweb.org/anthology/D17-1042
+
 ### Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples
 https://arxiv.org/abs/1711.09576
 
