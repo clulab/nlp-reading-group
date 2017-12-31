@@ -36,6 +36,9 @@ https://arxiv.org/pdf/1711.00043.pdf
 https://arxiv.org/pdf/1705.08039.pdf <br>
 blog of `gensim` implementation: https://rare-technologies.com/implementing-poincare-embeddings/
 
+### Advances in Pre-Training Distributed Word Representations
+https://arxiv.org/pdf/1712.09405.pdf
+
 ### Alernatives to `word2vec`
 http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/ <br>
 http://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/
