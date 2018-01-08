@@ -43,6 +43,9 @@ https://arxiv.org/pdf/1712.09405.pdf
 http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/ <br>
 http://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/
 
+### A Unified Approach to Interpreting Model Predictions
+https://arxiv.org/abs/1705.07874
+
 # Proposed by Dane:
 
 ### The Lifted Matrix-Space Model for Semantic Composition
