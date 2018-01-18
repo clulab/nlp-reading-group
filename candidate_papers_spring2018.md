@@ -55,8 +55,11 @@ https://arxiv.org/abs/1711.03602
 
 ### Toward an Automatic Turing Test: Learning to Evaluate Dialogue Responses
 https://arxiv.org/pdf/1708.07149.pdf
+Tensorflow Implementation: https://github.com/Yoctol/ADEM
 
 ### Deep Keyphrase Generation
 https://arxiv.org/pdf/1704.06879.pdf
+Implementation: https://github.com/memray/seq2seq-keyphrase
+
 
 
