@@ -50,3 +50,13 @@ https://arxiv.org/abs/1705.07874
 
 ### The Lifted Matrix-Space Model for Semantic Composition
 https://arxiv.org/abs/1711.03602
+
+# Proposed by Megan:
+
+### Toward an Automatic Turing Test: Learning to Evaluate Dialogue Responses
+https://arxiv.org/pdf/1708.07149.pdf
+
+### Deep Keyphrase Generation
+https://arxiv.org/pdf/1704.06879.pdf
+
+
