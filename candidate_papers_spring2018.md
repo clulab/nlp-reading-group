@@ -82,3 +82,7 @@ https://arxiv.org/pdf/1711.09645.pdf
 ### Deep neural networks are more accurate than humans at detecting sexual orientation from facial images
 paper: https://psyarxiv.com/hv28a/ <br>
 blog: https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477 <br>
+
+# Proposed by Vikas:
+### Neural Generative Question Answering
+paper: https://www.ijcai.org/Proceedings/16/Papers/422.pdf 
