@@ -61,5 +61,16 @@ Tensorflow Implementation: https://github.com/Yoctol/ADEM
 https://arxiv.org/pdf/1704.06879.pdf
 Implementation: https://github.com/memray/seq2seq-keyphrase
 
-
-
+# Proposed by Fan:
+### Visual Storytelling
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/visionToLanguage2015_DataRelease-1.pdf
+### Combining Two and Three-Way Embeddings Models for Link Prediction in Knowledge Bases
+https://research.fb.com/publications/combining-two-and-three-way-embeddings-models-for-link-prediction-in-knowledge-bases/
+### Supervised Random Walks: Predicting and Recommending Links in Social Networks
+https://research.fb.com/publications/supervised-random-walks-predicting-and-recommending-links-in-social-networks/
+### STransE: a novel embedding model of entities and relationships in knowledge bases
+http://www.aclweb.org/anthology/N16-1054
+### GAKE: Graph Aware Knowledge Embedding
+http://www.aclweb.org/anthology/C16-1062
+### Neighborhood Mixture Model for Knowledge Base Completion
+http://www.aclweb.org/anthology/K16-1005
