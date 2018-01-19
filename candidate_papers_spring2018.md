@@ -104,3 +104,7 @@ paper: https://transacl.org/ojs/index.php/tacl/article/viewFile/761/190
 ### Navigating the Unsupervised Learning Landscape
 blog: https://medium.com/intuitionmachine/navigating-the-unsupervised-learning-landscape-951bd5842df9 <br>
 blog: https://towardsdatascience.com/a-new-kind-of-deep-neural-networks-749bcde19108
+
+# Proposed by Dongfang:
+### Attention is All You Need
+paper: https://arxiv.org/abs/1706.03762
