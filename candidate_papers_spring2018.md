@@ -89,7 +89,7 @@ paper: https://www.ijcai.org/Proceedings/16/Papers/422.pdf
 
 # Proposed by Ajay:
 ### Deep Learning: A Critical Appraisal 
-paper: https://arxiv.org/pdf/1801.00631.pdf 
+paper: https://arxiv.org/pdf/1801.00631.pdf <br>
 blog: https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1
 
 ### Semi-Supervised Learning with Ladder Networks
