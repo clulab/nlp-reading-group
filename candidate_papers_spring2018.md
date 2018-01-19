@@ -53,8 +53,6 @@ Implementation: https://github.com/memray/seq2seq-keyphrase
 # Proposed by Fan:
 ### Combining Two and Three-Way Embeddings Models for Link Prediction in Knowledge Bases
 https://research.fb.com/publications/combining-two-and-three-way-embeddings-models-for-link-prediction-in-knowledge-bases/
-### Supervised Random Walks: Predicting and Recommending Links in Social Networks
-https://research.fb.com/publications/supervised-random-walks-predicting-and-recommending-links-in-social-networks/
 ### STransE: a novel embedding model of entities and relationships in knowledge bases
 http://www.aclweb.org/anthology/N16-1054
 ### GAKE: Graph Aware Knowledge Embedding
