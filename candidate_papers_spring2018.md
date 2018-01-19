@@ -108,5 +108,5 @@ blog: https://towardsdatascience.com/a-new-kind-of-deep-neural-networks-749bcde1
 
 # Proposed by Dongfang:
 ### Attention is All You Need
-paper: https://arxiv.org/abs/1706.03762
+paper: https://arxiv.org/abs/1706.03762 <br>
 blog: https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.WmJexExFy8A
