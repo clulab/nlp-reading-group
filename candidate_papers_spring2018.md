@@ -77,7 +77,8 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296
 ### Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis
 https://arxiv.org/pdf/1711.09645.pdf
 
-# Proposed by Dongfang:
+# Proposed by Jack:
 
-### Attention is All You Need
-https://arxiv.org/abs/1706.03762
+### Deep neural networks are more accurate than humans at detecting sexual orientation from facial images
+paper: https://psyarxiv.com/hv28a/ <br>
+blog: https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477 <br>
