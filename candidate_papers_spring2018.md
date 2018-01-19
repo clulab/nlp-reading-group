@@ -52,6 +52,7 @@ Implementation: https://github.com/memray/seq2seq-keyphrase
 
 # Proposed by Fan:
 ### Combining Two and Three-Way Embeddings Models for Link Prediction in Knowledge Bases
+
 https://research.fb.com/publications/combining-two-and-three-way-embeddings-models-for-link-prediction-in-knowledge-bases/
 ### STransE: a novel embedding model of entities and relationships in knowledge bases
 http://www.aclweb.org/anthology/N16-1054
@@ -108,3 +109,4 @@ blog: https://towardsdatascience.com/a-new-kind-of-deep-neural-networks-749bcde1
 # Proposed by Dongfang:
 ### Attention is All You Need
 paper: https://arxiv.org/abs/1706.03762
+blog: https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.WmJexExFy8A
