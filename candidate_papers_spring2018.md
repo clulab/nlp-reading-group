@@ -32,17 +32,6 @@ https://arxiv.org/pdf/1710.04087.pdf
 ### UNSUPERVISED MACHINE TRANSLATION USING MONOLINGUAL CORPORA ONLY
 https://arxiv.org/pdf/1711.00043.pdf
 
-### Poincaré Embeddings for Learning Hierarchical Representations
-https://arxiv.org/pdf/1705.08039.pdf <br>
-blog of `gensim` implementation: https://rare-technologies.com/implementing-poincare-embeddings/
-
-### Advances in Pre-Training Distributed Word Representations
-https://arxiv.org/pdf/1712.09405.pdf
-
-### Alernatives to `word2vec`
-http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/ <br>
-http://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/
-
 ### A Unified Approach to Interpreting Model Predictions
 https://arxiv.org/abs/1705.07874
 
@@ -74,3 +63,15 @@ http://www.aclweb.org/anthology/N16-1054
 http://www.aclweb.org/anthology/C16-1062
 ### Neighborhood Mixture Model for Knowledge Base Completion
 http://www.aclweb.org/anthology/K16-1005
+
+# Proposed by Andrew Z:
+### Tagging Ingush
+https://aclanthology.info/papers/W16-4020/w16-4020
+### Bootstrapping a dependency parser for Maltese
+http://www.let.rug.nl/festschriftnerbonne/36.%20Tiedemann%20&%20van%20der%20Plas.pdf
+
+# Proposed by Adam:
+### emoji2vec: using emojis as "soft" sentiment labels
+https://arxiv.org/abs/1609.08359
+### Sentiment of Emojis
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296
