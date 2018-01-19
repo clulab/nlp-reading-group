@@ -77,6 +77,9 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296
 ### Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis
 https://arxiv.org/pdf/1711.09645.pdf
 
+### A Mention-Ranking Model for Abstract Anaphora Resolution
+https://pdfs.semanticscholar.org/23cb/3177bda037ce280c961bd5942a704f36a8dd.pdf?_ga=2.67370900.485365842.1516309163-628448526.1506713210
+
 # Proposed by Jack:
 
 ### Deep neural networks are more accurate than humans at detecting sexual orientation from facial images
