@@ -86,3 +86,14 @@ blog: https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-jus
 # Proposed by Vikas:
 ### Neural Generative Question Answering
 paper: https://www.ijcai.org/Proceedings/16/Papers/422.pdf 
+
+# Proposed by Ajay:
+### Deep Learning: A Critical Appraisal 
+paper: https://arxiv.org/pdf/1801.00631.pdf 
+blog: https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1
+
+### Semi-Supervised Learning with Ladder Networks
+paper: https://arxiv.org/pdf/1507.02672.pdf 
+
+### Discrete-State Variational Autoencoders for Joint Discovery and Factorization of Relations
+paper: https://transacl.org/ojs/index.php/tacl/article/viewFile/761/190
