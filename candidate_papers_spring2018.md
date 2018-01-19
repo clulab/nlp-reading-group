@@ -71,3 +71,8 @@ http://www.let.rug.nl/festschriftnerbonne/36.%20Tiedemann%20&%20van%20der%20Plas
 https://arxiv.org/abs/1609.08359
 ### Sentiment of Emojis
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296
+
+# Proposed by Becky:
+
+### Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis
+https://arxiv.org/pdf/1711.09645.pdf
