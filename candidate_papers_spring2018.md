@@ -51,8 +51,6 @@ https://arxiv.org/pdf/1704.06879.pdf
 Implementation: https://github.com/memray/seq2seq-keyphrase
 
 # Proposed by Fan:
-### Visual Storytelling
-https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/visionToLanguage2015_DataRelease-1.pdf
 ### Combining Two and Three-Way Embeddings Models for Link Prediction in Knowledge Bases
 https://research.fb.com/publications/combining-two-and-three-way-embeddings-models-for-link-prediction-in-knowledge-bases/
 ### Supervised Random Walks: Predicting and Recommending Links in Social Networks
