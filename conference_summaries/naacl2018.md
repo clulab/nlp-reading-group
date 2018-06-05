@@ -68,7 +68,7 @@ Based on theoretical reasoning it has been suggested that the reliability of fin
 ## DAY 2
 
 ### Keynote talk by Mari Ostendorf on the journey to build a "chitchat" conversational agent for the Alexa Challenge
-*Mihai's comments*:'s comments*: seq2seq models don't work for this task. 
+*Mihai's comments*: seq2seq models don't work for this task. 
 
 ## Neural Models of Factuality
 _Rachel Rudinger, Aaron Steven White, and Benjamin Van Durme_
@@ -96,3 +96,69 @@ _Ajay Nagesh and Mihai Surdeanu_
 We propose a novel approach to semi- supervised learning for information extraction that uses ladder networks (Rasmus et al., 2015). In particular, we focus on the task of named entity classification, defined as identifying the correct label (e.g., person or organization name) of an entity mention in a given context. Our approach is simple, efficient and has the benefit of being robust to semantic drift, a dominant problem in most semi- supervised learning systems. We empirically demonstrate the superior performance of our system compared to the state-of-the-art on two standard datasets for named entity classification. We obtain between 62% and 200% improvement over the state-of-art baseline on these two datasets.
 
 *Mihai's comments*: self promotion. One-shot learning is better than iterative bootstrapping.
+
+## DAY 3
+
+
+
+### A Neural Layered Model for Nested Named Entity Recognition
+_Meizhi Ju, Makoto Miwa, Sophia Ananiadou_
+
+Entity mentions embedded in longer entity mentions are referred to as nested entities. Most named entity recognition (NER) systems deal only with the flat entities and ignore the inner nested ones, which fails to capture finer-grained semantic information in underlying texts. To address this issue, we propose a novel neural model to identify nested entities by dynamically stacking flat NER layers. Each flat NER layer is based on the state-of-the-art flat NER model that captures sequential context representation with bidirectional Long Short-Term Memory (LSTM) layer and feeds it to the cascaded CRF layer. Our model merges the output of the LSTM layer in the current flat NER layer to build new representation for detected entities and subsequently feeds them into the next flat NER layer. This allows our model to extract outer entities by taking full advantage of information encoded in their corresponding inner entities, in an inside-to-outside way. Our model dynamically stacks the flat NER layers until no outer entities are extracted. Extensive evaluation shows that our dynamic model outperforms state-of-the-art feature-based systems on nested NER, achieving 74.7% and 72.2% on GENIA and ACE2005 datasets, respectively, in terms of F-score.
+
+*Mihai’s comments*: This is a beautifully simple take on nested NER: just recursively apply the same LSTM on the output of the previous one. Very easy to implement, good results.
+
+### KBGAN: Adversarial Learning for Knowledge Graph Embeddings
+_Liwei Cai and William Yang Wang_
+
+We introduce KBGAN, an adversarial learning framework to improve the performances of a wide range of existing knowledge graph embedding models. Because knowledge graphs typically only contain positive facts, sampling useful negative training examples is a nontrivial task. Replacing the head or tail entity of a fact with a uniformly randomly selected entity is a conventional method for generating negative facts, but the major- ity of the generated negative facts can be easily discriminated from positive facts, and will contribute little towards the training. Inspired by generative adversarial networks (GANs), we use one knowledge graph em- bedding model as a negative sample generator to assist the training of our desired model, which acts as the discriminator in GANs. This framework is independent of the concrete form of generator and discriminator, and therefore can utilize a wide variety of knowledge graph embedding models as its building blocks. In ex- periments, we adversarially train two translation-based models, TRANSE and TRANSD, each with assistance from one of the two probability-based models, DISTMULT and COMPLEX. We evaluate the performances of KBGAN on the link prediction task, using three knowledge base completion datasets: FB15k-237, WN18 and WN18RR. Experimental results show that adversarial training substantially improves the performances of target embedding models under various settings.
+
+*Mihai’s comments*: A GAN approach to choosing appropriate negative examples for bilinear relation extraction models. Cool. But how does this handle false negatives?
+
+### Learning Joint Semantic Parsers from Disjoint Data
+_Hao Peng, Sam Thomson, Swabha Swayamdipta, and Noah A. Smith_
+
+We present a new approach to learning a semantic parser from multiple datasets, even when the target semantic formalisms are drastically different and the underlying corpora do not overlap. We handle such “disjoint” data by treating annotations for unobserved formalisms as latent structured variables. Building on state-of-the- art baselines, we show improvements both in frame-semantic parsing and semantic dependency parsing by modeling them jointly.
+
+*Mihai’s comments*: multi-task learning for multiple semantic formalisms (PropBank + FrameNet). Instead of the usual sharing of parameters, they focus on joint decoding for the two tasks.
+
+### Variational Knowledge Graph Reasoning
+_Wenhu Chen, Wenhan Xiong, Xifeng Yan, and William Yang Wang_
+
+Inferring missing links in knowledge graphs (KG) has attracted a lot of attention from the research community. In this paper, we tackle a practical query answering task involving predicting the relation of a given entity pair. We frame this prediction problem as an inference problem in a probabilistic graphical model and aim at resolving it from a variational inference perspective. In order to model the relation between the query entity pair, we assume that there exists an underlying latent variable (paths connecting two nodes) in the KG, which carries the equivalent semantics of their relations. However, due to the intractability of connections in large KGs, we propose to use variation inference to maximize the evidence lower bound. More specifically, our framework (Diva) is composed of three modules, i.e. a posterior approximator, a prior (path finder), and a likelihood (path reasoner). By using variational inference, we are able to incorporate them closely into a unified architecture and jointly optimize them to perform KG reasoning. With active interactions among these sub-modules, DIVA is better at handling noise and coping with more complex reasoning scenarios. In order to evaluate our method, we conduct the experiment of the link prediction task on multiple datasets and achieve state-of-the-art performances on both datasets.
+
+*Mihai’s comments*: a variational inference take on the KB completion task for *compositional* approaches such as Cohen’s PRA. 
+
+### Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
+_Sarah Ita Levitan, Angel Maredia, and Julia Hirschberg_
+
+We explore deception detection in interview dialogues. We analyze a set of linguistic features in both truthful and deceptive responses to interview questions. We also study the perception of deception, identifying characteristics of statements that are perceived as truthful or deceptive by interviewers. Our analysis show significant differences between truthful and deceptive question responses, as well as variations in deception patterns across gender and native language. This analysis motivated our selection of features for machine learning experiments aimed at classifying globally deceptive speech. Our best classification performance is 72.74% F1-Score (about 17% better than human performance), which is achieved using a combination of linguistic features and individual traits.
+
+*Mihai’s comments*: Several interesting linguistic cues that indicate deception. This might be applicable to the identification of fake news?
+
+### Non-Projective Dependency Parsing with Non-Local Transitions
+_Daniel Fernández-González and Carlos Gómez-Rodríguez_
+
+We present a novel transition system, based on the Covington non-projective parser, introducing non-local
+transitions that can directly create arcs involving nodes to the left of the current focus positions. This avoids the need for long sequences of No-Arcs transitions to create long-distance arcs, thus alleviating error propa- gation. The resulting parser outperforms the original version and achieves the best accuracy on the Stanford Dependencies conversion of the Penn Treebank among greedy transition-based parsers.
+
+*Mihai’s comments*: a variant of the Covington algorithm, which is allowed to attach tokens at distance k from the current focus. Works slightly better than the latest Stanford parser. This indeed reduces the number of transition actions needed, but increases the action space…
+
+### Deep Contextualized Word Representations
+_Matthew Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer_
+
+We introduce a new type of deep contextualized word representation that models both (1) complex characteristics of word use (e.g., syntax and semantics), and (2) how these uses vary across linguistic contexts (i.e., to model polysemy). Our word vectors are learned functions of the internal states of a deep bidirectional language model (biLM), which is pre-trained on a large text corpus. We show that these representations can be easily added to existing models and significantly improve the state of the art across six challenging NLP problems, including question answering, textual entailment and sentiment analysis. We also present an analysis showing that exposing the deep internals of the pre-trained network is crucial, allowing downstream models to mix different types of semi-supervision signals.
+
+*Mihai’s comments*: ELMO embeddings. Use them.
+
+### Learning to Map Context-Dependent Sentences to Executable Formal Queries
+_Alane Suhr, Srinivasan Iyer, and Yoav Artzi_
+
+We propose a context-dependent model to map utterances within an interaction to executable formal queries.
+To incorporate interaction history, the model maintains an interaction-level encoder that updates after each turn, and can copy sub-sequences of previously predicted queries during generation. Our approach combines implicit and explicit modeling of references between utterances. We evaluate our model on the ATIS flight planning interactions, and demonstrate the benefits of modeling context and explicit references.
+
+*Mihai’s comments*: Start here if you are interested in seq2seq models for dialog. However, I wonder about the generality of these approaches on more complicated dialog tasks (see Mari Ostendorf’s invited talk).
+
+
+
+
