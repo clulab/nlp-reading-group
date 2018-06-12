@@ -11,5 +11,8 @@ https://arxiv.org/pdf/1805.04623.pdf
 ### Neural Relation Extraction with Selective Attention over Instances
 http://www.aclweb.org/anthology/P16-1200
 
+### Constructing Datasets for Multi-hop Reading Comprehension Across Documents
+https://transacl.org/ojs/index.php/tacl/article/view/1325
+
 # Proposed by ...:
 
