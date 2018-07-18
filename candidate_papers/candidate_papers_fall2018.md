@@ -17,5 +17,9 @@ https://transacl.org/ojs/index.php/tacl/article/view/1325
 ### Simple and Effective Multi-Paragraph Reading Comprehension
 http://aclweb.org/anthology/P18-1078
 
+# Proposed by John:
+### DARTS:Differentiable Architecture Search
+https://arxiv.org/pdf/1806.09055.pdf
+
 # Proposed by ...:
 
