@@ -21,5 +21,23 @@ http://aclweb.org/anthology/P18-1078
 ### DARTS:Differentiable Architecture Search
 https://arxiv.org/pdf/1806.09055.pdf
 
+
+# Proposed by Mithun:
+ ### Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
+ http://www.aclweb.org/anthology/N18-1176
+
+ 
+### Self-Attention Generative Adversarial Networks
+https://arxiv.org/pdf/1805.08318.pdf
+
+### Exemplar Encoder-Decoder for Neural Conversation Generation
+ http://aclweb.org/anthology/P18-1123
+
+### Learning Domain-Sensitive and Sentiment-Aware Word Embeddings
+http://aclweb.org/anthology/P18-1232
+
+### Did the Model Understand the Question?
+ http://aclweb.org/anthology/P18-1176
+
 # Proposed by ...:
 
