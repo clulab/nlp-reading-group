@@ -5,6 +5,9 @@ https://arxiv.org/abs/1802.05365
 
 # Proposed by Mihai:
 
+### SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
+https://arxiv.org/abs/1808.05326
+
 ### Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context
 https://arxiv.org/pdf/1805.04623.pdf
 
