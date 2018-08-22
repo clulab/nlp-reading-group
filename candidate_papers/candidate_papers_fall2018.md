@@ -71,5 +71,11 @@ https://pdfs.semanticscholar.org/cd18/800a0fe0b668a1cc19f2ec95b5003d0a5035.pdf?_
 ### How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures
 https://pdfs.semanticscholar.org/1469/32459483a98a35c53089038fa7c07db09557.pdf?_ga=2.30981946.405666836.1534960911-1568517958.1519455086
 
+### Learning to Map Context-Dependent Sentences to Executable Formal Queries
+https://arxiv.org/pdf/1804.06868.pdf
+
+### Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions
+https://arxiv.org/pdf/1802.08504.pdf
+
 # Proposed by ...:
 
