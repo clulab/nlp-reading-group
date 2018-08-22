@@ -60,5 +60,16 @@ https://arxiv.org/pdf/1804.07581.pdf
 ### 360° Stance Detection
 https://arxiv.org/abs/1804.00982
 
+# Proposed by Zheng:
+
+### Constituency Parsing with a Self-Attentive Encoder
+https://arxiv.org/pdf/1805.01052.pdf
+
+### Improving Language Understanding by Generative Pre-Training
+https://pdfs.semanticscholar.org/cd18/800a0fe0b668a1cc19f2ec95b5003d0a5035.pdf?_ga=2.264172425.405666836.1534960911-1568517958.1519455086
+
+### How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures
+https://pdfs.semanticscholar.org/1469/32459483a98a35c53089038fa7c07db09557.pdf?_ga=2.30981946.405666836.1534960911-1568517958.1519455086
+
 # Proposed by ...:
 
