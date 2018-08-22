@@ -6,7 +6,7 @@ https://arxiv.org/abs/1703.03400
 ### On First-Order Meta-Learning Algorithms (Reptile)
 https://arxiv.org/abs/1803.02999
 
-### Representation Tradeoffs for Hyperbolic Embeddings
+### Representation Tradeoffs for Hyperbolic Embeddings (long paper)
 https://arxiv.org/abs/1804.03329
 
 ### Deep contextualized word representations (Zettlemoyer group)
