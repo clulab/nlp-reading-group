@@ -77,5 +77,13 @@ https://arxiv.org/pdf/1804.06868.pdf
 ### Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions
 https://arxiv.org/pdf/1802.08504.pdf
 
+# Proposed by Zhengzhong:
+
+### Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks
+https://arxiv.org/abs/1502.05698
+
+### Large-scale Simple Question Answering with Memory Networks
+https://arxiv.org/abs/1506.02075
+
 # Proposed by ...:
 
