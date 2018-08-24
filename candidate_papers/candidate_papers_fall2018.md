@@ -97,3 +97,7 @@ https://arxiv.org/pdf/1803.06643.pdf
 ### SemEval-2018 Task 11: Machine Comprehension Using Commonsense Knowledge
 http://aclweb.org/anthology/S/S18/S18-1119.pdf
 
+# Proposed by Andrew:
+
+### Dependency-Based Word Embeddings
+http://www.aclweb.org/anthology/P14-2050
