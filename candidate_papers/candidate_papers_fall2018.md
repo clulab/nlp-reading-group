@@ -39,10 +39,7 @@ https://arxiv.org/pdf/1806.09055.pdf
 
 
 # Proposed by Mithun:
- ### Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
- http://www.aclweb.org/anthology/N18-1176
-
- 
+General:
 ### Self-Attention Generative Adversarial Networks
 https://arxiv.org/pdf/1805.08318.pdf
 
@@ -51,6 +48,12 @@ https://arxiv.org/pdf/1805.08318.pdf
 
 ### Learning Domain-Sensitive and Sentiment-Aware Word Embeddings
 http://aclweb.org/anthology/P18-1232
+
+ Fact verification:
+
+### Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
+ http://www.aclweb.org/anthology/N18-1176
+
 
 ###  Overview of the CLEF-2018 CheckThat! Lab on automatic identification and verification of political claims
 http://alt.qcri.org/clef2018-factcheck/data/uploads/clef18-checkthat-lab-lncs-overview.pdf
@@ -64,10 +67,21 @@ https://arxiv.org/pdf/1804.07581.pdf
 ### 360° Stance Detection
 https://arxiv.org/abs/1804.00982
 
-# Proposed by Zheng:
+### Cross-Lingual Cross-Platform Rumor Verification Pivoting on Multimedia Content
+https://arxiv.org/pdf/1808.04911.pdf
 
-### Constituency Parsing with a Self-Attentive Encoder
-https://arxiv.org/pdf/1805.01052.pdf
+COLING 2018
+### Can Rumour Stance Alone Predict Veracity?
+http://aclweb.org/anthology/C18-1284
+
+### Satirical News Detection and Analysis using Attention Mechanism and
+Linguistic Features
+http://aclweb.org/anthology/D17-1211
+
+### Automatic Detection of Fake News
+https://arxiv.org/abs/1708.07104
+
+# Proposed by Zheng:
 
 ### Improving Language Understanding by Generative Pre-Training
 https://pdfs.semanticscholar.org/cd18/800a0fe0b668a1cc19f2ec95b5003d0a5035.pdf?_ga=2.264172425.405666836.1534960911-1568517958.1519455086
@@ -86,5 +100,82 @@ https://arxiv.org/abs/1502.05698
 ### Large-scale Simple Question Answering with Memory Networks
 https://arxiv.org/abs/1506.02075
 
-# Proposed by ...:
+# Proposed by Fan:
 
+### CoQA: A Conversational Question Answering Challenge
+https://arxiv.org/pdf/1808.07042.pdf
+
+### The Web as a Knowledge-base for Answering Complex Questions
+https://arxiv.org/pdf/1803.06643.pdf
+
+### SemEval-2018 Task 11: Machine Comprehension Using Commonsense Knowledge
+http://aclweb.org/anthology/S/S18/S18-1119.pdf
+
+# Proposed by Becky:
+
+### Cross-validation for selecting a model selection procedure
+https://www.sciencedirect.com/science/article/pii/S0304407615000305
+
+### The strange geometry of skip-gram with negative sampling
+http://aclweb.org/anthology/D17-1308
+
+### InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf
+
+## Image+Text
+- ### The Emergence of Semantics in Neural Network Representations of Visual Information
+http://aclweb.org/anthology/N18-2122
+
+- ### Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search (Hinton)
+http://aclweb.org/anthology/P18-1085
+
+- ### Visual Denotations for Recognizing Textual Entailment
+http://aclweb.org/anthology/D17-1305
+
+- ### Image Pivoting for Learning Multilingual Multimodal Representations
+http://aclweb.org/anthology/D17-1303
+
+# Proposed by Dongfang:
+
+### Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
+http://www.aclweb.org/anthology/N18-1001
+
+### Explainable Prediction of Medical Codes from Clinical Text
+http://aclweb.org/anthology/N18-1100
+
+### Multi-task Character-Level Attentional Networks for Medical Concept Normalization
+https://link.springer.com/content/pdf/10.1007%2Fs11063-018-9873-x.pdf
+
+
+# Proposed by Gus:
+## COLING picks
+### Identifying Emergent Research Trends by Key Authors and Phrases
+https://www.semanticscholar.org/paper/Identifying-Emergent-Research-Trends-by-Key-Authors-Jiang-Prasad/c441421b4ce1d46e14b7e888911e3cc360e28616
+
+### Sprucing up the trees – Error detection in treebanks
+https://aclanthology.info/papers/C18-1010/c18-1010
+
+## TACL picks
+### Scheduled Multi-Task Learning: From Syntax to Translation
+https://www.semanticscholar.org/paper/Scheduled-Multi-Task-Learning%3A-From-Syntax-to-Kiperwasser-Ballesteros/7983efd69c9d6ed653181ce1bb48c56cd82c08f7
+
+## ACL picks
+### Are BLEU and Meaning Representation in Opposition?
+https://www.semanticscholar.org/paper/Are-BLEU-and-Meaning-Representation-in-Opposition%3F-C%C3%ADfka-Bojar/60c033336b00c71c1c8519e5322adc84c412adde
+
+### Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information
+https://www.semanticscholar.org/paper/Enhancing-Drug-Drug-Interaction-Extraction-from-by-Asada-Miwa/efff549e9884096e0e2a79b4668c3cb971a65d3d
+
+
+# Proposed by Steve:
+### Whodunnit? Crime Drama as a Case for Natural Language Understanding
+http://aclweb.org/anthology/Q18-1001
+
+### Finding syntax in human encephalography with beam search
+http://aclweb.org/anthology/P18-1254
+
+### Authorless Topic Models: Biasing Models Away from Known Structure
+http://aclweb.org/anthology/C18-1329
+
+### Dynamic Multi-Level, Multi-Task Learning for Sentence Simplification
+http://aclweb.org/anthology/C18-1039
