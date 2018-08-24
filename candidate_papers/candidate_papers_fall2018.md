@@ -1,14 +1,14 @@
 # Proposed by Clay:
 
 ### Deep contextualized word representations (ELMo, AllenInst w/ Zettlemoyer)
-https://arxiv.org/abs/1802.05365
+https://arxiv.org/abs/1802.05365  
 https://allennlp.org/elmo
 
 ### MAML and Reptile
-- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML, "Mammal")
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML, "Mammal")  
 https://arxiv.org/abs/1703.03400
-- On First-Order Meta-Learning Algorithms (Reptile; generalization of MAML)
-https://arxiv.org/abs/1803.02999
+- On First-Order Meta-Learning Algorithms (Reptile; generalization of MAML)  
+https://arxiv.org/abs/1803.02999  
 https://blog.openai.com/reptile/
 
 ### Representation Tradeoffs for Hyperbolic Embeddings (long paper)
