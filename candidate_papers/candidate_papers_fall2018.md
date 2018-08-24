@@ -162,3 +162,15 @@ https://www.semanticscholar.org/paper/Are-BLEU-and-Meaning-Representation-in-Opp
 https://www.semanticscholar.org/paper/Enhancing-Drug-Drug-Interaction-Extraction-from-by-Asada-Miwa/efff549e9884096e0e2a79b4668c3cb971a65d3d
 
 
+# Proposed by Steve:
+### Whodunnit? Crime Drama as a Case for Natural Language Understanding
+http://aclweb.org/anthology/Q18-1001
+
+### Finding syntax in human encephalography with beam search
+http://aclweb.org/anthology/P18-1254
+
+### Authorless Topic Models: Biasing Models Away from Known Structure
+http://aclweb.org/anthology/C18-1329
+
+### Dynamic Multi-Level, Multi-Task Learning for Sentence Simplification
+http://aclweb.org/anthology/C18-1039
