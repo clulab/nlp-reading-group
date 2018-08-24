@@ -3,7 +3,7 @@
 ### Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML, "Mammal")
 https://arxiv.org/abs/1703.03400
 
-### On First-Order Meta-Learning Algorithms (Reptile)
+### On First-Order Meta-Learning Algorithms (Reptile; generalization of MAML)
 https://arxiv.org/abs/1803.02999
 
 ### Representation Tradeoffs for Hyperbolic Embeddings (long paper)
