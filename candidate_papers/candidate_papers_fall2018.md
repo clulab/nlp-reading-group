@@ -113,8 +113,8 @@ http://aclweb.org/anthology/D17-1303
 ### Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
 http://www.aclweb.org/anthology/N18-1001
 
-### Normalising medical concepts in social media texts by learning semantic representation
-http://www.aclweb.org/anthology/P16-1096
+### Explainable Prediction of Medical Codes from Clinical Text
+http://aclweb.org/anthology/N18-1100
 
 ### Multi-task Character-Level Attentional Networks for Medical Concept Normalization
 https://link.springer.com/content/pdf/10.1007%2Fs11063-018-9873-x.pdf
