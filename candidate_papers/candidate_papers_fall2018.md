@@ -93,7 +93,7 @@ http://aclweb.org/anthology/D17-1308
 https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf
 
 ## Image+Text
-- ### The Emergence of Semantics in Neural Network Representations of Visual Information
+### The Emergence of Semantics in Neural Network Representations of Visual Information
 http://aclweb.org/anthology/N18-2122
 
 - ### Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search (Hinton)
@@ -105,5 +105,14 @@ http://aclweb.org/anthology/D17-1305
 - ### Image Pivoting for Learning Multilingual Multimodal Representations
 http://aclweb.org/anthology/D17-1303
 
-# Proposed by ...:
+# Proposed by Dongfang:
+
+### Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
+http://www.aclweb.org/anthology/N18-1001
+
+### Normalising medical concepts in social media texts by learning semantic representation
+http://www.aclweb.org/anthology/P16-1096
+
+### Multi-task Character-Level Attentional Networks for Medical Concept Normalization
+https://link.springer.com/content/pdf/10.1007%2Fs11063-018-9873-x.pdf
 
