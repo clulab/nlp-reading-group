@@ -1,16 +1,17 @@
 # Proposed by Clay:
 
-### Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML, "Mammal")
-https://arxiv.org/abs/1703.03400
+### Deep contextualized word representations (ELMo, AllenInst w/ Zettlemoyer)
+https://arxiv.org/abs/1802.05365
+https://allennlp.org/elmo
 
-### On First-Order Meta-Learning Algorithms (Reptile; generalization of MAML)
+### MAML and Reptile
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML, "Mammal")
+https://arxiv.org/abs/1703.03400
+- On First-Order Meta-Learning Algorithms (Reptile; generalization of MAML)
 https://arxiv.org/abs/1803.02999
 
 ### Representation Tradeoffs for Hyperbolic Embeddings (long paper)
 https://arxiv.org/abs/1804.03329
-
-### Deep contextualized word representations (Zettlemoyer group)
-https://arxiv.org/abs/1802.05365
 
 # Proposed by Mihai:
 
