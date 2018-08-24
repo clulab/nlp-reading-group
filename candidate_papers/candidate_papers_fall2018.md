@@ -67,14 +67,14 @@ https://arxiv.org/abs/1804.00982
 ### Constituency Parsing with a Self-Attentive Encoder
 https://arxiv.org/pdf/1805.01052.pdf
 
+### Improving Language Understanding by Generative Pre-Training
+https://pdfs.semanticscholar.org/cd18/800a0fe0b668a1cc19f2ec95b5003d0a5035.pdf?_ga=2.264172425.405666836.1534960911-1568517958.1519455086
+
 ### Learning to Map Context-Dependent Sentences to Executable Formal Queries
 https://arxiv.org/pdf/1804.06868.pdf
 
 ### Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions
 https://arxiv.org/pdf/1802.08504.pdf
-
-### Improving Language Understanding by Generative Pre-Training
-https://pdfs.semanticscholar.org/cd18/800a0fe0b668a1cc19f2ec95b5003d0a5035.pdf?_ga=2.264172425.405666836.1534960911-1568517958.1519455086
 
 # Proposed by Zhengzhong:
 
@@ -84,20 +84,26 @@ https://arxiv.org/abs/1502.05698
 ### Large-scale Simple Question Answering with Memory Networks
 https://arxiv.org/abs/1506.02075
 
-# Proposed by Fan:
-### CoQA: A Conversational Question Answering Challenge
-https://arxiv.org/pdf/1808.07042.pdf
+# Proposed by Becky:
 
-### A Survey of Available Corpora for Building Data-Driven Dialogue Systems
-https://arxiv.org/pdf/1512.05742.pdf
+### The strange geometry of skip-gram with negative sampling
+http://aclweb.org/anthology/D17-1308
 
-### The Web as a Knowledge-base for Answering Complex Questions
-https://arxiv.org/pdf/1803.06643.pdf
+### InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf
 
-### SemEval-2018 Task 11: Machine Comprehension Using Commonsense Knowledge
-http://aclweb.org/anthology/S/S18/S18-1119.pdf
+## Image+Text
+- ### The Emergence of Semantics in Neural Network Representations of Visual Information
+http://aclweb.org/anthology/N18-2122
 
-# Proposed by Andrew:
+- ### Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search (Hinton)
+http://aclweb.org/anthology/P18-1085
 
-### Dependency-Based Word Embeddings
-http://www.aclweb.org/anthology/P14-2050
+- ### Visual Denotations for Recognizing Textual Entailment
+http://aclweb.org/anthology/D17-1305
+
+- ### Image Pivoting for Learning Multilingual Multimodal Representations
+http://aclweb.org/anthology/D17-1303
+
+# Proposed by ...:
+
