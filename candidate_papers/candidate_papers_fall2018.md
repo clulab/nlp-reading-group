@@ -86,6 +86,9 @@ https://arxiv.org/abs/1506.02075
 
 # Proposed by Becky:
 
+### Cross-validation for selecting a model selection procedure
+https://www.sciencedirect.com/science/article/pii/S0304407615000305
+
 ### The strange geometry of skip-gram with negative sampling
 http://aclweb.org/anthology/D17-1308
 
@@ -93,7 +96,7 @@ http://aclweb.org/anthology/D17-1308
 https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf
 
 ## Image+Text
-### The Emergence of Semantics in Neural Network Representations of Visual Information
+- ### The Emergence of Semantics in Neural Network Representations of Visual Information
 http://aclweb.org/anthology/N18-2122
 
 - ### Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search (Hinton)
