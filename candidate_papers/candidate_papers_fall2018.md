@@ -116,3 +116,16 @@ http://www.aclweb.org/anthology/P16-1096
 ### Multi-task Character-Level Attentional Networks for Medical Concept Normalization
 https://link.springer.com/content/pdf/10.1007%2Fs11063-018-9873-x.pdf
 
+
+# Proposed by Gus:
+
+### Identifying Emergent Research Trends by Key Authors and Phrases
+https://www.semanticscholar.org/paper/Identifying-Emergent-Research-Trends-by-Key-Authors-Jiang-Prasad/c441421b4ce1d46e14b7e888911e3cc360e28616
+
+### Sprucing up the trees – Error detection in treebanks
+https://aclanthology.info/papers/C18-1010/c18-1010
+
+
+
+
+
