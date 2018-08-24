@@ -9,7 +9,7 @@ http://alanakbik.github.io/papers/coling2018.pdf
 ### MAML and Reptile
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML, "Mammal")  
 https://arxiv.org/abs/1703.03400
-- On First-Order Meta-Learning Algorithms (Reptile; generalization of MAML)  
+- On First-Order Meta-Learning Algorithms (Reptile; generalized first-order approx of MAML)  
 https://arxiv.org/abs/1803.02999  
 https://blog.openai.com/reptile/
 
