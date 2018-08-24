@@ -2,7 +2,9 @@
 
 ### Deep contextualized word representations (ELMo, AllenInst w/ Zettlemoyer)
 https://arxiv.org/abs/1802.05365  
-https://allennlp.org/elmo
+https://allennlp.org/elmo  
+- perhaps this is combined with (or replaced by?): Contextual String Embeddings for Sequence Labeling (which Ajay@NAACL reports is simpler and more sample efficient)  
+http://alanakbik.github.io/papers/coling2018.pdf
 
 ### MAML and Reptile
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML, "Mammal")  
