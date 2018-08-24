@@ -62,6 +62,20 @@ https://arxiv.org/pdf/1804.07581.pdf
 ### 360° Stance Detection
 https://arxiv.org/abs/1804.00982
 
+### Cross-Lingual Cross-Platform Rumor Verification Pivoting on Multimedia Content
+https://arxiv.org/pdf/1808.04911.pdf
+
+COLING 2018
+### Can Rumour Stance Alone Predict Veracity?
+http://aclweb.org/anthology/C18-1284
+
+### Satirical News Detection and Analysis using Attention Mechanism and
+Linguistic Features
+http://aclweb.org/anthology/D17-1211
+
+### Automatic Detection of Fake News
+https://arxiv.org/abs/1708.07104
+
 # Proposed by Zheng:
 
 ### Improving Language Understanding by Generative Pre-Training
