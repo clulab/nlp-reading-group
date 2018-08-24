@@ -9,6 +9,7 @@ https://allennlp.org/elmo
 https://arxiv.org/abs/1703.03400
 - On First-Order Meta-Learning Algorithms (Reptile; generalization of MAML)
 https://arxiv.org/abs/1803.02999
+https://blog.openai.com/reptile/
 
 ### Representation Tradeoffs for Hyperbolic Embeddings (long paper)
 https://arxiv.org/abs/1804.03329
