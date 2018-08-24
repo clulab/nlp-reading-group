@@ -37,10 +37,7 @@ https://arxiv.org/pdf/1806.09055.pdf
 
 
 # Proposed by Mithun:
- ### Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
- http://www.aclweb.org/anthology/N18-1176
-
- 
+General:
 ### Self-Attention Generative Adversarial Networks
 https://arxiv.org/pdf/1805.08318.pdf
 
@@ -49,6 +46,12 @@ https://arxiv.org/pdf/1805.08318.pdf
 
 ### Learning Domain-Sensitive and Sentiment-Aware Word Embeddings
 http://aclweb.org/anthology/P18-1232
+
+ Fact verification:
+
+### Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
+ http://www.aclweb.org/anthology/N18-1176
+
 
 ###  Overview of the CLEF-2018 CheckThat! Lab on automatic identification and verification of political claims
 http://alt.qcri.org/clef2018-factcheck/data/uploads/clef18-checkthat-lab-lncs-overview.pdf
