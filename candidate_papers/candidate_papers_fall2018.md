@@ -60,5 +60,27 @@ https://arxiv.org/pdf/1804.07581.pdf
 ### 360° Stance Detection
 https://arxiv.org/abs/1804.00982
 
+# Proposed by Zheng:
+
+### Constituency Parsing with a Self-Attentive Encoder
+https://arxiv.org/pdf/1805.01052.pdf
+
+### Improving Language Understanding by Generative Pre-Training
+https://pdfs.semanticscholar.org/cd18/800a0fe0b668a1cc19f2ec95b5003d0a5035.pdf?_ga=2.264172425.405666836.1534960911-1568517958.1519455086
+
+### Learning to Map Context-Dependent Sentences to Executable Formal Queries
+https://arxiv.org/pdf/1804.06868.pdf
+
+### Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions
+https://arxiv.org/pdf/1802.08504.pdf
+
+# Proposed by Zhengzhong:
+
+### Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks
+https://arxiv.org/abs/1502.05698
+
+### Large-scale Simple Question Answering with Memory Networks
+https://arxiv.org/abs/1506.02075
+
 # Proposed by ...:
 
