@@ -118,7 +118,7 @@ https://link.springer.com/content/pdf/10.1007%2Fs11063-018-9873-x.pdf
 
 
 # Proposed by Gus:
-
+## COLING picks
 ### Identifying Emergent Research Trends by Key Authors and Phrases
 https://www.semanticscholar.org/paper/Identifying-Emergent-Research-Trends-by-Key-Authors-Jiang-Prasad/c441421b4ce1d46e14b7e888911e3cc360e28616
 
