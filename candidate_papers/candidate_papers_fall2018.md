@@ -125,7 +125,15 @@ https://www.semanticscholar.org/paper/Identifying-Emergent-Research-Trends-by-Ke
 ### Sprucing up the trees – Error detection in treebanks
 https://aclanthology.info/papers/C18-1010/c18-1010
 
+## TACL picks
+### Scheduled Multi-Task Learning: From Syntax to Translation
+https://www.semanticscholar.org/paper/Scheduled-Multi-Task-Learning%3A-From-Syntax-to-Kiperwasser-Ballesteros/7983efd69c9d6ed653181ce1bb48c56cd82c08f7
 
+## ACL picks
+### Are BLEU and Meaning Representation in Opposition?
+https://www.semanticscholar.org/paper/Are-BLEU-and-Meaning-Representation-in-Opposition%3F-C%C3%ADfka-Bojar/60c033336b00c71c1c8519e5322adc84c412adde
 
+### Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information
+https://www.semanticscholar.org/paper/Enhancing-Drug-Drug-Interaction-Extraction-from-by-Asada-Miwa/efff549e9884096e0e2a79b4668c3cb971a65d3d
 
 
