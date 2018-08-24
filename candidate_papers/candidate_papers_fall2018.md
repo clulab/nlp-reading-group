@@ -81,6 +81,17 @@ https://arxiv.org/abs/1502.05698
 ### Large-scale Simple Question Answering with Memory Networks
 https://arxiv.org/abs/1506.02075
 
+# Proposed by Fan:
+
+### CoQA: A Conversational Question Answering Challenge
+https://arxiv.org/pdf/1808.07042.pdf
+
+### The Web as a Knowledge-base for Answering Complex Questions
+https://arxiv.org/pdf/1803.06643.pdf
+
+### SemEval-2018 Task 11: Machine Comprehension Using Commonsense Knowledge
+http://aclweb.org/anthology/S/S18/S18-1119.pdf
+
 # Proposed by Becky:
 
 ### Cross-validation for selecting a model selection procedure
