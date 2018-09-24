@@ -18,3 +18,4 @@ Everyone is welcome to participate (faculty and students alike).  The only expec
 * [Spring 2017](https://github.com/clulab/nlp-reading-group/wiki/Spring-2017-Reading-Schedule)
 * [Summer 2017 Get-Togethers](https://github.com/clulab/nlp-reading-group/wiki/Summer-2017-Schedule)
 * [Fall 2017](https://github.com/clulab/nlp-reading-group/wiki/FALL-2017-Reading-Schedule)
+* [Spring 2018](https://github.com/clulab/nlp-reading-group/wiki/Spring-2018-Reading-Schedule)
