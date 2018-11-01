@@ -5,7 +5,7 @@ Disclaimer: this is obviously a small subset of the awesome papers/talks at EMNL
 The EMNLP proceedings are available here: https://aclanthology.coli.uni-saarland.de/events/emnlp-2018. 
 The CoNLL proceedings are here: https://aclanthology.coli.uni-saarland.de/events/conll-2018
 
-# CoNLL DAY 1
+# CoNLL
 
 ### Adversarially Regularising Neural NLI Models to Integrate Logical Background Knowledge
 **URL**: https://aclanthology.coli.uni-saarland.de/papers/K18-1007/k18-1007
