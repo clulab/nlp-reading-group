@@ -14,5 +14,20 @@ The CoNLL proceedings are here: https://aclanthology.coli.uni-saarland.de/events
 
 **Mihai's comments**: neat idea to infuse FOL rules into the training process for a NN for NLI. They add an "inconsistency loss" term to the regularizaton component of the loss function, which measure how much these rules are violated.
 
+## BlackboxNLP Workshop
+
+Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400
+
+### Interpretable Structure Induction Via Sparse Attention
+
+**URL**: http://aclweb.org/anthology/W18-5450
+
+**Mihai's comments**: forces NNs to be more interpretable by forcing them to yield sparse probabilities, which can be traced back to the most relevant parts of the input.
+
+### Understanding Convolutional Neural Networks for Text Classification
+
+**Abstract**: We present an analysis into the inner workings of Convolutional Neural Networks (CNNs) for processing text. CNNs used for computer vision can be interpreted by projecting filters into image space, but for discrete sequence inputs CNNs remain a mystery. We aim to understand the method by which the networks process and classify text. We examine common hypotheses to this problem: that filters, accompanied by global max-pooling, serve as ngram detectors. We show that filters may capture several different semantic classes of ngrams by using different activation patterns, and that global max-pooling induces behavior which separates important ngrams from the rest. Finally, we show practical use cases derived from our findings in the form of model interpretability (explaining a trained model by deriving a concrete identity for each filter, bridging the gap between visualization tools in vision tasks and NLP) and prediction interpretability (explaining predictions).
+
+**Mihai's comments**: Identifies the relevant n-grams behind a CNN. Intuitively, the informative n-grams are selected based on their correlation with the corresponding convolutional filter.
 
 
