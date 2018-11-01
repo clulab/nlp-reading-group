@@ -56,8 +56,13 @@ Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400
 
 **Mihai's comments**: messing with verbs in SQuAD questions does not change the answer...
 
+### Firearms and Tigers are Dangerous, Kitchen Knives and Zebras are Not: Testing whether Word Embeddings Can Tell
 
+**URL**: https://arxiv.org/abs/1809.01375
 
+**Abstract**: This paper presents an approach for investigating the nature of semantic information captured by word embeddings. We propose a method that extends an existing human-elicited semantic property dataset with gold negative examples using crowd judgments. Our experimental approach tests the ability of supervised classifiers to identify semantic features in word embedding vectors and com- pares this to a feature-identification method based on full vector cosine similarity. The idea behind this method is that properties identified by classifiers, but not through full vector comparison are captured by embeddings. Properties that cannot be identified by either method are not. Our results provide an initial indication that semantic properties relevant for the way entities interact (e.g. dangerous) are captured, while perceptual information (e.g. colors) is not represented. We conclude that, though preliminary, these results show that our method is suitable for identifying which properties are captured by embeddings.
+
+**Mihai's comments**: investigates which properties are actually captured by simple word embeddings. Buzz word: "diagnostic classifier"
 
 
 
