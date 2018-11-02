@@ -108,7 +108,7 @@ We formalize a new modular variant of current question answering tasks by enforc
 
 **Abstract**: State-of-the-art systems in deep question an- swering proceed as follows: (1) an initial document retrieval selects relevant documents, which (2) are then processed by a neural net- work in order to extract the final answer. Yet the exact interplay between both compo- nents is poorly understood, especially con- cerning the number of candidate documents that should be retrieved. We show that choos- ing a static number of documents – as used in prior research – suffers from a noise- information trade-off and yields suboptimal results. As a remedy, we propose an adaptive document retrieval model. This learns the opti- mal candidate number for document retrieval, conditional on the size of the corpus and the query. We report extensive experimental re- sults showing that our adaptive approach out- performs state-of-the-art methods on multiple benchmark datasets, as well as in the context of corpora with variable sizes.
 
-**Mihai's comments**: makes the number of documents retrieved for QA dependent on the confidence we have in the IR system for this query (the more confident, the fewer documents). Nice, but it uses the IR system as a blackbox...
+**Mihai's comments**: makes the number of documents retrieved for QA dependent on the confidence we have in the IR system for this query (the more confident, the fewer documents). Nice, but it uses the IR system as a blackbox... (Vikas: read this)
 
 ### A Deep Neural Network Sentence Level Classification Method with Context Information
 
