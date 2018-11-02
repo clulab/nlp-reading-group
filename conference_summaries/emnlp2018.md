@@ -82,7 +82,7 @@ Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
 
 **Abstract**: We present a large scale collection of diverse natural language inference (NLI) datasets that help provide insight into how well a sentence representation captures distinct types of rea- soning. The collection results from recasting 13 existing datasets from 7 semantic phenom- ena into a common NLI structure, resulting in over half a million labeled context-hypothesis pairs in total. We refer to our collection as the DNC: Diverse Natural Language Inference Collection. The DNC is available online at http://www.decomp.net, and will grow over time as additional resources are recast and added from novel sources.
 
-**Mihai's comments**: TODO
+**Mihai's comments**: A diverse dataset for NLI. Read and use this if you work on NLI.
 
 ### Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension
 
@@ -91,7 +91,7 @@ Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
 **Abstract**: 
 We formalize a new modular variant of current question answering tasks by enforcing com- plete independence of the document encoder from the question encoder. This formulation addresses a key challenge in machine compre- hension by requiring a standalone representa- tion of the document discourse. It addition- ally leads to a significant scalability advantage since the encoding of the answer candidate phrases in the document can be pre-computed and indexed offline for efficient retrieval. We experiment with baseline models for the new task, which achieve a reasonable accuracy but significantly underperform unconstrained QA models. We invite the QA research commu- nity to engage in Phrase-Indexed Question An- swering (PIQA, pika) for closing the gap. The leaderboard is at: nlp.cs.washington. edu/piqa
 
-**Mihai's comments**: TODO (Vikas: read this.)
+**Mihai's comments**: indexes phrases (just NPs and NEs?) rather than documents. Then generate an encoding of each phrase, and retrieve good answers using nearest neighbors to the question vector. (Vikas: read this.)
 
 ### Ranking Paragraphs for Improving Answer Recall in Open-Domain Question Answering
 
@@ -99,7 +99,7 @@ We formalize a new modular variant of current question answering tasks by enforc
 
 **Abstract**: Recently, open-domain question answering (QA) has been combined with machine com- prehension models to find answers in a large knowledge source. As open-domain QA re- quires retrieving relevant documents from text corpora to answer questions, its performance largely depends on the performance of doc- ument retrievers. However, since traditional information retrieval systems are not effective in obtaining documents with a high probabil- ity of containing answers, they lower the per- formance of QA systems. Simply extracting more documents increases the number of ir- relevant documents, which also degrades the performance of QA systems. In this paper, we introduce Paragraph Ranker which ranks para- graphs of retrieved documents for a higher an- swer recall with less noise. We show that rank- ing paragraphs and aggregating answers us- ing Paragraph Ranker improves performance of open-domain QA pipeline on the four open- domain QA datasets by 7.8% on average.
 
-**Mihai's comments**: train a paragraph ranker (PR) jointly with the QA system. Limitations: PR is supervised; focuses on simple factoid questions only (how well does it work on complex QA?); focuses on boosting recall during PR (should we focus n F1)? (Vikas: read this)
+**Mihai's comments**: trains a paragraph ranker (PR) jointly with the QA system. Limitations: PR is supervised; focuses on simple factoid questions only (how well does it work on complex QA?); focuses on boosting recall during PR (should we focus on F1)? (Vikas: read this)
 
 ### Title
 
