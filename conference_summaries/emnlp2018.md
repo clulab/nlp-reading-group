@@ -74,7 +74,7 @@ Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
 
 **Abstract**: Comprehending procedural text, e.g., a para- graph describing photosynthesis, requires modeling actions and the state changes they produce, so that questions about entities at dif- ferent timepoints can be answered. Although several recent systems have shown impressive progress in this task, their predictions can be globally inconsistent or highly improbable. In this paper, we show how the predicted effects of actions in the context of a paragraph can be improved in two ways: (1) by incorporat- ing global, commonsense constraints (e.g., a non-existent entity cannot be destroyed), and (2) by biasing reading with preferences from large-scale corpora (e.g., trees rarely move). Unlike earlier methods, we treat the problem as a neural structured prediction task, allow- ing hard and soft constraints to steer the model away from unlikely predictions. We show that the new model significantly outperforms ear- lier systems on a benchmark dataset for proce- dural text comprehension (+8% relative gain), and that it also avoids some of the nonsensical predictions that earlier systems make.
 
-**Mihai's comments**: TODO
+**Mihai's comments**: QA for process questions, i.e., where the answer is a sequence of actions. Treated as structured prediction, where the search space is pruned with commonsense knowledge, which, in turn, is extracted from large corpora.
 
 ### Collecting Diverse Natural Language Inference Problems for Sentence Representation 
 
