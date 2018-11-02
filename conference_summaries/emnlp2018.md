@@ -18,7 +18,7 @@ The CoNLL proceedings are here: https://aclanthology.coli.uni-saarland.de/events
 
 This workshop is fantastic! Imo, many of the papers here are nicer than many conference publications.
 Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
-(Zheng, Marco: you should read all these papers)
+(Zheng: you should read all these papers)
 
 ### Interpretable Structure Induction Via Sparse Attention
 
