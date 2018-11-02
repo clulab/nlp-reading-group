@@ -124,7 +124,7 @@ We formalize a new modular variant of current question answering tasks by enforc
 
 **Abstract**: Distantly-supervised Relation Extraction (RE) methods train an extractor by automatically aligning relation instances in a Knowledge Base (KB) with unstructured text. In addi- tion to relation instances, KBs often contain other relevant side information, such as aliases of relations (e.g., founded and co-founded are aliases for the relation founderOfCompany). RE models usually ignore such readily avail- able side information. In this paper, we pro- pose RESIDE, a distantly-supervised neural relation extraction method which utilizes ad- ditional side information from KBs for im- proved relation extraction. It uses entity type and relation alias information for imposing soft constraints while predicting relations. RE- SIDE employs Graph Convolution Networks (GCN) to encode syntactic information from text and improves performance even when limited side information is available. Through extensive experiments on benchmark datasets, we demonstrate RESIDE’s effectiveness. We have made RESIDE’s source code available to encourage reproducible research.
 
-**Mihai's comments**: TODO (Fan: read this)
+**Mihai's comments**: New state-of-the-art for distantly supervised RE. Uses relation aliases from the KB + an architecture that concatenates PCNN with a graph convolutional network (GCN) (Fan: read this)
 
 # EMNLP Day 2
 
