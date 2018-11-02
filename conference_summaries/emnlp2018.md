@@ -109,6 +109,14 @@ We formalize a new modular variant of current question answering tasks by enforc
 
 **Mihai's comments**: makes the number of documents retrieved for QA dependent on the confidence we have in the IR system for this query (the more confident, the fewer documents). Nice, but it uses the IR system as a blackbox...
 
+### A Deep Neural Network Sentence Level Classification Method with Context Information
+
+**URL**: http://aclweb.org/anthology/D18-1107
+
+**Abstract**: In the sentence classification task, context formed from sentences adjacent to the sen- tence being classified can provide important information for classification. This context is, however, often ignored. Where methods do make use of context, only small amounts are considered, making it difficult to scale. We present a new method for sentence classifica- tion, Context-LSTM-CNN, that makes use of potentially large contexts. The method also utilizes long-range dependencies within the sentence being classified, using an LSTM, and short-span features, using a stacked CNN. Our experiments demonstrate that this approach consistently improves over previous methods on two different datasets.
+
+**Mihai's comments**: An efficient way to encode large contexts (e.g., for sentence classification, the entire document around the sentence). Efficient encoding with FOFE. Read this if you need large context for classification.
+
 ### Title
 
 **URL**: 
