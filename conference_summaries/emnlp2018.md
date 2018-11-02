@@ -129,6 +129,14 @@ Answering in Context that contains 14K information-seeking QA dialogs (100K ques
 
 **Mihai's comments**: New dataset for QA in dialog. (Fan: read this)
 
+### Learning Scalar Adjective Intensity from Paraphrases
+
+**URL**: http://aclweb.org/anthology/D18-1202
+
+**Abstract**: Adjectives like warm, hot, and scalding all de- scribe temperature but differ in intensity. Un- derstanding these differences between adjec- tives is a necessary part of reasoning about nat- ural language. We propose a new paraphrase- based method to automatically learn the rela- tive intensity relation that holds between a pair of scalar adjectives. Our approach analyzes over 36k adjectival pairs from the Paraphrase Database under the assumption that, for exam- ple, paraphrase pair really hot ↔ scalding sug- gests that hot < scalding. We show that com- bining this paraphrase evidence with existing, complementary pattern- and lexicon-based ap- proaches improves the quality of systems for automatically ordering sets of scalar adjectives and inferring the polarity of indirect answers to yes/no questions.
+
+**Mihai's comments**: learns ranking of adjectives from paraphrases. (Mithun: read this)
+
 ### Title
 
 **URL**: 
