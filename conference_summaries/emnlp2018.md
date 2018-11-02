@@ -74,7 +74,7 @@ Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
 
 **Abstract**: Comprehending procedural text, e.g., a para- graph describing photosynthesis, requires modeling actions and the state changes they produce, so that questions about entities at dif- ferent timepoints can be answered. Although several recent systems have shown impressive progress in this task, their predictions can be globally inconsistent or highly improbable. In this paper, we show how the predicted effects of actions in the context of a paragraph can be improved in two ways: (1) by incorporat- ing global, commonsense constraints (e.g., a non-existent entity cannot be destroyed), and (2) by biasing reading with preferences from large-scale corpora (e.g., trees rarely move). Unlike earlier methods, we treat the problem as a neural structured prediction task, allow- ing hard and soft constraints to steer the model away from unlikely predictions. We show that the new model significantly outperforms ear- lier systems on a benchmark dataset for proce- dural text comprehension (+8% relative gain), and that it also avoids some of the nonsensical predictions that earlier systems make.
 
-**Mihai's comments**: QA for process questions, i.e., where the answer is a sequence of actions. Treated as structured prediction, where the search space is pruned with commonsense knowledge, which, in turn, is extracted from large corpora.
+**Mihai's comments**: QA for process questions, i.e., where the answer is a sequence of actions. Treated as structured prediction, where the search space is pruned with commonsense knowledge, which, in turn, is extracted from large corpora. The approach (Figure 3) is akin to memory networks over the whole process. (Zhengzhong: read this)
 
 ### Collecting Diverse Natural Language Inference Problems for Sentence Representation 
 
@@ -91,7 +91,7 @@ Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
 **Abstract**: 
 We formalize a new modular variant of current question answering tasks by enforcing com- plete independence of the document encoder from the question encoder. This formulation addresses a key challenge in machine compre- hension by requiring a standalone representa- tion of the document discourse. It addition- ally leads to a significant scalability advantage since the encoding of the answer candidate phrases in the document can be pre-computed and indexed offline for efficient retrieval. We experiment with baseline models for the new task, which achieve a reasonable accuracy but significantly underperform unconstrained QA models. We invite the QA research commu- nity to engage in Phrase-Indexed Question An- swering (PIQA, pika) for closing the gap. The leaderboard is at: nlp.cs.washington. edu/piqa
 
-**Mihai's comments**: indexes phrases (just NPs and NEs?) rather than documents. Then generate an encoding of each phrase, and retrieve good answers using nearest neighbors to the question vector. (Vikas: read this.)
+**Mihai's comments**: indexes phrases (just NPs and NEs?) rather than documents. Then generate an encoding of each phrase, and retrieve good answers using nearest neighbors to the question vector. This is a neat paper, even if the performance is not great yet. (Vikas: read this.)
 
 ### Ranking Paragraphs for Improving Answer Recall in Open-Domain Question Answering
 
@@ -101,13 +101,13 @@ We formalize a new modular variant of current question answering tasks by enforc
 
 **Mihai's comments**: trains a paragraph ranker (PR) jointly with the QA system. Limitations: PR is supervised; focuses on simple factoid questions only (how well does it work on complex QA?); focuses on boosting recall during PR (should we focus on F1)? (Vikas: read this)
 
-### Title
+### Adaptive Document Retrieval for Deep Question Answering
 
-**URL**: 
+**URL**: http://aclweb.org/anthology/D18-1055
 
-**Abstract**: 
+**Abstract**: State-of-the-art systems in deep question an- swering proceed as follows: (1) an initial document retrieval selects relevant documents, which (2) are then processed by a neural net- work in order to extract the final answer. Yet the exact interplay between both compo- nents is poorly understood, especially con- cerning the number of candidate documents that should be retrieved. We show that choos- ing a static number of documents – as used in prior research – suffers from a noise- information trade-off and yields suboptimal results. As a remedy, we propose an adaptive document retrieval model. This learns the opti- mal candidate number for document retrieval, conditional on the size of the corpus and the query. We report extensive experimental re- sults showing that our adaptive approach out- performs state-of-the-art methods on multiple benchmark datasets, as well as in the context of corpora with variable sizes.
 
-**Mihai's comments**: 
+**Mihai's comments**: makes the number of documents retrieved for QA dependent on the confidence we have in the IR system for this query (the more confident, the fewer documents). Nice, but it uses the IR system as a blackbox...
 
 ### Title
 
