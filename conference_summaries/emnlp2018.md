@@ -99,7 +99,15 @@ We formalize a new modular variant of current question answering tasks by enforc
 
 **Abstract**: Recently, open-domain question answering (QA) has been combined with machine com- prehension models to find answers in a large knowledge source. As open-domain QA re- quires retrieving relevant documents from text corpora to answer questions, its performance largely depends on the performance of doc- ument retrievers. However, since traditional information retrieval systems are not effective in obtaining documents with a high probabil- ity of containing answers, they lower the per- formance of QA systems. Simply extracting more documents increases the number of ir- relevant documents, which also degrades the performance of QA systems. In this paper, we introduce Paragraph Ranker which ranks para- graphs of retrieved documents for a higher an- swer recall with less noise. We show that rank- ing paragraphs and aggregating answers us- ing Paragraph Ranker improves performance of open-domain QA pipeline on the four open- domain QA datasets by 7.8% on average.
 
-**Mihai's comments**: TODO
+**Mihai's comments**: train a paragraph ranker (PR) jointly with the QA system. Limitations: PR is supervised; focuses on simple factoid questions only (how well does it work on complex QA?); focuses on boosting recall during PR (should we focus n F1)? (Vikas: read this)
+
+### Title
+
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
 
 ### Title
 
