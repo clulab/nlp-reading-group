@@ -18,6 +18,7 @@ The CoNLL proceedings are here: https://aclanthology.coli.uni-saarland.de/events
 
 This workshop is fantastic! Imo, many of the papers here are nicer than many conference publications.
 Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
+(Zheng, Marco: you should read all these papers)
 
 ### Interpretable Structure Induction Via Sparse Attention
 
@@ -116,6 +117,17 @@ We formalize a new modular variant of current question answering tasks by enforc
 **Abstract**: In the sentence classification task, context formed from sentences adjacent to the sen- tence being classified can provide important information for classification. This context is, however, often ignored. Where methods do make use of context, only small amounts are considered, making it difficult to scale. We present a new method for sentence classifica- tion, Context-LSTM-CNN, that makes use of potentially large contexts. The method also utilizes long-range dependencies within the sentence being classified, using an LSTM, and short-span features, using a stacked CNN. Our experiments demonstrate that this approach consistently improves over previous methods on two different datasets.
 
 **Mihai's comments**: An efficient way to encode large contexts (e.g., for sentence classification, the entire document around the sentence). Efficient encoding with FOFE. Read this if you need large context for classification.
+
+# EMNLP Day 2
+
+### QuAC : Question Answering in Context
+
+**URL**: http://aclweb.org/anthology/D18-1241
+
+**Abstract**: We present QuAC, a dataset for Question
+Answering in Context that contains 14K information-seeking QA dialogs (100K ques- tions in total). The dialogs involve two crowd workers: (1) a student who poses a sequence of freeform questions to learn as much as pos- sible about a hidden Wikipedia text, and (2) a teacher who answers the questions by pro- viding short excerpts from the text. QuAC in- troduces challenges not found in existing ma- chine comprehension datasets: its questions are often more open-ended, unanswerable, or only meaningful within the dialog context, as we show in a detailed qualitative evaluation. We also report results for a number of ref- erence models, including a recently state-of- the-art reading comprehension architecture ex- tended to model dialog context. Our best model underperforms humans by 20 F1, sug- gesting that there is significant room for fu- ture work on this data. Dataset, baseline, and leaderboard available at http://quac.ai.
+
+**Mihai's comments**: New dataset for QA in dialog. (Fan: read this)
 
 ### Title
 
