@@ -16,7 +16,8 @@ The CoNLL proceedings are here: https://aclanthology.coli.uni-saarland.de/events
 
 # BlackboxNLP Workshop
 
-Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400
+This workshop is fantastic! Imo, many of the papers here are nicer than many conference publications.
+Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
 
 ### Interpretable Structure Induction Via Sparse Attention
 
@@ -64,5 +65,48 @@ Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400
 
 **Mihai's comments**: investigates which properties are actually captured by simple word embeddings. Buzz word: "diagnostic classifier"
 
+
+# EMNLP Day 1
+
+### Reasoning about Actions and State Changes by Injecting Commonsense Knowledge
+
+**URL**: http://aclweb.org/anthology/D18-1006
+
+**Abstract**: Comprehending procedural text, e.g., a para- graph describing photosynthesis, requires modeling actions and the state changes they produce, so that questions about entities at dif- ferent timepoints can be answered. Although several recent systems have shown impressive progress in this task, their predictions can be globally inconsistent or highly improbable. In this paper, we show how the predicted effects of actions in the context of a paragraph can be improved in two ways: (1) by incorporat- ing global, commonsense constraints (e.g., a non-existent entity cannot be destroyed), and (2) by biasing reading with preferences from large-scale corpora (e.g., trees rarely move). Unlike earlier methods, we treat the problem as a neural structured prediction task, allow- ing hard and soft constraints to steer the model away from unlikely predictions. We show that the new model significantly outperforms ear- lier systems on a benchmark dataset for proce- dural text comprehension (+8% relative gain), and that it also avoids some of the nonsensical predictions that earlier systems make.
+
+**Mihai's comments**: TODO
+
+### Collecting Diverse Natural Language Inference Problems for Sentence Representation 
+
+**URL**: http://aclweb.org/anthology/D18-1007
+
+**Abstract**: We present a large scale collection of diverse natural language inference (NLI) datasets that help provide insight into how well a sentence representation captures distinct types of rea- soning. The collection results from recasting 13 existing datasets from 7 semantic phenom- ena into a common NLI structure, resulting in over half a million labeled context-hypothesis pairs in total. We refer to our collection as the DNC: Diverse Natural Language Inference Collection. The DNC is available online at http://www.decomp.net, and will grow over time as additional resources are recast and added from novel sources.
+
+**Mihai's comments**: TODO
+
+### Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension
+
+**URL**: http://aclweb.org/anthology/D18-1052
+
+**Abstract**: 
+We formalize a new modular variant of current question answering tasks by enforcing com- plete independence of the document encoder from the question encoder. This formulation addresses a key challenge in machine compre- hension by requiring a standalone representa- tion of the document discourse. It addition- ally leads to a significant scalability advantage since the encoding of the answer candidate phrases in the document can be pre-computed and indexed offline for efficient retrieval. We experiment with baseline models for the new task, which achieve a reasonable accuracy but significantly underperform unconstrained QA models. We invite the QA research commu- nity to engage in Phrase-Indexed Question An- swering (PIQA, pika) for closing the gap. The leaderboard is at: nlp.cs.washington. edu/piqa
+
+**Mihai's comments**: TODO (Vikas: read this.)
+
+### Ranking Paragraphs for Improving Answer Recall in Open-Domain Question Answering
+
+**URL**: http://aclweb.org/anthology/D18-1053
+
+**Abstract**: Recently, open-domain question answering (QA) has been combined with machine com- prehension models to find answers in a large knowledge source. As open-domain QA re- quires retrieving relevant documents from text corpora to answer questions, its performance largely depends on the performance of doc- ument retrievers. However, since traditional information retrieval systems are not effective in obtaining documents with a high probabil- ity of containing answers, they lower the per- formance of QA systems. Simply extracting more documents increases the number of ir- relevant documents, which also degrades the performance of QA systems. In this paper, we introduce Paragraph Ranker which ranks para- graphs of retrieved documents for a higher an- swer recall with less noise. We show that rank- ing paragraphs and aggregating answers us- ing Paragraph Ranker improves performance of open-domain QA pipeline on the four open- domain QA datasets by 7.8% on average.
+
+**Mihai's comments**: TODO
+
+### Title
+
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
 
 
