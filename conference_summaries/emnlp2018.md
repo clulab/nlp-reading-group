@@ -118,6 +118,14 @@ We formalize a new modular variant of current question answering tasks by enforc
 
 **Mihai's comments**: An efficient way to encode large contexts (e.g., for sentence classification, the entire document around the sentence). Efficient encoding with FOFE. Read this if you need large context for classification.
 
+### RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information
+
+**URL**: http://aclweb.org/anthology/D18-1157
+
+**Abstract**: Distantly-supervised Relation Extraction (RE) methods train an extractor by automatically aligning relation instances in a Knowledge Base (KB) with unstructured text. In addi- tion to relation instances, KBs often contain other relevant side information, such as aliases of relations (e.g., founded and co-founded are aliases for the relation founderOfCompany). RE models usually ignore such readily avail- able side information. In this paper, we pro- pose RESIDE, a distantly-supervised neural relation extraction method which utilizes ad- ditional side information from KBs for im- proved relation extraction. It uses entity type and relation alias information for imposing soft constraints while predicting relations. RE- SIDE employs Graph Convolution Networks (GCN) to encode syntactic information from text and improves performance even when limited side information is available. Through extensive experiments on benchmark datasets, we demonstrate RESIDE’s effectiveness. We have made RESIDE’s source code available to encourage reproducible research.
+
+**Mihai's comments**: TODO (Fan: read this)
+
 # EMNLP Day 2
 
 ### QuAC : Question Answering in Context
@@ -136,6 +144,7 @@ Answering in Context that contains 14K information-seeking QA dialogs (100K ques
 **Abstract**: Adjectives like warm, hot, and scalding all de- scribe temperature but differ in intensity. Un- derstanding these differences between adjec- tives is a necessary part of reasoning about nat- ural language. We propose a new paraphrase- based method to automatically learn the rela- tive intensity relation that holds between a pair of scalar adjectives. Our approach analyzes over 36k adjectival pairs from the Paraphrase Database under the assumption that, for exam- ple, paraphrase pair really hot ↔ scalding sug- gests that hot < scalding. We show that com- bining this paraphrase evidence with existing, complementary pattern- and lexicon-based ap- proaches improves the quality of systems for automatically ordering sets of scalar adjectives and inferring the polarity of indirect answers to yes/no questions.
 
 **Mihai's comments**: learns ranking of adjectives from paraphrases. (Mithun: read this)
+
 
 ### Title
 
