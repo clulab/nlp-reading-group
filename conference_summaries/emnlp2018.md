@@ -185,6 +185,22 @@ Answering in Context that contains 14K information-seeking QA dialogs (100K ques
 
 **Mihai's comments**: A nice dataset for language inference over free text. (Zhengzhong: read this)
 
+### Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision
+
+**URL**: http://aclweb.org/anthology/D18-1215
+
+**Abstract**: Deep learning has emerged as a versatile tool for a wide range of NLP tasks, due to its supe- rior capacity in representation learning. But its applicability is limited by the reliance on anno- tated examples, which are difficult to produce at scale. Indirect supervision has emerged as a promising direction to address this bottleneck, either by introducing labeling functions to au- tomatically generate noisy examples from un- labeled text, or by imposing constraints over interdependent label decisions. A plethora of methods have been proposed, each with re- spective strengths and limitations. Probabilis- tic logic offers a unifying language to repre- sent indirect supervision, but end-to-end mod- eling with probabilistic logic is often infea- sible due to intractable inference and learn- ing. In this paper, we propose deep proba- bilistic logic (DPL) as a general framework for indirect supervision, by composing prob- abilistic logic with deep learning. DPL mod- els label decisions as latent variables, repre- sents prior knowledge on their relations using weighted first-order logical formulas, and al- ternates between learning a deep neural net- work for the end task and refining uncertain formula weights for indirect supervision, us- ing variational EM. This framework subsumes prior indirect supervision methods as special cases, and enables novel combination via infu- sion of rich domain and linguistic knowledge. Experiments on biomedical machine reading demonstrate the promise of this approach.
+
+**Mihai's comments**: Combining logic inference with deep learning!
+
+### Generating Natural Language Adversarial Examples
+
+**URL**: http://aclweb.org/anthology/D18-1316
+
+**Abstract**: Deep neural networks (DNNs) are vulnera- ble to adversarial examples, perturbations to correctly classified examples which can cause the model to misclassify. In the image do- main, these perturbations are often virtually indistinguishable to human perception, caus- ing humans and state-of-the-art models to dis- agree. However, in the natural language do- main, small perturbations are clearly percep- tible, and the replacement of a single word can drastically alter the semantics of the doc- ument. Given these challenges, we use a black-box population-based optimization al- gorithm to generate semantically and syntac- tically similar adversarial examples that fool well-trained sentiment analysis and textual en- tailment models with success rates of 97% and 70%, respectively. We additionally demon- strate that 92.3% of the successful sentiment analysis adversarial examples are classified to their original label by 20 human annotators, and that the examples are perceptibly quite similar. Finally, we discuss an attempt to use adversarial training as a defense, but fail to yield improvement, demonstrating the strength and diversity of our adversarial examples. We hope our findings encourage researchers to pursue improving the robustness of DNNs in the natural language domain.
+
+**Mihai's comments**: Nice approach to generate meaningful adversarial examples. (Mithun: read this)
+
 ### Title
 
 **URL**: 
