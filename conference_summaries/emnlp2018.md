@@ -92,7 +92,7 @@ Proceedings for this workshop are here: http://aclweb.org/anthology/W18-5400.
 **Abstract**: 
 We formalize a new modular variant of current question answering tasks by enforcing com- plete independence of the document encoder from the question encoder. This formulation addresses a key challenge in machine compre- hension by requiring a standalone representa- tion of the document discourse. It addition- ally leads to a significant scalability advantage since the encoding of the answer candidate phrases in the document can be pre-computed and indexed offline for efficient retrieval. We experiment with baseline models for the new task, which achieve a reasonable accuracy but significantly underperform unconstrained QA models. We invite the QA research commu- nity to engage in Phrase-Indexed Question An- swering (PIQA, pika) for closing the gap. The leaderboard is at: nlp.cs.washington. edu/piqa
 
-**Mihai's comments**: indexes phrases (just NPs and NEs?) rather than documents. Then generate an encoding of each phrase, and retrieve good answers using nearest neighbors to the question vector. This is a neat paper, even if the performance is not great yet. (Vikas: read this.)
+**Mihai's comments**: indexes phrases (just NPs and NEs?) rather than documents. Then generates an encoding of each phrase, and retrieves good answers using nearest neighbors to the question vector. This is a neat paper, even if the performance is not great yet. (Vikas: read this.)
 
 ### Ranking Paragraphs for Improving Answer Recall in Open-Domain Question Answering
 
@@ -108,7 +108,7 @@ We formalize a new modular variant of current question answering tasks by enforc
 
 **Abstract**: State-of-the-art systems in deep question an- swering proceed as follows: (1) an initial document retrieval selects relevant documents, which (2) are then processed by a neural net- work in order to extract the final answer. Yet the exact interplay between both compo- nents is poorly understood, especially con- cerning the number of candidate documents that should be retrieved. We show that choos- ing a static number of documents – as used in prior research – suffers from a noise- information trade-off and yields suboptimal results. As a remedy, we propose an adaptive document retrieval model. This learns the opti- mal candidate number for document retrieval, conditional on the size of the corpus and the query. We report extensive experimental re- sults showing that our adaptive approach out- performs state-of-the-art methods on multiple benchmark datasets, as well as in the context of corpora with variable sizes.
 
-**Mihai's comments**: makes the number of documents retrieved for QA dependent on the confidence we have in the IR system for this query (the more confident, the fewer documents). Nice, but it uses the IR system as a blackbox... (Vikas: read this)
+**Mihai's comments**: nice idea that makes the number of documents retrieved for QA dependent on the confidence we have in the IR system for this query (the more confident, the fewer documents). Nice, but it uses the IR system as a blackbox... (Vikas: read this)
 
 ### A Deep Neural Network Sentence Level Classification Method with Context Information
 
@@ -159,7 +159,7 @@ Answering in Context that contains 14K information-seeking QA dialogs (100K ques
 
 **Abstract**: High-level semantics tasks, e.g., paraphras- ing, textual entailment or question answer- ing, involve modeling of text pairs. Before the emergence of neural networks, this has been mostly performed using intra-pair fea- tures, which incorporate similarity scores or rewrite rules computed between the members within the same pair. In this paper, we com- pute scalar products between vectors repre- senting similarity between members of differ- ent pairs, in place of simply using a single vector for each pair. This allows us to obtain a representation specific to any pair of pairs, which delivers the state of the art in answer sentence selection. Most importantly, our ap- proach can outperform much more complex algorithms based on neural networks.
 
-**Mihai's comments**: Kernels continue to work very well for QA
+**Mihai's comments**: Kernels continue to work very well for QA.
 
 ### N-ary Relation Extraction using Graph State LSTM
 
