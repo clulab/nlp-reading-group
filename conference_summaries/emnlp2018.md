@@ -177,6 +177,14 @@ Answering in Context that contains 14K information-seeking QA dialogs (100K ques
 
 **Mihai's comments**: What the title says. What works: fancy word embeddings that combine characters, WordNet info, POS tags, and Fastext; the usual: position embeddings, biLSTMs, CNNs. 
 
+### Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering
+
+**URL**: http://aclweb.org/anthology/D18-1260
+
+**Abstract**: We present a new kind of question answering dataset, OpenBookQA, modeled after open book exams for assessing human understand- ing of a subject. The open book that comes with our questions is a set of 1326 elementary level science facts. Roughly 6000 questions probe an understanding of these facts and their application to novel situations. This requires combining an open book fact (e.g., metals con- duct electricity) with broad common knowl- edge (e.g., a suit of armor is made of metal) ob- tained from other sources. While existing QA datasets over documents or knowledge bases, being generally self-contained, focus on lin- guistic understanding, OpenBookQA probes a deeper understanding of both the topic—in the context of common knowledge—and the lan- guage it is expressed in. Human performance on OpenBookQA is close to 92%, but many state-of-the-art pre-trained QA methods per- form surprisingly poorly, worse than several simple neural baselines we develop. Our or- acle experiments designed to circumvent the knowledge retrieval bottleneck demonstrate the value of both the open book and additional facts. We leave it as a challenge to solve the retrieval problem in this multi-hop setting and to close the large gap to human performance.
+
+**Mihai's comments**: A nice dataset for language inference over free text. (Zhengzhong: read this)
+
 ### Title
 
 **URL**: 
