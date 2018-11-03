@@ -145,6 +145,37 @@ Answering in Context that contains 14K information-seeking QA dialogs (100K ques
 
 **Mihai's comments**: learns ranking of adjectives from paraphrases. (Mithun: read this)
 
+### MemoReader: Large-Scale Reading Comprehension through Neural Memory Controller
+
+**URL**: http://aclweb.org/anthology/D18-1237
+
+**Abstract**: Machine reading comprehension helps ma- chines learn to utilize most of the human knowledge written in the form of text. Existing approaches made a significant progress com- parable to human-level performance, but they are still limited in understanding, up to a few paragraphs, failing to properly comprehend lengthy document. In this paper, we propose a novel deep neural network architecture to han- dle a long-range dependency in RC tasks. In detail, our method has two novel aspects: (1) an advanced memory-augmented architecture and (2) an expanded gated recurrent unit with dense connections that mitigate potential in- formation distortion occurring in the memory. Our proposed architecture is widely applicable to other models. We have performed exten- sive experiments with well-known benchmark datasets such as TriviaQA, QUASAR-T, and SQuAD. The experimental results demonstrate that the proposed method outperforms existing methods, especially for lengthy documents.
+
+**Mihai's comments**: Extension of memory networks for reading comprehension. (Zhengzhong: read this)
+
+### Cross-Pair Text Representations for Answer Sentence Selection
+
+**URL**: http://aclweb.org/anthology/D18-1240
+
+**Abstract**: High-level semantics tasks, e.g., paraphras- ing, textual entailment or question answer- ing, involve modeling of text pairs. Before the emergence of neural networks, this has been mostly performed using intra-pair fea- tures, which incorporate similarity scores or rewrite rules computed between the members within the same pair. In this paper, we com- pute scalar products between vectors repre- senting similarity between members of differ- ent pairs, in place of simply using a single vector for each pair. This allows us to obtain a representation specific to any pair of pairs, which delivers the state of the art in answer sentence selection. Most importantly, our ap- proach can outperform much more complex algorithms based on neural networks.
+
+**Mihai's comments**: Kernels continue to work very well for QA
+
+### N-ary Relation Extraction using Graph State LSTM
+
+**URL**: http://aclweb.org/anthology/D18-1246
+
+**Abstract**: Cross-sentence n-ary relation extraction de- tects relations among n entities across multi- ple sentences. Typical methods formulate an input as a document graph, integrating vari- ous intra-sentential and inter-sentential depen- dencies. The current state-of-the-art method splits the input graph into two DAGs, adopt- ing a DAG-structured LSTM for each. Though being able to model rich linguistic knowledge by leveraging graph edges, important infor- mation can be lost in the splitting procedure. We propose a graph-state LSTM model, which uses a parallel state to model each word, recur- rently enriching state values via message pass- ing. Compared with DAG LSTMs, our graph LSTM keeps the original graph structure, and speeds up computation by allowing more par- allelization. On a standard benchmark, our model shows the best result in the literature.
+
+**Mihai's comments**: A very nice take on graph LSTMs, which follows each word in a sentence over time. Application to n-ary relation extraction.
+
+### Large-scale Exploration of Neural Relation Classification Architectures
+
+**URL**: http://aclweb.org/anthology/D18-1250
+
+**Abstract**: Experimental performance on the task of rela- tion classification has generally improved us- ing deep neural network architectures. One major drawback of reported studies is that individual models have been evaluated on a very narrow range of datasets, raising ques- tions about the adaptability of the architec- tures, while making comparisons between ap- proaches difficult. In this work, we present a systematic large-scale analysis of neural rela- tion classification architectures on six bench- mark datasets with widely varying characteris- tics. We propose a novel multi-channel LSTM model combined with a CNN that takes ad- vantage of all currently popular linguistic and architectural features. Our ‘Man for All Sea- sons’ approach achieves state-of-the-art per- formance on two datasets. More importantly, in our view, the model allowed us to obtain direct insights into the continued challenges faced by neural language models on this task. Example data and source code are available at: https://github.com/aidantee/ MASS.
+
+**Mihai's comments**: What the title says. What works: fancy word embeddings that combine characters, WordNet info, POS tags, and Fastext; the usual: position embeddings, biLSTMs, CNNs. 
 
 ### Title
 
