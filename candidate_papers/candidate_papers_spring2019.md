@@ -39,3 +39,8 @@ https://arxiv.org/pdf/1812.06705.pdf
 
 ### Summary of Peter Jansen's recent signal-to-noise ration / graph-traversal papers
 
+### nocaps: novel object captioning at scale
+https://arxiv.org/pdf/1812.08658.pdf
+
+
+
