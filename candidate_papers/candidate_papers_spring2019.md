@@ -12,3 +12,14 @@ https://aclanthology.coli.uni-saarland.de/papers/K18-1007/k18-1007
 http://aclweb.org/anthology/D18-1246
 
 ### Transformer Networks paper
+
+## Zhengzhong Paper
+[Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](https://arxiv.org/pdf/1506.07285.pdf)
+
+[Think Visually: Question Answering through Virtual Imagery](https://arxiv.org/pdf/1805.11025.pdf)
+
+[Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module](https://arxiv.org/pdf/1805.09354.pdf)
+
+[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://arxiv.org/pdf/1804.08217.pdf)
+
+[Neural Natural Language Inference Models Enhanced with External Knowledge](http://www.aclweb.org/anthology/P18-1224)
