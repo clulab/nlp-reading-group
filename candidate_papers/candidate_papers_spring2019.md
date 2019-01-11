@@ -34,3 +34,8 @@ https://openreview.net/pdf?id=ByldlhAqYQ
 
 ### Conditional BERT Contextual Augmentation
 https://arxiv.org/pdf/1812.06705.pdf
+
+## Proposed by Becky
+
+### Summary of Peter Jansen's recent signal-to-noise ration / graph-traversal papers
+
