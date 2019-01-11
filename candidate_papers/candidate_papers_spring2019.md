@@ -52,3 +52,8 @@ https://arxiv.org/pdf/1506.01094.pdf
 http://aclweb.org/anthology/D18-1195
 
 
+## Proposed by Vikas
+
+### Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples
+https://papers.nips.cc/paper/6701-active-bias-training-more-accurate-neural-networks-by-emphasizing-high-variance-samples.pdf
+
