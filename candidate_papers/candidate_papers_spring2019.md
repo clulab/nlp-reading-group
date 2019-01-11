@@ -57,3 +57,12 @@ http://aclweb.org/anthology/D18-1195
 ### Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples
 https://papers.nips.cc/paper/6701-active-bias-training-more-accurate-neural-networks-by-emphasizing-high-variance-samples.pdf
 
+
+## Proposed by Fan
+
+### Multi-Hop Knowledge Graph Reasoning with Reward Shaping 
+https://arxiv.org/pdf/1808.10568.pdf
+
+### SegBot: A Generic Neural Text Segmentation Model with Pointer Network
+https://www.ijcai.org/proceedings/2018/0579.pdf
+
