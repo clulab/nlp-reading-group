@@ -23,3 +23,14 @@ http://aclweb.org/anthology/D18-1246
 [Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://arxiv.org/pdf/1804.08217.pdf)
 
 [Neural Natural Language Inference Models Enhanced with External Knowledge](http://www.aclweb.org/anthology/P18-1224)
+
+## Proposed by Dongfang
+
+### Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking
+http://www.aclweb.org/anthology/P18-1010
+
+### Transfer Learning for Sequences via Learning to Collocate
+https://openreview.net/pdf?id=ByldlhAqYQ
+
+### Conditional BERT Contextual Augmentation
+https://arxiv.org/pdf/1812.06705.pdf
