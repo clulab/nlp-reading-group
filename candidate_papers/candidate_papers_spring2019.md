@@ -11,3 +11,4 @@ https://aclanthology.coli.uni-saarland.de/papers/K18-1007/k18-1007
 ### N-ary Relation Extraction using Graph State LSTM
 http://aclweb.org/anthology/D18-1246
 
+### Transformer Networks paper
