@@ -72,8 +72,9 @@ https://www.ijcai.org/proceedings/2018/0579.pdf
 ### Combining Fact Extraction and Verification with Neural Semantic Matching Networks
 https://arxiv.org/pdf/1811.07039.pdf
 
-### TransferTransfo: A Transfer Learning Approach for
-Neural Network Based Conversational Agents
+### TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents
 https://arxiv.org/pdf/1806.04381.pdf
 
 
+### Cross-Pair Text Representations for Answer Sentence Selection
+http://aclweb.org/anthology/D18-1240
