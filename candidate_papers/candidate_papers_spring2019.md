@@ -66,3 +66,14 @@ https://arxiv.org/pdf/1808.10568.pdf
 ### SegBot: A Generic Neural Text Segmentation Model with Pointer Network
 https://www.ijcai.org/proceedings/2018/0579.pdf
 
+
+## Proposed by Mithun
+
+### Combining Fact Extraction and Verification with Neural Semantic Matching Networks
+https://arxiv.org/pdf/1811.07039.pdf
+
+### TransferTransfo: A Transfer Learning Approach for
+Neural Network Based Conversational Agents
+https://arxiv.org/pdf/1806.04381.pdf
+
+
