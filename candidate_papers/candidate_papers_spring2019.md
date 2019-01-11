@@ -42,10 +42,13 @@ https://arxiv.org/pdf/1812.06705.pdf
 ### nocaps: novel object captioning at scale
 https://arxiv.org/pdf/1812.08658.pdf
 
+### Traversing Knowledge Graphs in Vector Space
+https://arxiv.org/pdf/1506.01094.pdf
+
+
 ## Proposed by Enrique
 
 ### Learning to Learn Semantic Parsers from Natural Language Supervision
 http://aclweb.org/anthology/D18-1195
-
 
 
