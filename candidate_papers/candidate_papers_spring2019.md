@@ -78,3 +78,9 @@ https://arxiv.org/pdf/1806.04381.pdf
 
 ### Cross-Pair Text Representations for Answer Sentence Selection
 http://aclweb.org/anthology/D18-1240
+
+### Multi-Adversarial Domain Adaptation
+https://arxiv.org/pdf/1809.02176.pdf
+
+### Strong Baselines for Neural Semi-supervised Learning under Domain Shift
+https://arxiv.org/pdf/1804.09530.pdf
