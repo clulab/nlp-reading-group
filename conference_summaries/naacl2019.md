@@ -37,3 +37,24 @@ Counter-argument: We’ll never have a perfect train set, so is it really a data
 **ABSTRACT**: Attention mechanisms have seen wide adoption in neural NLP models. In addition to improving predictive performance, these are often touted as affording transparency: models equipped with attention provide a distribution over attended-to input units, and this is often presented (at least implicitly) as communicating the relative importance of inputs. However, it is unclear what relationship exists between attention weights and model outputs. In this work we perform extensive experiments across a variety of NLP tasks that aim to assess the degree to which attention weights provide meaningful “explanations" for predictions. We find that they largely do not. For example, learned attention weights are frequently uncorrelated with gradient-based mea- sures of feature importance, and one can identify very different attention distributions that nonetheless yield equivalent predictions. Our findings show that standard attention modules do not provide meaningful explanations and should not be treated as though they do. Code to reproduce all experiments is available at https://github.com/successar/AttentionExplanation.
 
 **NOTES**: A really nice look at whether attention weights really correlate with what is most informative to the model: spoiler -- not super really.  You should watch the video for sure, it was a fun and rather *bold* presentation, and the final line was provocative -- re: the fact that attn weights (and so accordingly the heatmaps from them) are over the *hidden states* of the words, not the words themselves, “Just because things have the same first dimension doesn’t mean you can lay one over the other.”  A fun listen.
+
+
+### Vikas - favorite papers
+
+**The most task innovative paper**
+[Question Answering as an Automatic Evaluation Metric for News Article Summarization](https://www.aclweb.org/anthology/N19-1395)
+
+Proved that trained QA models can be used as evaluator for summarizations and this evaluater is more effective than any other summarization evaluation metric. The discussion with the first author blew my mind. For summarization evaluation metrics, you need labelled training data but not for QA based evaluation. The QA performance is directly proportional to the summarization quality. 
+
+
+[Shifting the Baseline:Single Modality Performance on Visual Navigation & QA](https://www.aclweb.org/anthology/N19-1197)
+
+**Fun short paper**
+
+Both language and image information is important. The ablation studies done in the paper are very informative and we can learn a lot from here. 
+
+[Star-Transformer](https://arxiv.org/pdf/1902.09113.pdf)
+
+If anyone understood this paper, please explain me too. I missed Mihai when I was reading this poster, hahaha...
+
+
