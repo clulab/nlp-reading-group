@@ -87,3 +87,52 @@ Transition-based parsing that replaces the stack with a set.
 [Mitigating Uncertainty in Document Classification](https://www.aclweb.org/anthology/N19-1316)
 
 Introduces a simple dropout-based approach for estimating uncertainty of predictions. Also includes a margin-based approach to learn a contextual embedding space that better separates the classes.
+
+### ---------------Yiyun's List -----------------
+###1.Understand the black box
+
+[**Analysis Methods in Neural Language Processing: A survey**](https://arxiv.org/pdf/1812.08951.pdf)
+
+This is a survey that investigates different methods to understand what neural nets learn.
+
+[**The emergence of number and syntax units in LSTM models**](https://arxiv.org/pdf/1903.07435.pdf)
+
+**Abstract**:Recent work has shown that LSTMs trained on a generic language modeling objective capture syntax-sensitive generalizations such as longdistance number agreement. We have however no mechanistic understanding of how they accomplish this remarkable feat. Some have conjectured it depends on heuristics that do not truly take hierarchical structure into account. We present here a detailed study of the inner mechanics of number tracking in LSTMs at the single neuron level. We discover that long distance number information is largely managed by two “number units”. Importantly, the behaviour of these units is partially controlled by other units independently shown to track syntactic structure. We conclude that LSTMs are, to some extent, implementing genuinely syntactic processing mechanisms, paving the way to a more general understanding of grammatical encoding in LSTMs.
+
+**NOTES**:Some of the analysis methods I found cool such as using ablation tests of each unit to find out which one encodes the number-agreement and they indeed found one unit for singular and one for plural. They also traced the activation change of forgetting gate to see whether the syntactic information is kept when it is needed. 
+
+[**Understanding Learning Dynamics of Language Models with SVCCA**](https://arxiv.org/abs/1811.00225)
+
+**Abstract**: Research has shown that neural models implicitly encode linguistic features, but there has been no research showing how these encodings arise as the models are trained. We present the first study on the learning dynamics of neural language models, using a simple and flexible analysis method called Singular Vector Canonical Correlation Analysis (SVCCA), which enables us to compare learned representations across time and across models, without the need to evaluate directly on annotated data. We probe the evolution of syntactic, semantic, and topic representations and find that part-of-speech is learned earlier than topic; that recurrent layers become more similar to those of a tagger during training; and embedding layers less similar. Our results and methods could inform better learning algorithms for NLP models, possibly to incorporate linguistic information more effectively.
+
+**NOTES**:One interesting idea is to show how different linguistic information is correlated or de-correlated over the learning trajectory. 
+
+[**Neural Language model as psycholinguistic subjects: Representation of syntactic state**](https://arxiv.org/abs/1903.03260)
+
+**Abstract**: We deploy the methods of controlled psycholinguistic experimentation to shed light on the extent to which the behavior of neural network language models reflects incremental representations of syntactic state. To do so, we examine model behavior on artificial sentences containing a variety of syntactically complex structures. We test four models: two publicly available LSTM sequence models of English (Jozefowicz et al., 2016; Gulordava et al., 2018) trained on large datasets; an RNNG (Dyer et al., 2016) trained on a small, parsed dataset; and an LSTM trained on the same small corpus as the RNNG. We find evidence that the LSTMs trained on large datasets represent syntactic state over large spans of text in a way that is comparable to the RNNG, while the LSTM trained on the small dataset does not or does so only weakly.
+
+**NOTES**:This one compared the human's syntactic preference with the neural nets' preference and found that RNNs are closer to human behavior than n-grams and transformer is even better (not in the paper but said in the presentation). My takeaway is that neural nets could imitate lots of human biases (not only the social bias such as gender bias but also linguistic preference)
+
+[**Studying the Inductive biases of RNNs with Synthetic Variations of Neural Languages**](https://arxiv.org/abs/1903.06400)
+
+**Abstract**:How do typological properties such as word order and morphological case marking affect the ability of neural sequence models to acquire the syntax of a language? Crosslinguistic comparisons of RNNs’ syntactic performance (e.g., on subject-verb agreement prediction) are complicated by the fact that any two languages differ in multiple typological properties, as well as by differences in training corpus. We propose a paradigm that addresses these issues: we create synthetic versions of English, which differ from English in one or more typological parameters, and generate corpora for those languages based on a parsed English corpus. We report a series of experiments in which RNNs were trained to predict agreement features for verbs in each of those synthetic languages. Among other findings, (1) performance was higher in subject-verb-object order (as in English) than in subject-object-verb order (as in Japanese), suggesting that RNNs have a recency bias; (2) predicting agreement with both subject and object (polypersonal agreement) improves over predicting each separately, suggesting that underlying syntactic knowledge transfers across the two tasks; and (3) overt morphological case makes agreement prediction significantly easier, regardless of word order.
+
+**NOTES**:The method is interesting: they scrambled the English word order into different types and made up some case markers to see whether different word order makes the acquisition of subject and verb word agreement difficult. They tried to control the training data so they scrambled the English rather than using a different language.
+They indeed show some word orders enable easy learning of subject-verb agreement. But they didn't some other stats such as the number of nouns as subjects or objects. I wonder to what extent this finding corresponds to any typological preference. One person askes whether the results reflected RNN's ability or the language complexity. 
+
+###2.Rethink about Measures
+
+[**Correlation Coefficients and Semantic Textual Similarity**](https://arxiv.org/pdf/1905.07790.pdf)
+
+**Abstract**:A large body of research into semantic textual similarity has focused on constructing state-of-the-art embeddings using sophisticated modelling, careful choice of learning signals and many clever tricks. By contrast, little attention has been devoted to similarity measures between these embeddings, with cosine similarity being used unquestionably in the majority of cases. In this work, we illustrate that for all common word vectors, cosine similarity is essentially equivalent to the Pearson correlation coefficient, which provides some justification for its use. We thoroughly characterise cases where Pearson correlation (and thus cosine similarity) is unfit as similarity measure. Importantly, we show that Pearson correlation is appropriate for some word vectors but not others. When it is not appropriate, we illustrate how common nonparametric rank correlation coefficients can be used instead to significantly improve performance. We support our analysis with a series of evaluations on word-level and sentence-level semantic textual similarity benchmarks. On the latter, we show that even the simplest averaged word vectors compared by rank correlation easily rival the strongest deep representations compared by cosine similarity
+
+**NOTES**:It provides an interesting view to look at a word vector as a random variable, and each dimension as an observation of this variable. I wonder other than the similarity measure what could be followup if we adopt this view.
+
+[**What just happened? Evaluating Retrofitted Distributional Word Vectors**](https://www.aclweb.org/anthology/N19-1111)
+
+**Abstract**:Recent work has attempted to enhance vector space representations using information from structured semantic resources. This process, dubbed retrofitting Faruqui et al. (2015), has yielded improvements in word similarity performance. Research has largely focused on the retrofitting algorithm, or on the kind of structured semantic resources used, but little research has explored why some resources perform better than others. We conducted a finegrained analysis of the original retrofitting process, and found that the utility of different lexical resources for retrofitting depends on two factors: the coverage of the resource and the evaluation metric. Our assessment suggests that the common practice of using correlation measures to evaluate increases in performance against full word similarity benchmarks 1) obscures the benefits offered by smaller resources, and 2) overlooks incremental gains in word similarity performance. We propose root-mean-square error (RMSE) as an alternative evaluation metric, and demonstrate that correlation measures and RMSE sometimes yield opposite conclusions concerning the efficacy of retrofitting. This point is illustrated by word vectors retrofitted with novel treatments of the FrameNet data (Fillmore and Baker, 2010).
+
+**NOTES**:This one also looks up how we should evaluate the result and it showed that depending which measure we adopt the results could vary a lot. But I don't think from their presentation they demonstrated why RMSE is better.
+
+
+
