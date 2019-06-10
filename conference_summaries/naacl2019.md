@@ -58,3 +58,32 @@ Both language and image information is important. The ablation studies done in t
 If anyone understood this paper, please explain me too. I missed Mihai when I was reading this poster, hahaha...
 
 
+### Steve
+
+[Rethinking Complex Neural Network Architectures for Document Classification](https://www.aclweb.org/anthology/N19-1408)
+
+You don't need attention, hierarchical structure, and sequence generation if you use a good regularizer.
+
+[A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419)
+
+Very cool way of looking for syntax in BERT and ELMo.
+
+[Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112)
+
+Another paper probing contextual word embeddings.
+
+[Neural Semi-Markov Conditional Random Fields for Robust Character-Based Part-of-Speech](https://www.aclweb.org/anthology/N19-1280)
+
+An character-level approach that jointly tokenizes and tags.
+
+[Detection of Abusive Language: the Problem of Biased Datasets](https://www.aclweb.org/anthology/N19-1060)
+
+Analysis of different abusive language datasets. A must-read for anyone doing abusive language or related areas. Shows why the Kaggle dataset is so easy. And concludes that we really should not use the Waseem dataset or other datasets based on topic sampling.
+
+[Discontinuous Constituency Parsing with a Stack-Free Transition System and a Dynamic Oracle: Transition system for constituency parsing](https://www.aclweb.org/anthology/N19-1018)
+
+Transition-based parsing that replaces the stack with a set.
+
+[Mitigating Uncertainty in Document Classification](https://www.aclweb.org/anthology/N19-1316)
+
+Introduces a simple dropout-based approach for estimating uncertainty of predictions. Also includes a margin-based approach to learn a contextual embedding space that better separates the classes.
