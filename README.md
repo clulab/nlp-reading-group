@@ -3,7 +3,7 @@
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
 
-### [Spring 2019 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Reading-group-2019-papers)
+### [Spring 2019 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2019-Reading-Schedule)
 
 The group will be meeting nearly every Friday during the Spring 2019 semester on the ninth floor of [Gould-Simpson](http://map.arizona.edu) from 2-3PM in room 856.
 
@@ -17,5 +17,7 @@ Everyone is welcome to participate (faculty and students alike).  The only expec
 * [Fall 2016](https://github.com/clulab/nlp-reading-group/wiki/Fall-2016-Reading-Schedule)
 * [Spring 2017](https://github.com/clulab/nlp-reading-group/wiki/Spring-2017-Reading-Schedule)
 * [Summer 2017 Get-Togethers](https://github.com/clulab/nlp-reading-group/wiki/Summer-2017-Schedule)
-* [Fall 2017](https://github.com/clulab/nlp-reading-group/wiki/FALL-2017-Reading-Schedule)
+* [Fall 2017](https://github.com/clulab/nlp-reading-group/wiki/Fall-2017-Reading-Schedule)
 * [Spring 2018](https://github.com/clulab/nlp-reading-group/wiki/Spring-2018-Reading-Schedule)
+* [Fall 2018](https://github.com/clulab/nlp-reading-group/wiki/Fall-2018-Reading-Schedule)
+* [Spring 2019](https://github.com/clulab/nlp-reading-group/wiki/Spring-2019-Reading-Schedule)
