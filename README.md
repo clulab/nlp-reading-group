@@ -2,13 +2,12 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
+The group meets nearly every Friday of the semester from 2:00-3:00pm in [Gould-Simpson](https://maps.arizona.edu/campus360/?buildingId=77) 906.
+Everyone is welcome to participate (faculty and students alike).
+The only expectation is that participants read the paper scheduled for that week ahead of time.
+The full reading schedule for the semester is here:
 
-### [Spring 2019 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2019-Reading-Schedule)
-
-The group will be meeting nearly every Friday during the Spring 2019 semester on the ninth floor of [Gould-Simpson](http://map.arizona.edu) from 2-3PM in room 856.
-
-Everyone is welcome to participate (faculty and students alike).  The only expectation is that participants read the paper scheduled for that week ahead of time.
-
+* [Fall 2019 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2019-Reading-Schedule)
 
 ## Previous Semesters
 
