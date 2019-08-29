@@ -6,4 +6,4 @@
 * Maximin Coavoux, Shay B. Cohen. [Discontinuous Constituency Parsing with a Stack-Free Transition System and a Dynamic Oracle: Transition system for constituency parsing](https://www.aclweb.org/anthology/N19-1018). NAACL 2019.
 
 ## Peter L's suggestion
-* Guillaume Lample, Alexandre Sablayrolles, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou. [Large Memory Layers with Product Keys] (https://arxiv.org/abs/1907.05242). arXiv preprint 2019
+* Guillaume Lample, Alexandre Sablayrolles, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou. [Large Memory Layers with Product Keys](https://arxiv.org/abs/1907.05242). arXiv preprint 2019
