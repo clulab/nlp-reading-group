@@ -12,8 +12,7 @@
 
 #### topics :generalizabiilty, interpretability
 
-- Nanjiang Jiang and Marie-Catherine de Marneffe
-[Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment.] (https://www.aclweb.org/anthology/P19-1412/)
+- Nanjiang Jiang and Marie-Catherine de Marneffe [Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment.](https://www.aclweb.org/anthology/P19-1412/)
 
 
 - Anush Kamath, Sparsh Gupta, Vitor Carvalho, [Reversing Gradients in Adversarial Domain Adaptation for Question Deduplication and Textual Entailment Tasks Large Memory Layers with Product Keys](https://www.aclweb.org/anthology/P19-1556). ACL 2019
