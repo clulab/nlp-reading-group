@@ -22,9 +22,8 @@
 - Kris Korrel, Dieuwke Hupkes, Verna Dankers, Elia Bruni[Transcoding Compositionally: Using Attention to Find More Generalizable Solutions](https://www.aclweb.org/anthology/W19-4801)
 
 
-- Rama Rohit Reddy Gangula, Suma Reddy Duggenpudi, Radhika Mamidi [Detecting Political Bias in News Articles Using Headline Attention] (https://www.aclweb.org/anthology/W19-4809)
+- Rama Rohit Reddy Gangula, Suma Reddy Duggenpudi, Radhika Mamidi [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809)
 
-- Jesse Vig, Yonatan Belinkov
- [Analyzing the Structure of Attention in a Transformer Language Model](https://www.aclweb.org/anthology/W19-4808)
+- Jesse Vig, Yonatan Belinkov [Analyzing the Structure of Attention in a Transformer Language Model(https://www.alweb.org/anthology/W19-4808)
 
 
