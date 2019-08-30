@@ -12,19 +12,16 @@
 
 #### topics :generalizabiilty, interpretability, NLI
 
--S Bowman, X Zhu [Deep Learning for Natural Language Inference](https://www.aclweb.org/anthology/N19-5002)NAACL2019
+- S Bowman, X Zhu [Deep Learning for Natural Language Inference](https://www.aclweb.org/anthology/N19-5002)NAACL2019
 
-- Nanjiang Jiang and Marie-Catherine de Marneffe [Do you know that Florence is packed with visitors? Evaluating state-of-the-art models of speaker commitment.](https://www.aclweb.org/anthology/P19-1412/)
+- A Poliak, J Naradowsky, A Haldar, R Rudinger…  [Hypothesis only baselines in natural language inference](https://arxiv.org/abs/1805.01042) ACL 2018
 
-- Hitomi Yanaka, Koji Mineshima, Daisuke Bekki, Kentaro Inui, Satoshi Sekine, Lasha Abzianidze, Johan Bos [Can Neural Networks Understand Monotonicity Reasoning?](https://www.aclweb.org/anthology/W19-4804)
+- Masatoshi Tsuchiya [Performance Impact Caused by Hidden Bias of Training Data for Recognizing Textual Entailment](https://arxiv.org/pdf/1804.08117.pdf) lrec2018
 
-- Kris Korrel, Dieuwke Hupkes, Verna Dankers, Elia Bruni[Transcoding Compositionally: Using Attention to Find More Generalizable Solutions](https://www.aclweb.org/anthology/W19-4801)
+- Suchin Gururangan, Swabha Swayamdipta, Omer Levy, Roy Schwartz, Samuel R. Bowman, Noah A. Smith [Annotation Artifacts in Natural Language Inference Data](https://arxiv.org/pdf/1803.02324.pdf) acl 2018
 
-- Rama Rohit Reddy Gangula, Suma Reddy Duggenpudi, Radhika Mamidi [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809)
+- Hitomi Yanaka, Koji Mineshima, Daisuke Bekki, Kentaro Inui, Satoshi Sekine, Lasha Abzianidze, Johan Bos [Can Neural Networks Understand Monotonicity Reasoning?](https://www.aclweb.org/anthology/W19-4804) ACL 2019
 
-- [Hypothesis only baselines in natural language inference](https://arxiv.org/abs/1805.01042)
-A Poliak, J Naradowsky, A Haldar, R Rudinger… - arXiv preprint arXiv …, 2018 - arxiv.org
+- Kris Korrel, Dieuwke Hupkes, Verna Dankers, Elia Bruni[Transcoding Compositionally: Using Attention to Find More Generalizable Solutions](https://www.aclweb.org/anthology/W19-4801)ACL 2019
 
-- Masatoshi Tsuchiya [Performance Impact Caused by Hidden Bias of Training Data for Recognizing Textual Entailment(https://arxiv.org/pdf/1804.08117.pdf)
-
-- Suchin Gururangan, Swabha Swayamdipta, Omer Levy, Roy Schwartz, Samuel R. Bowman, Noah A. Smith [Annotation Artifacts in Natural Language Inference Data](https://arxiv.org/pdf/1803.02324.pdf)
+- Rama Rohit Reddy Gangula, Suma Reddy Duggenpudi, Radhika Mamidi [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809) ACL 2019
