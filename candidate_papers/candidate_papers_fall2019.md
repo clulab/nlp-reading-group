@@ -25,3 +25,7 @@
 - Kris Korrel, Dieuwke Hupkes, Verna Dankers, Elia Bruni[Transcoding Compositionally: Using Attention to Find More Generalizable Solutions](https://www.aclweb.org/anthology/W19-4801)ACL 2019
 
 - Rama Rohit Reddy Gangula, Suma Reddy Duggenpudi, Radhika Mamidi [Detecting Political Bias in News Articles Using Headline Attention](https://www.aclweb.org/anthology/W19-4809) ACL 2019
+
+## Dongfang's suggestions
+* Wang Bingyu, et al. [Ranking-Based Autoencoder for Extreme Multi-label Classification](https://www.aclweb.org/anthology/N19-1289). NAACL 2019.
+* Li Tao, and Vivek Srikumar. [Augmenting Neural Networks with First-order Logic](https://www.aclweb.org/anthology/P19-1028). ACL 2019.
