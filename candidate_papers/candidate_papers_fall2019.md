@@ -43,7 +43,11 @@
 18. Snorkel DryBell 2019. [Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale](http://delivery.acm.org/10.1145/3320000/3314036/p362-bach.pdf?ip=150.135.165.8&id=3314036&acc=OA&key=B63ACEF81C6334F5%2E987DD96F1BA4C7DE%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1567192846_4d3124855ee1b476d1f6c766bbd3f3e5).
 19. Custom summarization of transformer models for NLP in the following sequence - [OpenAI GPT, BERT, GPT-2, XLnet, SpanBERT, RoBERTa, ViLBERT]
 
-
+## Yiyun's suggestions:
+20. Mitigating Gender Bias in Natural Language Processing: Literature Review
+(https://www.aclweb.org/anthology/P19-1159)
+21. Does Bert learn the structure 
+(https://www.aclweb.org/anthology/P19-1356)
 
 
 
