@@ -29,3 +29,7 @@
 ## Dongfang's suggestions
 * Wang Bingyu, et al. [Ranking-Based Autoencoder for Extreme Multi-label Classification](https://www.aclweb.org/anthology/N19-1289). NAACL 2019.
 * Li Tao, and Vivek Srikumar. [Augmenting Neural Networks with First-order Logic](https://www.aclweb.org/anthology/P19-1028). ACL 2019.
+
+## Zhengzhong's suggestions
+* Jianxing Yu, Zheng-Jun Zha, Jian Yin. [Inferential Machine Comprehension: Answering Questions by Recursively Deducing the Evidence Chain from Text](https://www.aclweb.org/anthology/P19-1217) ACL 2019
+* Yair Feldman and Ran El-Yaniv. [Multi-Hop Paragraph Retrieval for Open-Domain Question Answering](https://www.aclweb.org/anthology/P19-1222) ACL 2019
