@@ -7,3 +7,7 @@
 
 ## Peter L's suggestion
 * Guillaume Lample, Alexandre Sablayrolles, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou. [Large Memory Layers with Product Keys](https://arxiv.org/abs/1907.05242). arXiv preprint 2019
+
+## Mithun's suggestion
+[Reversing Gradients in Adversarial Domain Adaptation for Question Deduplication and Textual Entailment Tasks
+Large Memory Layers with Product Keys](https://www.aclweb.org/anthology/P19-1556). ACL2019
