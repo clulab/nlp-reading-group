@@ -33,3 +33,7 @@
 ## Zhengzhong's suggestions
 14. Jianxing Yu, Zheng-Jun Zha, Jian Yin. [Inferential Machine Comprehension: Answering Questions by Recursively Deducing the Evidence Chain from Text](https://www.aclweb.org/anthology/P19-1217) ACL 2019
 15. Yair Feldman and Ran El-Yaniv. [Multi-Hop Paragraph Retrieval for Open-Domain Question Answering](https://www.aclweb.org/anthology/P19-1222) ACL 2019
+
+## Sandeep's suggestions
+16. Peyrard, M. (2019, July). A Simple Theoretical Model of Importance for Summarization. In Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 1059-1073).
+17. Jiang, N., & de Marneffe, M. C. (2019, July). Do You Know That Florence Is Packed with Visitors? Evaluating State-of-the-art Models of Speaker Commitment. In Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 4208-4213).
