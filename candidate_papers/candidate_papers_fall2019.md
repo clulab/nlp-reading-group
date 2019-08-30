@@ -10,10 +10,10 @@
 
 ## Mithun's suggestions
 
-#### topics :generalizabiilty, interpretability, NLI
+#### topics :NLI, data bias, generalizabiilty/interpretability, 
 
 - S Bowman, X Zhu [Deep Learning for Natural Language Inference](https://www.aclweb.org/anthology/N19-5002)NAACL2019
---
+---
 - A Poliak, J Naradowsky, A Haldar, R Rudinger…  [Hypothesis only baselines in natural language inference](https://arxiv.org/abs/1805.01042) ACL 2018
 
 - Masatoshi Tsuchiya [Performance Impact Caused by Hidden Bias of Training Data for Recognizing Textual Entailment](https://arxiv.org/pdf/1804.08117.pdf) lrec2018
