@@ -37,3 +37,12 @@
 ## Sandeep's suggestions
 16. Peyrard, M. (2019, July). [A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101). In Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 1059-1073).
 17. Jiang, N., & de Marneffe, M. C. (2019, July). [Do You Know That Florence Is Packed with Visitors? Evaluating State-of-the-art Models of Speaker Commitment](https://www.aclweb.org/anthology/P19-1412). In Proceedings of the 57th Conference of the Association for Computational Linguistics (pp. 4208-4213).
+
+## Vikas suggestions
+18. Snorkel DryBell 2019. [Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale](http://delivery.acm.org/10.1145/3320000/3314036/p362-bach.pdf?ip=150.135.165.8&id=3314036&acc=OA&key=B63ACEF81C6334F5%2E987DD96F1BA4C7DE%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1567192846_4d3124855ee1b476d1f6c766bbd3f3e5).
+19. Custom summarization of transformer models for NLP in the following sequence - [OpenAI GPT, BERT, GPT-2, XLnet, SpanBERT, RoBERTa, ViLBERT]
+
+
+
+
+
