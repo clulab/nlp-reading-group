@@ -13,6 +13,14 @@ The proceedings for EMNLP and all the workshops are available here: https://www.
 
 **Mihai's comments**: a nice example of graph convolutional NNs (GCN). Also, a good dataset for relation extraction. Relevant to people working on relation/event extraction.
 
+### Layerwise Relevance Visualization in Convolutional Text Graph Classifiers
+**URL**: https://www.aclweb.org/anthology/D19-5308/
+
+**Abstract**: Representations in the hidden layers of Deep Neural Networks (DNN) are often hard to interpret since it is difficult to project them into an interpretable domain. Graph Convolutional Networks (GCN) allow this projection, but existing explainability methods do not exploit this fact, i.e. do not focus their explanations on intermediate states. In this work, we present a novel method that traces and visualizes features that contribute to a classification decision in the visible and hidden layers of a GCN. Our method exposes hidden cross-layer dynamics in the input graph structure. We experimentally demonstrate that it yields meaningful layerwise explanations for a GCN sentence classifier.
+
+**Mihai's comments**: Layerwise relevance propagation for GCNs!
+
+
 ### Title
 **URL**:
 **Abstract**:
