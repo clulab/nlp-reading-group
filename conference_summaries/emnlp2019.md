@@ -7,7 +7,7 @@ The proceedings for EMNLP and all the workshops are available here: https://www.
 # Tutorials
 
 ### Graph Neural Networks for NLP
-**URL**: https://github.com/svjan5/GNNs-for-NLP
+**URL**: https://github.com/svjan5/GNNs-for-NLP (includes code and slides)
 
 **Mihai's comments**: if your data is a graph, you need this.
 
