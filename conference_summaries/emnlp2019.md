@@ -4,6 +4,13 @@ Disclaimer: this is obviously a small subset of the awesome papers/talks at EMNL
 
 The proceedings for EMNLP and all the workshops are available here: https://www.aclweb.org/anthology/events/emnlp-2019/
 
+# Tutorials
+
+### Graph Neural Networks for NLP
+**URL**: https://github.com/svjan5/GNNs-for-NLP
+
+**Mihai's comments**: if your data is a graph, you need this.
+
 # Workshop papers
 
 ### Syntax-aware Multi-task Graph Convolutional Networks for Biomedical Relation Extraction
