@@ -154,6 +154,22 @@ baselines are available at https://github.com/diffbot/knowledge-net
 
 **Mihai's comments**: an alternative dataset to TAC KBP. Seems like a good evaluation platform if you work on information extraction.
 
+### Analytical Methods for Interpretable Ultradense Word Embeddings
+**URL**: https://www.aclweb.org/anthology/D19-1111.pdf
+
+**Abstract**: Word embeddings are useful for a wide variety of tasks, but they lack interpretability. By
+rotating word spaces, interpretable dimensions
+can be identified while preserving the information contained in the embeddings without any
+loss. In this work, we investigate three methods for making word spaces interpretable by
+rotation: Densifier (Rothe et al., 2016), linear
+SVMs and DensRay, a new method we propose. In contrast to Densifier, DensRay can be
+computed in closed form, is hyperparameterfree and thus more robust than Densifier. We
+evaluate the three methods on lexicon induction and set-based word analogy. In addition
+we provide qualitative insights as to how interpretable word spaces can be used for removing
+gender bias from embeddings.
+
+**Mihai's comments**: retrofits an embedding space into a new space where *one* dimension is interpretable, e.g., it correlates with positive/negative sentiment.
+
 ### Title
 **URL**:
 **Abstract**:
