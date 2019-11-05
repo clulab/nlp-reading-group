@@ -66,7 +66,7 @@ well on the simple diagnostic, indicating that
 prior work does not disprove the usefulness of
 attention mechanisms for explainability.
 
-**Mihai's comments**: this paper opens up (or keeps open) the discussion on if we can use attentition weights as explanations. The paper shows that attention weights are sometimes needed for good performance (and sometimes now...). Second, they show that sometimes attention weights are faightful, that is, they can't be easily manipulated in adversarial seetings (but sometimes they can...).
+**Mihai's comments**: this paper opens up (or keeps open) the discussion on if we can use attentition weights as explanations. The paper shows that attention weights are sometimes needed for good performance (and sometimes now...). Second, they show that sometimes attention weights are faithful, that is, they can't be easily manipulated in adversarial seetings (but sometimes they can...).
 
 ### Practical Obstacles to Deploying Active Learning
 **URL**: https://www.aclweb.org/anthology/D19-1003.pdf
