@@ -1,6 +1,6 @@
 # Mihai's Summary of EMNLP 2019
 
-Disclaimer: this is obviously a small subset of the awesome papers/talks at EMNLP and the associated workshops. I selected them subjectively, based solely on my own research interests. The papers are listed chronologically.
+Disclaimer: this is obviously a small subset of the awesome papers/talks at EMNLP and the associated workshops. I selected them subjectively, based solely on my own research interests, and on what I have attended. The papers are listed chronologically.
 
 The proceedings for EMNLP and all the workshops are available here: https://www.aclweb.org/anthology/events/emnlp-2019/
 
@@ -34,6 +34,12 @@ The proceedings for EMNLP and all the workshops are available here: https://www.
 **Abstract**: Performance drop due to domain-shift is an endemic problem for NLP models in produc- tion. This problem creates an urge to con- tinuously annotate evaluation datasets to mea- sure the expected drop in the model perfor- mance which can be prohibitively expensive and slow. In this paper, we study the problem of predicting the performance drop of mod- ern NLP models under domain-shift, in the ab- sence of any target domain labels. We investi- gate three families of methods (H-divergence, reverse classification accuracy and confidence measures), show how they can be used to pre- dict the performance drop and study their ro- bustness to adversarial domain-shifts. Our re- sults on sentiment classification and sequence labelling show that our method is able to pre- dict performance drops with an error rate as low as 2.15% and 0.89% for sentiment analy- sis and POS tagging respectively.
 
 **Mihai's comments**: Discusses several methods to detect what will happen to your model when it is evaluated out of domain, *without* any data in the target domain.
+
+### Show Your Work: Improved Reporting of Experimental Results
+**URL**: 
+**Abstract**: Research in natural language processing pro- ceeds, in part, by demonstrating that new mod- els achieve superior performance (e.g., accu- racy) on held-out test data, compared to pre- vious results. In this paper, we demonstrate that test-set performance scores alone are in- sufficient for drawing accurate conclusions about which model performs best. We argue for reporting additional details, especially per- formance on validation data obtained during model development. We present a novel tech- nique for doing so: expected validation per- formance of the best-found model as a func- tion of computation budget (i.e., the number of hyperparameter search trials or the overall training time). Using our approach, we find multiple recent model comparisons where au- thors would have reached a different conclu- sion if they had used more (or less) compu- tation. Our approach also allows us to esti- mate the amount of computation required to obtain a given accuracy; applying it to sev- eral recently published results yields massive variation across papers, from hours to weeks. We conclude with a set of best practices for reporting experimental results which allow for robust future comparison, and provide code to allow researchers to use our technique.
+
+**Mihai's comments**: performance should be normalized by computation effort invested in it. That is, report how much tuning you did.
 
 
 ### Title
