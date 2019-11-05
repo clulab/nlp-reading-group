@@ -188,10 +188,28 @@ demonstrate that the framework gains consistent speedup with little degradation 
 
 **Mihai's comments**: Cool, simple idea to build a text classifier that reduces test time by efficiently selecting only a few words to be fed into a more expensive classifier.
 
-### Title
-**URL**:
-**Abstract**:
-**Mihai's comments**: 
+### Commonsense Knowledge Mining from Pretrained Models
+**URL**: https://www.aclweb.org/anthology/D19-1109.pdf
+
+**Abstract**: Inferring commonsense knowledge is a key
+challenge in natural language processing, but
+due to the sparsity of training data, previous work has shown that supervised methods
+for commonsense knowledge mining underperform when evaluated on novel data. In
+this work, we develop a method for generating commonsense knowledge using a large,
+pre-trained bidirectional language model. By
+transforming relational triples into masked
+sentences, we can use this model to rank a
+triple’s validity by the estimated pointwise
+mutual information between the two entities.
+Since we do not update the weights of the
+bidirectional model, our approach is not biased by the coverage of any one commonsense knowledge base. Though this method
+performs worse on a test set than models explicitly trained on a corresponding training set,
+it outperforms these methods when mining
+commonsense knowledge from new sources,
+suggesting that unsupervised techniques may
+generalize better than current supervised approaches.
+
+**Mihai's comments**: Uses BERT to filter out incorrect commonsense triples such as <A is B>. Useful as a post-processing filter for taxonomy acquisition.
 
 ### Title
 **URL**:
