@@ -43,18 +43,77 @@ The proceedings for EMNLP and all the workshops are available here: https://www.
 **Mihai's comments**: performance should be normalized by computation effort invested in it. That is, report how much tuning you did.
 
 ### Attention is not not Explanation
-**URL**:
-**Abstract**:
+**URL**: https://www.aclweb.org/anthology/D19-1002.pdf
+
+**Abstract**: Attention mechanisms play a central role in
+NLP systems, especially within recurrent neural network (RNN) models. Recently, there
+has been increasing interest in whether or
+not the intermediate representations offered by
+these modules may be used to explain the reasoning for a model’s prediction, and consequently reach insights regarding the model’s
+decision-making process. A recent paper
+claims that ‘Attention is not Explanation’ (Jain
+and Wallace, 2019). We challenge many of
+the assumptions underlying this work, arguing that such a claim depends on one’s definition of explanation, and that testing it needs
+to take into account all elements of the model.
+We propose four alternative tests to determine
+when/whether attention can be used as explanation: a simple uniform-weights baseline;
+a variance calibration based on multiple random seed runs; a diagnostic framework using
+frozen weights from pretrained models; and an
+end-to-end adversarial attention training protocol. Each allows for meaningful interpretation of attention mechanisms in RNN models.
+We show that even when reliable adversarial
+distributions can be found, they don’t perform
+well on the simple diagnostic, indicating that
+prior work does not disprove the usefulness of
+attention mechanisms for explainability.
+
 **Mihai's comments**: this paper opens up (or keeps open) the discussion on if we can use attentition weights as explanations. The paper shows that attention weights are sometimes needed for good performance (and sometimes now...). Second, they show that sometimes attention weights are faightful, that is, they can't be easily manipulated in adversarial seetings (but sometimes they can...).
 
 ### Practical Obstacles to Deploying Active Learning
-**URL**:
-**Abstract**:
+**URL**: https://www.aclweb.org/anthology/D19-1003.pdf
+
+**Abstract**: Active learning (AL) is a widely-used training strategy for maximizing predictive performance subject to a fixed annotation budget. In
+AL one iteratively selects training examples
+for annotation, often those for which the current model is most uncertain (by some measure). The hope is that active sampling leads
+to better performance than would be achieved
+under independent and identically distributed
+(i.i.d.) random samples. While AL has
+shown promise in retrospective evaluations,
+these studies often ignore practical obstacles
+to its use. In this paper we show that while
+AL may provide benefits when used with specific models and for particular domains, the
+benefits of current approaches do not generalize reliably across models and tasks. This is
+problematic because in practice one does not
+have the opportunity to explore and compare
+alternative AL strategies. Moreover, AL couples the training dataset with the model used
+to guide its acquisition. We find that subsequently training a successor model with an
+actively-acquired dataset does not consistently
+outperform training on i.i.d. sampled data.
+Our findings raise the question of whether the
+downsides inherent to AL are worth the modest and inconsistent performance gains it tends
+to afford.
+
 **Mihai's comments**: AL heuristics do not always work better than random choice for classification and sequence tasks in NLP.
 
 ### Transfer Learning Between Related Tasks Using Expected Label Proportions
-**URL**: 
-**Abstract**:
+**URL**: https://www.aclweb.org/anthology/D19-1004.pdf
+
+**Abstract**: Deep learning systems thrive on abundance of
+labeled training data but such data is not always available, calling for alternative methods
+of supervision. One such method is expectation regularization (XR) (Mann and McCallum, 2007), where models are trained based
+on expected label proportions. We propose
+a novel application of the XR framework for
+transfer learning between related tasks, where
+knowing the labels of task A provides an estimation of the label proportion of task B.
+We then use a model trained for A to label
+a large corpus, and use this corpus with an
+XR loss to train a model for task B. To make
+the XR framework applicable to large-scale
+deep-learning setups, we propose a stochastic
+batched approximation procedure. We demonstrate the approach on the task of Aspectbased Sentiment classification, where we effectively use a sentence-level sentiment predictor to train accurate aspect-based predictor.
+The method improves upon fully supervised
+neural system trained on aspect-level data, and
+is also cumulative with LM-based pretraining, as we demonstrate by improving a BERTbased Aspect-based Sentiment model.
+
 **Mihai's comments**: Distant supervision using *only* label proportions as supervision. Uses expectation regularization as the objective function. Also includes a transfer learning algorithm under this setup.
 
 ### A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers
