@@ -170,6 +170,29 @@ gender bias from embeddings.
 
 **Mihai's comments**: retrofits an embedding space into a new space where *one* dimension is interpretable, e.g., it correlates with positive/negative sentiment.
 
+### Robust Text Classifier on Test-Time Budgets
+**URL**: https://www.aclweb.org/anthology/D19-1108.pdf
+
+**Abstract**: We design a generic framework for learning a
+robust text classification model that achieves
+high accuracy under different selection budgets (a.k.a selection rates) at test-time. We take
+a different approach from existing methods
+and learn to dynamically filter a large fraction
+of unimportant words by a low-complexity selector such that any high-complexity classifier
+only needs to process a small fraction of text,
+relevant for the target task. To this end, we
+propose a data aggregation method for training
+the classifier, allowing it to achieve competitive performance on fractured sentences. On
+four benchmark text classification tasks, we
+demonstrate that the framework gains consistent speedup with little degradation in accuracy on various selection budgets.
+
+**Mihai's comments**: Cool, simple idea to build a text classifier that reduces test time by efficiently selecting only a few words to be fed into a more expensive classifier.
+
+### Title
+**URL**:
+**Abstract**:
+**Mihai's comments**: 
+
 ### Title
 **URL**:
 **Abstract**:
