@@ -42,6 +42,39 @@ The proceedings for EMNLP and all the workshops are available here: https://www.
 
 **Mihai's comments**: performance should be normalized by computation effort invested in it. That is, report how much tuning you did.
 
+### Attention is not not Explanation
+**URL**:
+**Abstract**:
+**Mihai's comments**: this paper opens up (or keeps open) the discussion on if we can use attentition weights as explanations. The paper shows that attention weights are sometimes needed for good performance (and sometimes now...). Second, they show that sometimes attention weights are faightful, that is, they can't be easily manipulated in adversarial seetings (but sometimes they can...).
+
+### Practical Obstacles to Deploying Active Learning
+**URL**:
+**Abstract**:
+**Mihai's comments**: AL heuristics do not always work better than random choice for classification and sequence tasks in NLP.
+
+### Transfer Learning Between Related Tasks Using Expected Label Proportions
+**URL**: 
+**Abstract**:
+**Mihai's comments**: Distant supervision using *only* label proportions as supervision. Uses expectation regularization as the objective function. Also includes a transfer learning algorithm under this setup.
+
+### A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers
+**URL**: https://www.aclweb.org/anthology/D19-1520.pdf
+
+**Abstract**:Most state-of-the-art models for named entity recognition (NER) rely on the availability of large amounts of labeled data, making them challenging to extend to new, lowerresourced languages. However, there are now
+several proposed approaches involving either
+cross-lingual transfer learning, which learns
+from other highly resourced languages, or active learning, which efficiently selects effective training data based on model predictions.
+This paper poses the question: given this recent progress, and limited human annotation,
+what is the most effective method for efficiently creating high-quality entity recognizers
+in under-resourced languages? Based on extensive experimentation using both simulated
+and real human annotation, we find a dualstrategy approach best, starting with a crosslingual transferred model, then performing targeted annotation of only uncertain entity spans
+in the target language, minimizing annotator
+effort. Results demonstrate that cross-lingual
+transfer is a powerful tool when very little data
+can be annotated, but an entity-targeted annotation strategy can achieve competitive accuracy quickly, with just one-tenth of training
+data. 
+
+**Mihai's comments**: Uses cross-language transfer to get annotated data from a high-resource language into a low-resource one. Then they use active learning to clean the data. They use a partial-CRF to train on sentences with partial annotations.
 
 ### Title
 **URL**:
