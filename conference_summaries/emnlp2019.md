@@ -36,7 +36,8 @@ The proceedings for EMNLP and all the workshops are available here: https://www.
 **Mihai's comments**: Discusses several methods to detect what will happen to your model when it is evaluated out of domain, *without* any data in the target domain.
 
 ### Show Your Work: Improved Reporting of Experimental Results
-**URL**: 
+**URL**: https://arxiv.org/abs/1909.03004
+
 **Abstract**: Research in natural language processing pro- ceeds, in part, by demonstrating that new mod- els achieve superior performance (e.g., accu- racy) on held-out test data, compared to pre- vious results. In this paper, we demonstrate that test-set performance scores alone are in- sufficient for drawing accurate conclusions about which model performs best. We argue for reporting additional details, especially per- formance on validation data obtained during model development. We present a novel tech- nique for doing so: expected validation per- formance of the best-found model as a func- tion of computation budget (i.e., the number of hyperparameter search trials or the overall training time). Using our approach, we find multiple recent model comparisons where au- thors would have reached a different conclu- sion if they had used more (or less) compu- tation. Our approach also allows us to esti- mate the amount of computation required to obtain a given accuracy; applying it to sev- eral recently published results yields massive variation across papers, from hours to weeks. We conclude with a set of best practices for reporting experimental results which allow for robust future comparison, and provide code to allow researchers to use our technique.
 
 **Mihai's comments**: performance should be normalized by computation effort invested in it. That is, report how much tuning you did.
