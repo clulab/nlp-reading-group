@@ -27,6 +27,14 @@ The proceedings for EMNLP and all the workshops are available here: https://www.
 
 **Mihai's comments**: Layerwise relevance propagation for GCNs!
 
+# EMNLP papers
+
+### To Annotate or Not? Predicting Performance Drop under Domain Shift
+**URL**: https://www.aclweb.org/anthology/D19-1222/
+**Abstract**: Performance drop due to domain-shift is an endemic problem for NLP models in produc- tion. This problem creates an urge to con- tinuously annotate evaluation datasets to mea- sure the expected drop in the model perfor- mance which can be prohibitively expensive and slow. In this paper, we study the problem of predicting the performance drop of mod- ern NLP models under domain-shift, in the ab- sence of any target domain labels. We investi- gate three families of methods (H-divergence, reverse classification accuracy and confidence measures), show how they can be used to pre- dict the performance drop and study their ro- bustness to adversarial domain-shifts. Our re- sults on sentiment classification and sequence labelling show that our method is able to pre- dict performance drops with an error rate as low as 2.15% and 0.89% for sentiment analy- sis and POS tagging respectively.
+
+**Mihai's comments**: Discusses several methods to detect what will happen to your model when it is evaluated out of domain, *without* any data in the target domain.
+
 
 ### Title
 **URL**:
