@@ -253,8 +253,77 @@ be obtained from https://github.com/THU-KEG/MetaKGR.
 
 **Mihai's comments**: Uses MAML to improve the learning of multi-hop relation extraction methods with few training examples. Pretty cool, but the improvements may not justify the massive machinery...
 
-### Title
-**URL**:
-**Abstract**:
-**Mihai's comments**: 
+### Self-Assembling Modular Networks for Interpretable Multi-Hop Reasoning
+**URL**: https://www.aclweb.org/anthology/D19-1455.pdf
+
+**Abstract**: Multi-hop QA requires a model to connect
+multiple pieces of evidence scattered in a
+long context to answer the question. The
+recently proposed HotpotQA (Yang et al.,
+2018) dataset is comprised of questions embodying four different multi-hop reasoning
+paradigms (two bridge entity setups, checking multiple properties, and comparing two
+entities), making it challenging for a single
+neural network to handle all four. In this
+work, we present an interpretable, controllerbased Self-Assembling Neural Modular Network (Hu et al., 2017, 2018) for multi-hop reasoning, where we design four novel modules
+(Find, Relocate, Compare, NoOp) to perform
+unique types of language reasoning. Based
+on a question, our layout controller RNN dynamically infers a series of reasoning modules
+to construct the entire network. Empirically,
+we show that our dynamic, multi-hop modular network achieves significant improvements
+over the static, single-hop baseline (on both
+regular and adversarial evaluation). We further
+demonstrate the interpretability of our model
+via three analyses. First, the controller can
+softly decompose the multi-hop question into
+multiple single-hop sub-questions to promote
+compositional reasoning behavior of the main
+network. Second, the controller can predict
+layouts that conform to the layouts designed
+by human experts. Finally, the intermediate
+module can infer the entity that connects two
+distantly-located supporting facts by addressing the sub-question from the controller.
+
+**Mihai's comments**: A modular, stack architecture for multi-hop QA. Uses a stack to share info between modules. Limitations: it focuses on HotPotQA, which means: simpler questions (limited number of module types); only two hops. Factoid: simpler interactions between components.
+
+### Posing Fair Generalization Tasks for Natural Language Inference
+**URL**: https://www.aclweb.org/anthology/D19-1456.pdf
+
+**Abstract**: Deep learning models for semantics are generally evaluated using naturalistic corpora. Adversarial methods, in which models are evaluated on new examples with known semantic
+properties, have begun to reveal that good performance at these naturalistic tasks can hide
+serious shortcomings. However, we should insist that these evaluations be fair – that the
+models are given data sufficient to support the
+requisite kinds of generalization. In this paper, we define and motivate a formal notion
+of fairness in this sense. We then apply these
+ideas to natural language inference by constructing very challenging but provably fair artificial datasets and showing that standard neural models fail to generalize in the required
+ways; only task-specific models that jointly
+compose the premise and hypothesis are able
+to achieve high performance, and even these
+models do not solve the task perfectly.
+
+**Mihai's comments**: Formal logic vs. NNs!
+
+### Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text
+**URL**: https://www.aclweb.org/anthology/D19-1457.pdf
+**Abstract**: Our goal is to better comprehend procedural text, e.g., a paragraph about photosynthesis, by not only predicting what happens, but
+why some actions need to happen before others. Our approach builds on a prior process
+comprehension framework for predicting actions’ effects, to also identify subsequent steps
+that those effects enable. We present our new
+model (XPAD) that biases effect predictions
+towards those that (1) explain more of the actions in the paragraph and (2) are more plausible with respect to background knowledge.
+We also extend an existing benchmark dataset
+for procedural text comprehension, ProPara,
+by adding the new task of explaining actions
+by predicting their dependencies. We find that
+XPAD significantly outperforms prior systems
+on this task, while maintaining the performance on the original task in ProPara. The
+dataset is available at http://data.allenai.org/propara
+
+**Mihai's comments**: Coherence matters for QA.
+
+### What's Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
+**URL**: https://arxiv.org/abs/1909.09253
+
+**Abstract**: Multi-hop textual question answering requires combining information from multiple sentences. We focus on a natural setting where, unlike typical reading comprehension, only partial information is provided with each question. The model must retrieve and use additional knowledge to correctly answer the question. To tackle this challenge, we develop a novel approach that explicitly identifies the knowledge gap between a key span in the provided knowledge and the answer choices. The model, GapQA, learns to fill this gap by determining the relationship between the span and an answer choice, based on retrieved knowledge targeting this gap. We propose jointly training a model to simultaneously fill this knowledge gap and compose it with the provided partial knowledge. On the OpenBookQA dataset, given partial knowledge, explicitly identifying what's missing substantially outperforms previous approaches.
+
+**Mihai's comments**: QA method for OpenBookQA, which fills in the text gaps from a structured KB.
 
