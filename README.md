@@ -7,7 +7,7 @@ Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week ahead of time.
 The full reading schedule for the semester is here:
 
-* [Fall 2019 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2019-Reading-Schedule)
+* [Spring 2020 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Spring-2020-Reading-Schedule)
 
 ## Previous Semesters
 
@@ -20,3 +20,4 @@ The full reading schedule for the semester is here:
 * [Spring 2018](https://github.com/clulab/nlp-reading-group/wiki/Spring-2018-Reading-Schedule)
 * [Fall 2018](https://github.com/clulab/nlp-reading-group/wiki/Fall-2018-Reading-Schedule)
 * [Spring 2019](https://github.com/clulab/nlp-reading-group/wiki/Spring-2019-Reading-Schedule)
+* [Fall 2019](https://github.com/clulab/nlp-reading-group/wiki/Fall-2019-Reading-Schedule)
