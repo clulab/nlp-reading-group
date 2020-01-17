@@ -9,8 +9,9 @@
 | Vikas       |[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
 | Sandeep     |[Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644) <br> [Designing and Interpreting Probes with Control Tasks](https://www.aclweb.org/anthology/D19-1275.pdf) <br> |
 | Mithun     |[Knowledge Extraction with No Observable Data](http://papers.nips.cc/paper/8538-knowledge-extraction-with-no-observable-data.pdf) 
-<br> [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf) 
-
-<br> [Zero-shot Knowledge Transfer via Adversarial Belief Matching](http://papers.nips.cc/paper/9151-zero-shot-knowledge-transfer-via-adversarial-belief-matching.pdf
+<br> 
+|[Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf) 
+<br> 
+|[Zero-shot Knowledge Transfer via Adversarial Belief Matching](http://papers.nips.cc/paper/9151-zero-shot-knowledge-transfer-via-adversarial-belief-matching.pdf
 
 || | |
