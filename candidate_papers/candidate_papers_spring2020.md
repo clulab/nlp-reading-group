@@ -12,4 +12,5 @@
 | Andrew Z | [Multi-source synthetic treebank creation for improved cross-lingualdependency parsing](https://www.aclweb.org/anthology/W18-6017.pdf) <br> [Cross-lingual Parsing with Polyglot Training and Multi-treebankLearning: A Faroese Case Study](https://www.aclweb.org/anthology/D19-6118.pdf) |
 | Dongfang      |[Retrofitting Contextualized Word Embeddings with Paraphrases](https://www.aclweb.org/anthology/D19-1113.pdf)<br> [Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations](https://www.aclweb.org/anthology/D19-1533.pdf)|
 | Fan L | [Option Comparison Network for Multiple-choice Reading Comprehension](https://arxiv.org/pdf/1903.03033.pdf) <br> [Dual Co-Matching Network for Multi-choice Reading Comprehension](https://arxiv.org/pdf/1901.09381.pdf) |
+| Zhengzhong | [Deep Learning For Symbolic Mathematics](https://arxiv.org/pdf/1912.01412.pdf) |
 | | |
