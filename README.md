@@ -2,7 +2,7 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
-The group meets nearly every Friday of the semester from 2:00-3:00pm in [Gould-Simpson](https://maps.arizona.edu/campus360/?buildingId=77) 856.
+The group meets nearly every Friday of the semester from 2:00-3:00pm in [Harvill](https://maps.arizona.edu/campus360/?buildingId=76) 460.
 Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week ahead of time.
 The full reading schedule for the semester is here:
