@@ -20,6 +20,8 @@
 | 16| mithun | [“Who said it, and Why?" Work from Dan Roths team on Provenance for Natural Language Claims](https://www.aclweb.org/anthology/2020.acl-main.406.pdf)
 | 17 | mithun    |[Zero-shot Text Classification via Reinforced Self-training](https://www.aclweb.org/anthology/2020.acl-main.272.pdf)
 | 18 | Peter L | [Generalization through Memorization: Nearest Neighbor Language Models](https://openreview.net/forum?id=HklBjCEKvH)
-| 19| Reza | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+| 19 | Zhengzhong |[Transformers as Soft Reasoners over Language](https://arxiv.org/pdf/2002.05867.pdf) |
+| 20 | Zhengzhong |[Unified Pragmatic Models for Generating and Following Instructions](https://arxiv.org/pdf/1711.04987.pdf) |
+| 21 | Reza | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 
 
