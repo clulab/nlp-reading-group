@@ -11,3 +11,4 @@
 | 7 | Vikas | [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction](https://arxiv.org/abs/2005.00652)
 | 8 | Yiyun | [Probing Linguistic Systematicity](https://www.aclweb.org/anthology/2020.acl-main.177/)
 | 9 | Yiyun | [A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction](https://www.aclweb.org/anthology/2020.acl-main.318/)
+| 10 | Andrew | [Minimally Supervised Number Normalization](https://www.aclweb.org/anthology/Q16-1036.pdf)
