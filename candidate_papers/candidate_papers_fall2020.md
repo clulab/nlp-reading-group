@@ -9,3 +9,5 @@
 | 5 | Mihai | [Dekang Lin's DIRT paper](https://dl.acm.org/doi/abs/10.1145/502512.502559?casa_token=0kvKZFkGrJQAAAAA:O62mO2TMuhubif_GpGDlUHt6qzRJtOc-PL5AJW_ggSwo5B_HK-qHl5-N5mo4ow_suuXLxmILr5FB) |
 | 6 | Hoang | [Neural CRF Model for Sentence Alignment in Text Simplification](https://www.aclweb.org/anthology/2020.acl-main.709/)
 | 7 | Vikas | [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction](https://arxiv.org/abs/2005.00652)
+| 8 | Yiyun | [Probing Linguistic Systematicity](https://www.aclweb.org/anthology/2020.acl-main.177/)
+| 9 | Yiyun | [A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction](https://www.aclweb.org/anthology/2020.acl-main.318/)
