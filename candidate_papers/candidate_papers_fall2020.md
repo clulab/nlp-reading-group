@@ -17,4 +17,7 @@
 | 13| Zheng | [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)
 | 14| Zheng | [Evaluating Explanation Methods for Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.35.pdf)
 | 15 | Jiacheng    |[Theoretical Limitations of Self-Attention in Neural Sequence Models](https://www.aclweb.org/anthology/2020.tacl-1.11.pdf). Transformers sucks, proved mathematically
+| 16| mithun | [“Who said it, and Why?" Work from Dan Roths team on Provenance for Natural Language Claims](https://www.aclweb.org/anthology/2020.acl-main.406.pdf)
+| 17 | mithun    |[Zero-shot Text Classification via Reinforced Self-training](https://www.aclweb.org/anthology/2020.acl-main.272.pdf)
+
 
