@@ -22,5 +22,6 @@
 | 18 | Peter L | [Generalization through Memorization: Nearest Neighbor Language Models](https://openreview.net/forum?id=HklBjCEKvH)
 | 19 | Zhengzhong |[Transformers as Soft Reasoners over Language](https://arxiv.org/pdf/2002.05867.pdf) |
 | 20 | Zhengzhong |[Unified Pragmatic Models for Generating and Following Instructions](https://arxiv.org/pdf/1711.04987.pdf) |
+| 21 | Reza | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 
 
