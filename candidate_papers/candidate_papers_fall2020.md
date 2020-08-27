@@ -14,5 +14,10 @@
 | 10 | Andrew | [Minimally Supervised Number Normalization](https://www.aclweb.org/anthology/Q16-1036.pdf)
 | 11| Sina | [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/pdf/2006.06195.pdf)
 | 12| Zheng | [Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://www.aclweb.org/anthology/2020.acl-main.325.pdf)
-| 13| Reza | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+| 13| Zheng | [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)
+| 14| Zheng | [Evaluating Explanation Methods for Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.35.pdf)
+| 15 | Jiacheng    |[Theoretical Limitations of Self-Attention in Neural Sequence Models](https://www.aclweb.org/anthology/2020.tacl-1.11.pdf). Transformers sucks, proved mathematically
+| 16| mithun | [“Who said it, and Why?" Work from Dan Roths team on Provenance for Natural Language Claims](https://www.aclweb.org/anthology/2020.acl-main.406.pdf)
+| 17 | mithun    |[Zero-shot Text Classification via Reinforced Self-training](https://www.aclweb.org/anthology/2020.acl-main.272.pdf)
+| 18| Reza | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 
