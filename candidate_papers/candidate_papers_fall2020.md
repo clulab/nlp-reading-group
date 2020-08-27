@@ -1,4 +1,4 @@
-# Candidate papers for Spring 2020
+# Candidate papers for Fall 2020
 
 |    | Proposer    | Paper |
 |:---|:------------|:------|
