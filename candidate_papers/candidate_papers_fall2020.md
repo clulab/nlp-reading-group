@@ -19,5 +19,7 @@
 | 15 | Jiacheng    |[Theoretical Limitations of Self-Attention in Neural Sequence Models](https://www.aclweb.org/anthology/2020.tacl-1.11.pdf). Transformers sucks, proved mathematically
 | 16| mithun | [“Who said it, and Why?" Work from Dan Roths team on Provenance for Natural Language Claims](https://www.aclweb.org/anthology/2020.acl-main.406.pdf)
 | 17 | mithun    |[Zero-shot Text Classification via Reinforced Self-training](https://www.aclweb.org/anthology/2020.acl-main.272.pdf)
-| 18| Reza | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+| 18 | Peter L | [Generalization through Memorization: Nearest Neighbor Language Models](https://openreview.net/forum?id=HklBjCEKvH)
+| 19| Reza | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+
 
