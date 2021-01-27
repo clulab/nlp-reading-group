@@ -7,5 +7,5 @@
 | 3  | Masha      |[Extracting Implicitly Asserted Propositions in Argumentation](https://www.aclweb.org/anthology/2020.emnlp-main.2/)|
 | 4  | Mihai          | [Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning](https://arxiv.org/pdf/2010.05906.pdf)            |
 | 5  | Mihai          | [Questionable Answers in Question Answering Research: Reproducibility and Variability of Published Results](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00018)            |
-| 6  | Mihai          | []()            |
+| 6  | Mihai          | [An Empirical Investigation of Statistical Significance in NLP](https://www.aclweb.org/anthology/D12-1091.pdf)            |
 | x  | Template          | [<paper_name>](<url>)            |
