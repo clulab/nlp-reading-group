@@ -9,4 +9,5 @@
 | 5  | Mihai          | [Questionable Answers in Question Answering Research: Reproducibility and Variability of Published Results](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00018)            |
 | 6  | Mihai          | [An Empirical Investigation of Statistical Significance in NLP](https://www.aclweb.org/anthology/D12-1091.pdf)            |
 | 7  | Mithun          | [WELL-READ STUDENTS LEARN BETTER: ON THE IMPORTANCE OF PRE-TRAINING COMPACT MODELS](https://arxiv.org/pdf/1908.08962.pdf)            |
+| 8  | Zheng          | [ExpBERT: Representation Engineering with Natural Language Explanations](<https://www.aclweb.org/anthology/2020.acl-main.190/>)            |
 | x  | Template          | [<paper_name>](<url>)            |
