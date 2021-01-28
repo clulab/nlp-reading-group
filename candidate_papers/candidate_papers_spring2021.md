@@ -17,3 +17,4 @@
 | 13  | Fan          | [The What-If Tool: Interactive Probing of Machine Learning Models](https://arxiv.org/pdf/1907.04135.pdf)  |
 | 14 | Peter L | [Shortformer: Better Language Modeling using Shorter Inputs](https://arxiv.org/abs/2012.15832) |
 | 15 | Peter L | [On the Dangers of Stochastic Parrots:Can Language Models Be Too Big?](https://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf) |
+| 16 | Yiyun   | [Improving Disentangled Text Representation Learning with Information-Theoretic Guidance](https://www.aclweb.org/anthology/2020.acl-main.673/)|
