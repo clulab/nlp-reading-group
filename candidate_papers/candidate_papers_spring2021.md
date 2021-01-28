@@ -10,4 +10,6 @@
 | 6  | Mihai          | [An Empirical Investigation of Statistical Significance in NLP](https://www.aclweb.org/anthology/D12-1091.pdf)            |
 | 7  | Mithun          | [WELL-READ STUDENTS LEARN BETTER: ON THE IMPORTANCE OF PRE-TRAINING COMPACT MODELS](https://arxiv.org/pdf/1908.08962.pdf)            |
 | 8  | Zheng          | [ExpBERT: Representation Engineering with Natural Language Explanations](<https://www.aclweb.org/anthology/2020.acl-main.190/>)            |
+| 9  | Zhengzhong          | [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/pdf/2011.03395.pdf)            |
+| 10  | Zhengzhong         | [Learning Dialog Policies from Weak Demonstrations](https://arxiv.org/abs/2004.11054)            |
 | x  | Template          | [<paper_name>](<url>)            |
