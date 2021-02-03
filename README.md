@@ -2,7 +2,7 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
-The group meets most Thursdays from 3:15-4:15pm.
+The group meets most Thursdays from 2:30-3:30pm.
 Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week ahead of time.
 The full reading schedule for the semester is here:
