@@ -2,12 +2,12 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
-The group meets most Thursdays from 2:30-3:30pm.
+The group meets most Thursdays from 2:00-3:30pm.
 Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week ahead of time.
 The full reading schedule for the semester is here:
 
-* [Spring 2021 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Spring-2021-Reading-Schedule)
+* [Fall 2021 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2021-Reading-Schedule)
 
 ## Previous Semesters
 
@@ -23,3 +23,4 @@ The full reading schedule for the semester is here:
 * [Fall 2019](https://github.com/clulab/nlp-reading-group/wiki/Fall-2019-Reading-Schedule)
 * [Spring 2020](https://github.com/clulab/nlp-reading-group/wiki/Spring-2020-Reading-Schedule)
 * [Fall 2020](https://github.com/clulab/nlp-reading-group/wiki/Fall-2020-Reading-Schedule)
+* [Spring 2021](https://github.com/clulab/nlp-reading-group/wiki/Spring-2021-Reading-Schedule)
