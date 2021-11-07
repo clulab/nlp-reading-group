@@ -39,12 +39,12 @@
 
 **Mihai's comments**: presentation skipped due to technical issues. TODO: Read this!
 
-### 
-**URL**: 
+### Condenser: a Pre-training Architecture for Dense Retrieval
+**URL**: https://arxiv.org/abs/2104.08253
 
-**Abstract**: 
+**Abstract**: Pre-trained Transformer language models (LM) have become go-to text representation encoders. Prior research fine-tunes deep LMs to encode text sequences such as sentences and passages into single dense vector representations for efficient text comparison and retrieval. However, dense encoders require a lot of data and sophisticated techniques to effectively train and suffer in low data situations. This paper finds a key reason is that standard LMs' internal attention structure is not ready-to-use for dense encoders, which needs to aggregate text information into the dense representation. We propose to pre-train towards dense encoder with a novel Transformer architecture, Condenser, where LM prediction CONditions on DENSE Representation. Our experiments show Condenser improves over standard LM by large margins on various text retrieval and similarity tasks.
 
-**Mihai's comments**: 
+**Mihai's comments**: Forces [CLS] to encode the information generated in the later layers. This encourages [CLS] to capture information about the whole text, which was shown to not happen with the original implementation. Works well on NQ, TQA, MS-MARCO. Relevant to Fan and Zhengzhong.
 
 ### 
 **URL**: 
