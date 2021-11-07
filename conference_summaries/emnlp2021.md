@@ -69,12 +69,12 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 **Mihai's comments**: Very cool work that shows how to fine-tune BERT on soft rules. Rules are verbalized to be inserted as training data. Rule weights are incorporated using a weighted binary cross entropy (where the weights correspond to rule confidences). Relevant to Zhengzhong.
 
 
-### 
-**URL**: 
+### Learning Logic Rules for Document-Level Relation Extraction
+**URL**: https://underline.io/lecture/38055-learning-logic-rules-for-document-level-relation-extraction
 
-**Abstract**: 
+**Abstract**: Document-level relation extraction aims to identify relations between entities in a whole document. Prior efforts to capture long-range dependencies have relied heavily on implicitly powerful representations learned through (graph) neural networks, which makes the model less transparent. To tackle this challenge, in this paper, we propose LogiRE, a novel probabilistic model for document-level relation extraction by learning logic rules. LogiRE treats logic rules as latent variables and consists of two modules: a rule generator and a relation extractor. The rule generator is to generate logic rules potentially contributing to final predictions, and the relation extractor outputs final predictions based on the generated logic rules. Those two modules can be efficiently optimized with the expectation-maximization (EM) algorithm. By introducing logic rules into neural networks, LogiRE can explicitly capture long-range dependencies as well as enjoy better interpretation. Empirical results show that LogiRE significantly outperforms several strong baselines in terms of relation performance and logical consistency.
 
-**Mihai's comments**: 
+**Mihai's comments**: One more paper that inserts rules into the training of BERT. Unlike the previous paper, here rules are not known, and are modeled as latent variables in a document-wide RE task. This joint task is trained using a form of EM.
 
 
 ### 
