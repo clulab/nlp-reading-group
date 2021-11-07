@@ -46,12 +46,13 @@
 
 **Mihai's comments**: Forces [CLS] to encode the information generated in the later layers. This encourages [CLS] to capture information about the whole text, which was shown to not happen with the original implementation. Works well on NQ, TQA, MS-MARCO. Relevant to Fan and Zhengzhong.
 
-### 
-**URL**: 
+### Disentangling Representations of Text by Masking Transformers
+**URL**: https://arxiv.org/abs/2104.07155
 
-**Abstract**: 
+**Abstract**: Representations from large pretrained models such as BERT encode a range of features into monolithic vectors, affording strong predictive accuracy across a multitude of downstream tasks. In this paper we explore whether it is possible to learn disentangled representations by identifying existing subnetworks within pretrained models that encode distinct, complementary aspect representations. Concretely, we learn binary masks over transformer weights or hidden units to uncover subsets of features that correlate with a specific factor of variation; this eliminates the need to train a disentangled model from scratch for a particular task. We evaluate this method with respect to its ability to disentangle representations of sentiment from genre in movie reviews, "toxicity" from dialect in Tweets, and syntax from semantics. 
+By combining masking with magnitude pruning we find that we can identify sparse subnetworks within BERT that strongly encode particular aspects (e.g., toxicity) while only weakly encoding others (e.g., race). Moreover, despite only learning masks, we find that disentanglement-via-masking performs as well as -- and often better than -- previously proposed methods based on variational autoencoders and adversarial training.
 
-**Mihai's comments**: 
+**Mihai's comments**: Learns a binary mask on top of BERT to mark important/non-important words. Relevant to Zheng.
 
 ### 
 **URL**: 
