@@ -16,7 +16,49 @@
 
 **Abstract**: A computationally expensive and memory intensive neural network lies behind the recent success of language representation learning. Knowledge distillation, a major technique for deploying such a vast language model in resource-scarce environments, transfers the knowledge on individual word representations learned without restrictions. In this paper, inspired by the recent observations that language representations are relatively positioned and have more semantic knowledge as a whole, we present a new knowledge distillation objective for language representation learning that transfers the contextual knowledge via two types of relationships across representations: Word Relation and Layer Transforming Relation. Unlike other recent distillation techniques for the language models, our contextual distillation does not have any restrictions on architectural changes between teacher and student. We validate the effectiveness of our method on challenging benchmarks of language understanding tasks, not only in architectures of various sizes, but also in combination with DynaBERT, the recently proposed adaptive size pruning method.
 
-**Mihai's comments**: The in-person talk was skipped due to technical issues. read this!
+**Mihai's comments**: Distills a network making sure that relations between words (e.g., meronymy) is preserved. That is, the consistency loss minimizes the difference between relation classification scores. See this paper also as a good review of distillation losses. Relevant for Mithun.
+
+### Dynamic Knowledge Distillation for Pre-trained Language Models
+**URL**: https://arxiv.org/abs/2109.11295
+
+**Abstract**: Knowledge distillation~(KD) has been proved effective for compressing large-scale pre-trained language models. However, existing methods conduct KD statically, e.g., the student model aligns its output distribution to that of a selected teacher model on the pre-defined training dataset. In this paper, we explore whether a dynamic knowledge distillation that empowers the student to adjust the learning procedure according to its competency, regarding the student performance and learning efficiency. We explore the dynamical adjustments on three aspects: teacher model adoption, data selection, and KD objective adaptation. Experimental results show that (1) proper selection of teacher model can boost the performance of student model; (2) conducting KD with 10% informative instances achieves comparable performance while greatly accelerates the training; (3) the student performance can be boosted by adjusting the supervision contribution of different alignment objective. We find dynamic knowledge distillation is promising and provide discussions on potential future directions towards more efficient KD methods. 
+
+**Mihai's comments**: Similar idea to Mithun and Sandeep's paper, but they adjust the learning process dynamically rather than adjusting the data (as Mithun and Sandeep do).
+
+### Distantly Supervised Relation Extraction using Multi-Layer Revision Network and Confidence-based Multi-Instance Learning
+**URL**: TBD
+
+**Abstract**: TBD 
+
+**Mihai's comments**: reduces DS noise at both word level and sentence level. The word-level noise is reduced using TransE, i.e., making sure we keep the words that maximize the similarity between e(head - mod) and e(relation). Sentences are filtered based on prediction confidence.
+
+### 
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
+
+### 
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
+
+### 
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
+
+### 
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
 
 ### 
 **URL**: 
