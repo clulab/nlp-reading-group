@@ -7,7 +7,7 @@
 
 ### Ido Dagan's Keynote
 **Mihai's comments**: 
-* See "Controled Crowdsourcing" from his ACL 2020 paper as a way to scale up user studies. Relevant for Marco and Becky's rule synthesis project.
+* See "Controled Crowdsourcing" from his ACL 2020 paper (Rot or Roit et al.) as a way to scale up user studies. Relevant for Marco and Becky's rule synthesis project.
 * Cross-document LM (paper in EMNLP Findings 2021): may be useful for coreference resolution (Enfa).
 
 
