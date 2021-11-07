@@ -11,10 +11,17 @@
 * Cross-document LM (paper in EMNLP Findings 2021): may be useful for coreference resolution (Enfa).
 
 
-### 
-**URL**:
+### Distilling Linguistic Context for Language Model Compression
+**URL**: https://arxiv.org/abs/2109.08359
 
-**Abstract**:
+**Abstract**: A computationally expensive and memory intensive neural network lies behind the recent success of language representation learning. Knowledge distillation, a major technique for deploying such a vast language model in resource-scarce environments, transfers the knowledge on individual word representations learned without restrictions. In this paper, inspired by the recent observations that language representations are relatively positioned and have more semantic knowledge as a whole, we present a new knowledge distillation objective for language representation learning that transfers the contextual knowledge via two types of relationships across representations: Word Relation and Layer Transforming Relation. Unlike other recent distillation techniques for the language models, our contextual distillation does not have any restrictions on architectural changes between teacher and student. We validate the effectiveness of our method on challenging benchmarks of language understanding tasks, not only in architectures of various sizes, but also in combination with DynaBERT, the recently proposed adaptive size pruning method.
+
+**Mihai's comments**: The in-person talk was skipped due to technical issues. read this!
+
+### 
+**URL**: 
+
+**Abstract**: 
 
 **Mihai's comments**: 
 
