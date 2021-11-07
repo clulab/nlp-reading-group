@@ -61,12 +61,12 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 
 **Mihai's comments**: Formulates RE as NLI, and feeds it into the pre-training phase of the LM.
 
-### 
-**URL**: 
+### RuleBERT: Teaching Soft Rules to Pre-Trained Language Models
+**URL**: https://arxiv.org/abs/2109.13006
 
-**Abstract**: 
+**Abstract**: While pre-trained language models (PLMs) are the go-to solution to tackle many natural language processing problems, they are still very limited in their ability to capture and to use common-sense knowledge. In fact, even if information is available in the form of approximate (soft) logical rules, it is not clear how to transfer it to a PLM in order to improve its performance for deductive reasoning tasks. Here, we aim to bridge this gap by teaching PLMs how to reason with soft Horn rules. We introduce a classification task where, given facts and soft rules, the PLM should return a prediction with a probability for a given hypothesis. We release the first dataset for this task, and we propose a revised loss function that enables the PLM to learn how to predict precise probabilities for the task. Our evaluation results show that the resulting fine-tuned models achieve very high performance, even on logical rules that were unseen at training. Moreover, we demonstrate that logical notions expressed by the rules are transferred to the fine-tuned model, yielding state-of-the-art results on external datasets.
 
-**Mihai's comments**: 
+**Mihai's comments**: Very cool work that shows how to fine-tune BERT on soft rules. Rules are verbalized to be inserted as training data. Rule weights are incorporated using a weighted binary cross entropy (where the weights correspond to rule confidences).
 
 
 ### 
