@@ -77,12 +77,12 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 **Mihai's comments**: One more paper that inserts rules into the training of BERT. Unlike the previous paper, here rules are not known, and are modeled as latent variables in a document-wide RE task. This joint task is trained using a form of EM. The rule generation is tractable because rules are generated as sets of possible relations that hold between pairs of entities in a document (rather than any possible rule in the universe). Relevant to Zhengzhong.
 
 
-### 
-**URL**: 
+### All Bark and No Bite: Rogue Dimensions in Transformer Language Models Obscure Representational Quality
+**URL**: https://arxiv.org/abs/2109.04404
 
-**Abstract**: 
+**Abstract**: Similarity measures are a vital tool for understanding how language models represent and process language. Standard representational similarity measures such as cosine similarity and Euclidean distance have been successfully used in static word embedding models to understand how words cluster in semantic space. Recently, these measures have been applied to embeddings from contextualized models such as BERT and GPT-2. In this work, we call into question the informativity of such measures for contextualized language models. We find that a small number of rogue dimensions, often just 1-3, dominate these measures. Moreover, we find a striking mismatch between the dimensions that dominate similarity measures and those which are important to the behavior of the model. We show that simple postprocessing techniques such as standardization are able to correct for rogue dimensions and reveal underlying representational quality. We argue that accounting for rogue dimensions is essential for any similarity-based analysis of contextual language models.
 
-**Mihai's comments**: 
+**Mihai's comments**: "Rogue" dimensions in contextualized embeddings dominate cosine similarity scores. But their impact on LM probability distributions is not that big. This is the most surprising finding at EMNLP so far for me... The authors also introduce postprocessing techniques to normalize dimensions, which reduces the impact of these rogue dimensions.
 
 
 ### 
