@@ -101,12 +101,12 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 **Mihai's comments**: Generates SQL-like queries for question types unseen in training by mixing and matching parts of queries from training questions similar to the test uqestion.
 
 
-### 
-**URL**: 
+### Progressive Adversarial Learning for Bootstrapping: A Case Study on Entity Set Expansion
+**URL**: https://arxiv.org/abs/2109.12082
 
-**Abstract**: 
+**Abstract**: Bootstrapping has become the mainstream method for entity set expansion. Conventional bootstrapping methods mostly define the expansion boundary using seed-based distance metrics, which heavily depend on the quality of selected seeds and are hard to be adjusted due to the extremely sparse supervision. In this paper, we propose BootstrapGAN, a new learning method for bootstrapping which jointly models the bootstrapping process and the boundary learning process in a GAN framework. Specifically, the expansion boundaries of different bootstrapping iterations are learned via different discriminator networks; the bootstrapping network is the generator to generate new positive entities, and the discriminator networks identify the expansion boundaries by trying to distinguish the generated entities from known positive entities. By iteratively performing the above adversarial learning, the generator and the discriminators can reinforce each other and be progressively refined along the whole bootstrapping process. Experiments show that BootstrapGAN achieves the new state-of-the-art entity set expansion performance.
 
-**Mihai's comments**: 
+**Mihai's comments**: A direct application of adversarial learning for bootstrapping, which outperforms traditional bootstrapping. Relevant to Robert, George, Mahdi.
 
 
 ### 
