@@ -157,12 +157,4 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 **Mihai's comments**: Greedily generates explanations for LMs, by incrementally including context words as long as prediction probability increases. Very relevant to Zheng.
 
 
-### 
-**URL**: 
-
-**Abstract**: 
-
-**Mihai's comments**: 
-
-
 
