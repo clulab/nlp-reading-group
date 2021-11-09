@@ -109,12 +109,12 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 **Mihai's comments**: A direct application of adversarial learning for bootstrapping, which outperforms traditional bootstrapping. Relevant to Robert, George, Mahdi.
 
 
-### 
-**URL**: 
+### Modular Self-Supervision for Document-Level Relation Extraction
+**URL**: https://arxiv.org/abs/2109.05362
 
-**Abstract**: 
+**Abstract**: Extracting relations across large text spans has been relatively underexplored in NLP, but it is particularly important for high-value domains such as biomedicine, where obtaining high recall of the latest findings is crucial for practical applications. Compared to conventional information extraction confined to short text spans, document-level relation extraction faces additional challenges in both inference and learning. Given longer text spans, state-of-the-art neural architectures are less effective and task-specific self-supervision such as distant supervision becomes very noisy. In this paper, we propose decomposing document-level relation extraction into relation detection and argument resolution, taking inspiration from Davidsonian semantics. This enables us to incorporate explicit discourse modeling and leverage modular self-supervision for each sub-problem, which is less noise-prone and can be further refined end-to-end via variational EM. We conduct a thorough evaluation in biomedical machine reading for precision oncology, where cross-paragraph relation mentions are prevalent. Our method outperforms prior state of the art, such as multi-scale learning and graph neural networks, by over 20 absolute F1 points. The gain is particularly pronounced among the most challenging relation instances whose arguments never co-occur in a paragraph.
 
-**Mihai's comments**: 
+**Mihai's comments**: Did not read this paper, yet. But it seems like a simple, modular approach for long-distance RE. Relevant to Enrique.
 
 
 ### 
