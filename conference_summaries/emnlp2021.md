@@ -138,15 +138,23 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 
 **Abstract**: This paper presents a comprehensive study to efficiently build named entity recognition (NER) systems when a small number of in-domain labeled data is available. Based upon recent Transformer-based self-supervised pre-trained language models (PLMs), we investigate three orthogonal schemes to improve the model generalization ability for few-shot settings: (1) meta-learning to construct prototypes for different entity types, (2) supervised pre-training on noisy web data to extract entity-related generic representations and (3) self-training to leverage unlabeled in-domain data. Different combinations of these schemes are also considered. We perform extensive empirical comparisons on 10 public NER datasets with various proportions of labeled data, suggesting useful insights for future research. Our experiments show that (i) in the few-shot learning setting, the proposed NER schemes significantly improve or outperform the commonly used baseline, a PLM-based linear classifier fine-tuned on domain labels; (ii) We create new state-of-the-art results on both few-shot and training-free settings compared with existing methods. We will release our code and pre-trained models for reproducible research.
 
-**Mihai's comments**: Nice discussion of baselines for few-shot NER. Very relevant to George.
+**Mihai's comments**: Nice discussion of baselines for few-shot NER. See also WiFine, a large dataset with many NE labels. Very relevant to George.
 
 
-### 
-**URL**: 
+### How to Train BERT with an Academic Budget
+**URL**: https://arxiv.org/abs/2104.07705
 
-**Abstract**: 
+**Abstract**: While large language models a la BERT are used ubiquitously in NLP, pretraining them is considered a luxury that only a few well-funded industry labs can afford. How can one train such models with a more modest budget? We present a recipe for pretraining a masked language model in 24 hours using a single low-end deep learning server. We demonstrate that through a combination of software optimizations, design choices, and hyperparameter tuning, it is possible to produce models that are competitive with BERT-base on GLUE tasks at a fraction of the original pretraining cost.
 
 **Mihai's comments**: 
+
+
+### Rationales for Sequential Predictions
+**URL**: https://aclanthology.org/2021.emnlp-main.804.pdf
+
+**Abstract**: Sequence models are a critical component of modern NLP systems, but their predictions are difficult to explain. We consider model ex- planations though rationales, subsets of con- text that can explain individual model predic- tions. We find sequential rationales by solving a combinatorial optimization: the best ratio- nale is the smallest subset of input tokens that would predict the same output as the full se- quence. Enumerating all subsets is intractable, so we propose an efficient greedy algorithm to approximate this objective. The algorithm, which is called greedy rationalization, applies to any model. For this approach to be effec- tive, the model should form compatible condi- tional distributions when making predictions on incomplete subsets of the context. This condition can be enforced with a short fine- tuning step. We study greedy rationalization on language modeling and machine translation. Compared to existing baselines, greedy ratio- nalization is best at optimizing the sequential objective and provides the most faithful ratio- nales. On a new dataset of annotated sequen- tial rationales, greedy rationales are most simi- lar to human rationales.
+
+**Mihai's comments**: Very relevant to Zheng.
 
 
 ### 
