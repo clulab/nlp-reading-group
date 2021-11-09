@@ -125,12 +125,12 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 **Mihai's comments**: Nice discussion on how to encode relative positions (between query and value) in transformers. See also Long-Range Arena, a dataset for long sequences. Relevant to Enrique.
 
 
-### 
-**URL**: 
+### Back to Square One: Artifact Detection, Training and Commonsense Disentanglement in the Winograd Schema
+**URL**: https://arxiv.org/abs/2104.08161
 
-**Abstract**: 
+**Abstract**: The Winograd Schema (WS) has been proposed as a test for measuring commonsense capabilities of models. Recently, pre-trained language model-based approaches have boosted performance on some WS benchmarks but the source of improvement is still not clear. This paper suggests that the apparent progress on WS may not necessarily reflect progress in commonsense reasoning. To support this claim, we first show that the current evaluation method of WS is sub-optimal and propose a modification that uses twin sentences for evaluation. We also propose two new baselines that indicate the existence of artifacts in WS benchmarks. We then develop a method for evaluating WS-like sentences in a zero-shot setting to account for the commonsense reasoning abilities acquired during the pretraining and observe that popular language models perform randomly in this setting when using our more strict evaluation. We conclude that the observed progress is mostly due to the use of supervision in training WS models, which is not likely to successfully support all the required commonsense reasoning skills and knowledge.
 
-**Mihai's comments**: 
+**Mihai's comments**: Winograd schema results are inflated because: (a) they overfit on lexical artifacts, (b) the evaluation inflates results (it should give credit only when both variants are classified correctly), and (c) training on this data yields limited generalization.
 
 
 ### 
