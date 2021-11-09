@@ -86,19 +86,35 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 
 
 ### Neuralizing Regular Expressions for Slot Filling
-**URL**: 
+**URL**: https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/emnlp21.pdf
 
-**Abstract**: 
+**Abstract**: Neural models and symbolic rules such as reg- ular expressions have their respective merits and weaknesses. In this paper, we study the integration of the two approaches for the slot filling task by converting regular expressions into neural networks. Specifically, we first con- vert regular expressions into a special form of finite-state transducers, then unfold its approx- imate inference algorithm as a bidirectional re- current neural model that performs slot filling via sequence labeling. Experimental results show that our model has superior zero-shot and few-shot performance and stays competi- tive when there are sufficient training data.
 
 **Mihai's comments**: Converts a regex (and its equivalent FST) into a neural network by using tensors to encode the transition scores. Trained using an algorithm similar to forward-backward. Relevant to OdinSynth (Robert, George, Marco).
 
 
 ### Case-based Reasoning for Natural Language Queries over Knowledge Bases
+**URL**: https://arxiv.org/abs/2104.08762
+
+**Abstract**: It is often challenging to solve a complex problem from scratch, but much easier if we can access other similar problems with their solutions -- a paradigm known as case-based reasoning (CBR). We propose a neuro-symbolic CBR approach (CBR-KBQA) for question answering over large knowledge bases. CBR-KBQA consists of a nonparametric memory that stores cases (question and logical forms) and a parametric model that can generate a logical form for a new question by retrieving cases that are relevant to it. On several KBQA datasets that contain complex questions, CBR-KBQA achieves competitive performance. For example, on the ComplexWebQuestions dataset, CBR-KBQA outperforms the current state of the art by 11\% on accuracy. Furthermore, we show that CBR-KBQA is capable of using new cases \emph{without} any further training: by incorporating a few human-labeled examples in the case memory, CBR-KBQA is able to successfully generate logical forms containing unseen KB entities as well as relations.
+
+**Mihai's comments**: Generates SQL-like queries for question types unseen in training by mixing and matching parts of queries from training questions similar to the test uqestion.
+
+
+### 
 **URL**: 
 
 **Abstract**: 
 
-**Mihai's comments**: Generates SQL-like queries for question types unseen in training by mixing and matching parts of queries from training questions similar to the test uqestion.
+**Mihai's comments**: 
+
+
+### 
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
 
 
 ### 
