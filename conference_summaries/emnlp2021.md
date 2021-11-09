@@ -85,20 +85,20 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 **Mihai's comments**: "Rogue" dimensions in contextualized embeddings dominate cosine similarity scores. But their impact on LM probability distributions is not that big. This is the most surprising finding at EMNLP so far for me... The authors also introduce postprocessing techniques to normalize dimensions, which reduces the impact of these rogue dimensions.
 
 
-### 
+### Neuralizing Regular Expressions for Slot Filling
 **URL**: 
 
 **Abstract**: 
 
-**Mihai's comments**: 
+**Mihai's comments**: Converts a regex (and its equivalent FST) into a neural network by using tensors to encode the transition scores. Trained using an algorithm similar to forward-backward. Relevant to OdinSynth (Robert, George, Marco).
 
 
-### 
+### Case-based Reasoning for Natural Language Queries over Knowledge Bases
 **URL**: 
 
 **Abstract**: 
 
-**Mihai's comments**: 
+**Mihai's comments**: Generates SQL-like queries for question types unseen in training by mixing and matching parts of queries from training questions similar to the test uqestion.
 
 
 ### 
