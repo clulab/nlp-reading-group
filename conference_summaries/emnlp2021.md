@@ -146,7 +146,7 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 
 **Abstract**: While large language models a la BERT are used ubiquitously in NLP, pretraining them is considered a luxury that only a few well-funded industry labs can afford. How can one train such models with a more modest budget? We present a recipe for pretraining a masked language model in 24 hours using a single low-end deep learning server. We demonstrate that through a combination of software optimizations, design choices, and hyperparameter tuning, it is possible to produce models that are competitive with BERT-base on GLUE tasks at a fraction of the original pretraining cost.
 
-**Mihai's comments**: 
+**Mihai's comments**: Use BERT-large (converges faster) but short sequences (128 tokens, single sents). Just masked LM during training. Gradient accumulation to simulate large batches. Time-based learning rate schedule (not epoch based). 
 
 
 ### Rationales for Sequential Predictions
@@ -154,7 +154,7 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 
 **Abstract**: Sequence models are a critical component of modern NLP systems, but their predictions are difficult to explain. We consider model ex- planations though rationales, subsets of con- text that can explain individual model predic- tions. We find sequential rationales by solving a combinatorial optimization: the best ratio- nale is the smallest subset of input tokens that would predict the same output as the full se- quence. Enumerating all subsets is intractable, so we propose an efficient greedy algorithm to approximate this objective. The algorithm, which is called greedy rationalization, applies to any model. For this approach to be effec- tive, the model should form compatible condi- tional distributions when making predictions on incomplete subsets of the context. This condition can be enforced with a short fine- tuning step. We study greedy rationalization on language modeling and machine translation. Compared to existing baselines, greedy ratio- nalization is best at optimizing the sequential objective and provides the most faithful ratio- nales. On a new dataset of annotated sequen- tial rationales, greedy rationales are most simi- lar to human rationales.
 
-**Mihai's comments**: Very relevant to Zheng.
+**Mihai's comments**: Greedily generates explanations for LMs, by incrementally including context words as long as prediction probability increases. Very relevant to Zheng.
 
 
 ### 
