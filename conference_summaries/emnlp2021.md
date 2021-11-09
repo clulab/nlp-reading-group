@@ -117,6 +117,30 @@ By combining masking with magnitude pruning we find that we can identify sparse 
 **Mihai's comments**: Did not read this paper, yet. But it seems like a simple, modular approach for long-distance RE. Relevant to Enrique.
 
 
+### PermuteFormer: Efficient Relative Position Encoding for Long Sequences
+**URL**: https://arxiv.org/abs/2109.02377
+
+**Abstract**: A recent variation of Transformer, Performer, scales Transformer to longer sequences with a linear attention mechanism. However, it is not compatible with relative position encoding, which has advantages over absolute position encoding. In this paper, we discuss possible ways to add relative position encoding to Performer. Based on the analysis, we propose PermuteFormer, a Performer-based model with relative position encoding that scales linearly on long sequences. PermuteFormer applies position-dependent transformation on queries and keys to encode positional information into the attention module. This transformation is carefully crafted so that the final output of self-attention is not affected by absolute positions of tokens. PermuteFormer introduces negligible computational overhead by design that it runs as fast as Performer. We evaluate PermuteFormer on Long-Range Arena, a dataset for long sequences, as well as WikiText-103, a language modeling dataset. The experiments show that PermuteFormer uniformly improves the performance of Performer with almost no computational overhead and outperforms vanilla Transformer on most of the tasks.
+
+**Mihai's comments**: Nice discussion on how to encode relative positions (between query and value) in transformers. See also Long-Range Arena, a dataset for long sequences. Relevant to Enrique.
+
+
+### 
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
+
+
+### 
+**URL**: 
+
+**Abstract**: 
+
+**Mihai's comments**: 
+
+
 ### 
 **URL**: 
 
