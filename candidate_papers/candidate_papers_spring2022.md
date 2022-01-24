@@ -15,4 +15,4 @@
 | 10 | Zhengzhong | [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/pdf/2201.02177.pdf) |
 | 11 | Zhengzhong | [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf) |
 | 12 | Zhengzhong | [Fine-tuned Language Models are Zero-shot Learners](https://arxiv.org/pdf/2109.01652.pdf) | 
-
+| 13 | Steve | [Pay Attention to MLPs](https://papers.nips.cc/paper/2021/hash/4cc05b35c2f937c5bd9e7d41d3686fff-Abstract.html) |
