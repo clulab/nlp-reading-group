@@ -14,4 +14,5 @@
 | 9 | Zhengzhong | [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/pdf/1701.08734.pdf) |
 | 10 | Zhengzhong | [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/pdf/2201.02177.pdf) |
 | 11 | Zhengzhong | [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf) |
+| 12 | Zhengzhong | [Fine-tuned Language Models are Zero-shot Learners](https://arxiv.org/pdf/2109.01652.pdf) | 
 
