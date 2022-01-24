@@ -22,4 +22,4 @@
 | 17 | Mihai | [Rationales for Sequential Predictions](https://aclanthology.org/2021.emnlp-main.807.pdf) |
 | 18 | Mihai | [CXPlain: Causal Explanations for Model Interpretation under Uncertainty](https://arxiv.org/pdf/1910.12336.pdf) |
 | 19 | Mihai | LIME + follow up paper from Sameer |
-
+| 20 | Masha | [How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements](https://arxiv.org/abs/2106.03048) |
