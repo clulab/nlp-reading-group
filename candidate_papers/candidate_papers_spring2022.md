@@ -23,5 +23,5 @@
 | 18 | Mihai | [CXPlain: Causal Explanations for Model Interpretation under Uncertainty](https://arxiv.org/pdf/1910.12336.pdf) |
 | 19 | Mihai | LIME + follow up paper from Sameer |
 | 20 | Masha | [How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements](https://arxiv.org/abs/2106.03048) |
-| 21 | shahriar | [paper1](https://arxiv.org/abs/2201.03529) |
-| 22 | shahriar | [paper2](https://arxiv.org/abs/2101.00190)|
+| 21 | shahriar | [Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning](https://arxiv.org/abs/2201.03529) |
+| 22 | shahriar | [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)|
