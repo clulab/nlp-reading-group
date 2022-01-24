@@ -16,3 +16,4 @@
 | 11 | Zhengzhong | [The Power of Scale for Parameter-Efficient Prompt Tuning](https://aclanthology.org/2021.emnlp-main.243/) |
 | 12 | Zhengzhong | [Fine-tuned Language Models are Zero-shot Learners](https://arxiv.org/pdf/2109.01652.pdf) | 
 | 13 | Steve | [Pay Attention to MLPs](https://papers.nips.cc/paper/2021/hash/4cc05b35c2f937c5bd9e7d41d3686fff-Abstract.html) |
+| 14 | Steve | [Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand](https://arxiv.org/abs/2112.04139) |
