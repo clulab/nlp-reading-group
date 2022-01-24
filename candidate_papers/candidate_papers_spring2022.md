@@ -19,3 +19,7 @@
 | 14 | Steve | [Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand](https://arxiv.org/abs/2112.04139) |
 | 15 | Steve | [Fast Model Editing at Scale](https://openreview.net/forum?id=0DcZxeWfOPt) |
 | 16 | Steve | [Large Language Models Can Be Strong Differentially Private Learners](https://openreview.net/forum?id=bVuP3ltATMz) |
+| 17 | Mihai | [Rationales for Sequential Predictions](https://aclanthology.org/2021.emnlp-main.807.pdf) |
+| 18 | Mihai | [CXPlain: Causal Explanations for Model Interpretation under Uncertainty](https://arxiv.org/pdf/1910.12336.pdf) |
+| 19 | Mihai | LIME + follow up paper from Sameer |
+
