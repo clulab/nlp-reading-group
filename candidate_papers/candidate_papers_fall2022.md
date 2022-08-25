@@ -9,3 +9,5 @@
 | 5  | Mihai      |[Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf) |
 | 6 | ghp | [Multimodal Few-Shot Learning with Frozen Language Models](https://openreview.net/pdf?id=WtmMyno9Tq2) |
 | 7 | sushma | [Towards Teachable Reasoning Systems](https://arxiv.org/abs/2204.13074) |
+| 8 | bulut | [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/pdf/2208.07339v1.pdf) |
+| 9 | bulut | [Confident Adaptive Language Modeling](https://arxiv.org/pdf/2207.07061.pdf) |
