@@ -11,3 +11,4 @@
 | 7 | sushma | [Towards Teachable Reasoning Systems](https://arxiv.org/abs/2204.13074) |
 | 8 | bulut | [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/pdf/2208.07339v1.pdf) |
 | 9 | bulut | [Confident Adaptive Language Modeling](https://arxiv.org/pdf/2207.07061.pdf) |
+| 10 | bulut | [Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems](https://dl.acm.org/doi/pdf/10.1145/3534678.3539173) |
