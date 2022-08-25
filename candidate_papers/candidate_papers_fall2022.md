@@ -9,4 +9,3 @@
 | 5  | Mihai      |[Neurosymbolic AI: The 3rd Wave](https://arxiv.org/pdf/2012.05876.pdf) |
 | 6 | ghp | [Multimodal Few-Shot Learning with Frozen Language Models](https://openreview.net/pdf?id=WtmMyno9Tq2) |
 | 7 | sushma | [Towards Teachable Reasoning Systems](https://arxiv.org/abs/2204.13074) |
-| 8 | sushma | [Look-up and Adapt: A One-shot Semantic Parser](https://arxiv.org/abs/1910.12197) |
