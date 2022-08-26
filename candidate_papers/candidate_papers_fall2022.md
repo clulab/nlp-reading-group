@@ -21,3 +21,4 @@
 | 17 | Robert | [How does the pre-training objective affect what large language models learn about linguistic properties?](https://aclanthology.org/2022.acl-short.16/) |
 | 18 | Robert | [Are Prompt-based Models Clueless?](https://aclanthology.org/2022.acl-long.166/) |
 | 19 | Robert | [An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels](https://aclanthology.org/2022.acl-long.60/) |
+| 20 | Steve  | [Prompt-free and Efficient Few-shot Learning with Language Models](https://aclanthology.org/2022.acl-long.254/) |
