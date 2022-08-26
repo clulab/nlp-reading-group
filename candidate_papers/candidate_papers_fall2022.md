@@ -22,3 +22,4 @@
 | 18 | Robert | [Are Prompt-based Models Clueless?](https://aclanthology.org/2022.acl-long.166/) |
 | 19 | Robert | [An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels](https://aclanthology.org/2022.acl-long.60/) |
 | 20 | Steve  | [Prompt-free and Efficient Few-shot Learning with Language Models](https://aclanthology.org/2022.acl-long.254/) |
+| 21 | Steve  | [Revisiting Uncertainty-based Query Strategies for Active Learning with Transformers](https://aclanthology.org/2022.findings-acl.172/) |
