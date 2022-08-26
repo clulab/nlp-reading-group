@@ -15,3 +15,5 @@
 | 11 | zheng | [Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection](https://aclanthology.org/2022.naacl-main.192.pdf) |
 | 12 | zheng | [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://aclanthology.org/2022.naacl-main.167.pdf) |
 | 13 | zheng | [Interpretable Neural Predictions with Differentiable Binary Variables](https://aclanthology.org/P19-1284.pdf) |
+| 14 | masha | [UniKeyphrase: A Unified Extraction and Generation Framework for Keyphrase Prediction](https://aclanthology.org/2021.findings-acl.73v1.pdf) |
+| 15 | masha | [Contrastive Information Extraction with Generative Transformer](https://www.researchgate.net/profile/Ningyu-Zhang-5/publication/354594748_Contrastive_Information_Extraction_With_Generative_Transformer/links/626008b3ee24725b3eb87b36/Contrastive-Information-Extraction-With-Generative-Transformer.pdf) |
