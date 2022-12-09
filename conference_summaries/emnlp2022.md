@@ -35,11 +35,13 @@
 ### Generate, Annotate, and Learn: NLP with Synthetic Text
 **Mihai's comments**: They generate unlabeled data *in-domain* using a nearest neighbor search. Then they self train on this data using a teacher-student model. Performs better on GLUE than many other SSL approaches.
 
-### 
-**Mihai's comments**:
+### Structural Persistence in Language Models: Priming as a Window into Abstract Language Representations
+**Mihai's comments**: They find that LMs do respond to structural priming fairly similar to humans. 
+(Relevant to Sushma and Haris)
 
-### 
-**Mihai's comments**:
+### ProoFVer: Natural Logic Theorem Proving for Fact Verification
+**Mihai's comments**: A logic prover for fact verification using natural logic. Very cool paper! They generate training data for natural logic by chunking and aligning fragments of premise and hypothesis using a series of linguistic heuristics. They use Wiki Data to insert world knowledge in the system. The performance on FEVER is very good.
+(Very relevant to Sushma and Haris)
 
 ### 
 **Mihai's comments**:
