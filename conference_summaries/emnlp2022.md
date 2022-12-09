@@ -9,8 +9,7 @@
 ### UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models
 **URL**: 
 **Abstract**: 
-
-**Mihai's comments**: An unified architecture for 6 tasks that work on top of knowledge bases. Each task has a unique prefix, but they share the same LM underneath. This improves performance over models fine-tuned individually.
+**Mihai's comments**: An unified architecture for 6 tasks that work on top of knowledge bases. Each task has a unique prefix, but they share the same LM underneath. This improves performance over models fine-tuned individually. GPT-3 + Codex and few-shot learning performs worse than fine-tuning a LM.
 
 ### 
 **URL**: 
