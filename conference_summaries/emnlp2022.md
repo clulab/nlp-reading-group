@@ -45,8 +45,8 @@
 **Mihai's comments**: A logic prover for fact verification using natural logic. Very cool paper! They generate training data for natural logic by chunking and aligning fragments of premise and hypothesis using a series of linguistic heuristics. They use Wiki Data to insert world knowledge in the system. The performance on FEVER is very good.
 (Very relevant to Sushma and Haris)
 
-### 
-**Mihai's comments**:
+### Investigating Reasons for Disagreement in Natural Language Inference
+**Mihai's comments**: Disagreements in NLI annotations are not necessarily bad. They create a taxonomy that captures systematic disagreements in annotations in MNLI. 
 
 ### 
 **Mihai's comments**:
