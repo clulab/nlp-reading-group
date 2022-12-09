@@ -46,7 +46,7 @@
 (Very relevant to Sushma and Haris)
 
 ### Investigating Reasons for Disagreement in Natural Language Inference
-**Mihai's comments**: Disagreements in NLI annotations are not necessarily bad. They create a taxonomy that captures systematic disagreements in annotations in MNLI. 
+**Mihai's comments**: Disagreements in NLI annotations are not necessarily bad. They create a taxonomy that captures systematic disagreements in annotations in MNLI. Multilabel classification can better capture different interpretations.
 
 ### 
 **Mihai's comments**:
