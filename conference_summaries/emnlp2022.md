@@ -40,6 +40,8 @@
 (Relevant to Sushma and Haris)
 
 ### ProoFVer: Natural Logic Theorem Proving for Fact Verification
+**URL:** https://arxiv.org/abs/2108.11357
+
 **Mihai's comments**: A logic prover for fact verification using natural logic. Very cool paper! They generate training data for natural logic by chunking and aligning fragments of premise and hypothesis using a series of linguistic heuristics. They use Wiki Data to insert world knowledge in the system. The performance on FEVER is very good.
 (Very relevant to Sushma and Haris)
 
