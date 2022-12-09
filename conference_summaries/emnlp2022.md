@@ -26,6 +26,7 @@
 
 ### Unobserved Local Structures Make Compositional Generalization Hard
 **Mihai's comments**: NLP models struggle to generalize for compositionality (in the context of semantic parsing). Their key observation is that models do not generalize on test instances that contain local structures that do not appear in training data.
+(Relevant to Sushma and Haris)
 
 
 
