@@ -28,5 +28,28 @@
 **Mihai's comments**: NLP models struggle to generalize for compositionality (in the context of semantic parsing). Their key observation is that models do not generalize on test instances that contain local structures that do not appear in training data.
 (Relevant to Sushma and Haris)
 
+### True Few-Shot Learning With Prompts - A Real-World Perspective
+**Mihai's comments**: Prompts are brittle, especially in real-world tasks. They do an ensemble of prompts with a meta-classifier on top to produce the final label.
+(Relevant to Mahdi and Zheng)
+
+### Generate, Annotate, and Learn: NLP with Synthetic Text
+**Mihai's comments**: They generate unlabeled data *in-domain* using a nearest neighbor search. Then they self train on this data using a teacher-student model. Performs better on GLUE than many other SSL approaches.
+
+### 
+**Mihai's comments**:
+
+### 
+**Mihai's comments**:
+
+### 
+**Mihai's comments**:
+
+### 
+**Mihai's comments**:
+
+
+
+
+
 
 
