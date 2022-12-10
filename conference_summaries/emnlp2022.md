@@ -48,6 +48,20 @@
 ### Investigating Reasons for Disagreement in Natural Language Inference
 **Mihai's comments**: Disagreements in NLI annotations are not necessarily bad. They create a taxonomy that captures systematic disagreements in annotations in MNLI. Multilabel classification can better capture different interpretations.
 
+### Diff-Explainer: Differentiable Convex Optimization for Explainable Multi-hop Inference
+**Mihai's comments**: A fully differentiable approach for multi-hop QA that is (partially) inspired by Vikas's AutoROCC! They approximate TupleILP using SDP. The results show minor but consistent improvements over AutoROCC on ARC and World Tree.
+(Relevant to Pere J, Vikas)
+
+### Meta-Learning the Difference: Preparing Large Language Models for Efficient Adaptation
+**Mihai's comments**: This paper addresses the domain adaptation of LMs during fine-tuning. They propose several improvements for meta-learning, MAML in particular, which make it overfit less. They should some small improvements for summarization over pre-training + fine-tuning.
+(Relevant to Shahriar)
+
+### Learning Fair Representations via Rate-Distortion Maximization
+**Mihai's comments**: They introduce gender balance in LMs without a drop in accuracy for downstream tasks.
+
+### 
+**Mihai's comments**:
+
 ### 
 **Mihai's comments**:
 
