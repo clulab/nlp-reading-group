@@ -59,8 +59,9 @@
 ### Learning Fair Representations via Rate-Distortion Maximization
 **Mihai's comments**: They introduce gender balance in LMs without a drop in accuracy for downstream tasks.
 
-### 
-**Mihai's comments**:
+### COCO-DR: Combating the Distribution Shift in Zero-Shot Dense Retrieval with Contrastive and Distributionally Robust Learning
+**Mihai's comments**: Improves dense retrieval by continuining pre-training in the target domain. I did not read this paper yet.
+(Relevant to Mihai)
 
 ### 
 **Mihai's comments**:
