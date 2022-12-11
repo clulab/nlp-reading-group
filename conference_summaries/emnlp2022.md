@@ -61,7 +61,28 @@
 
 ### COCO-DR: Combating the Distribution Shift in Zero-Shot Dense Retrieval with Contrastive and Distributionally Robust Learning
 **Mihai's comments**: Improves dense retrieval by continuining pre-training in the target domain. I did not read this paper yet.
-(Relevant to Mihai)
+
+### Entity Extraction in Low Resource Domains with Selective Pre-training of Large Language Models
+**Mihai's comments**: Pretrains for the target domain by selecting sentences from a large corpus that are similar to the task dataset. Nice, simple method that is independent of the target task.
+(Very relevant to Shahriar)
+
+### Zero-Shot Text Classification with Self-Training
+**Mihai's comments**: Nice and simple approach for text classification (TC). It frames TC as a decoding task, and uses self-training to generate additional training data. The data points to include in self-training are selected using a method similar to Breaking Ties in active learning.
+
+### Fine-grained Category Discovery under Coarse-grained supervision with Hierarchical Weighted Self-contrastive Learning
+**Mihai's comments**: Hierarchical clustering approach using features produced by different BERT layers. They also introduce several nice heuristics to model hierarchical clustering constraints.
+
+### Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning
+**Mihai's comments**: Multi-hop QA method that generates a systematic chain of reasoning. Need to read it.
+
+### Retrieval as Attention: End-to-end Learning of Retrieval and Reading within a Single Transformer
+**Mihai's comments**: A single model for QA that performs both retrieval and reading. They say: "We demonstrate for the first time that a single model trained end-to-end can achieve both competitive retrieval and QA performance, matching or slightly outperforming state-of-the-art separately trained retrievers and readers."
+
+### Fine-grained Contrastive Learning for Relation Extraction
+**Mihai's comments**: Nice simple idea for denoising data generated through distant supervision for RE. Using *just* the denoised distantly-supervised data they obtained performance close to the SOTA for TACRED and DocRED.
+
+### 
+**Mihai's comments**:
 
 ### 
 **Mihai's comments**:
