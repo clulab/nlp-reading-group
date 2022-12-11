@@ -84,6 +84,15 @@
 ### SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning
 **Mihai's comments**: Several multi-hop reasoning methods that operate over knowledge graphs (KG) use reinforcement learning (RL). This paper reframes the task as an encoder-decoder problem, where the decoder generates the multi-hop path in the KG. They show that this approach converges much faster than RL and works at least as well.
 
+### Rescue Implicit and Long-tail Cases: Nearest Neighbor Relation Extraction
+**Mihai's comments**: Addresses long-tail examples for relation extraction (RE). At inference time, they use the representation of the test example to find the closest k examples. Then, they aggregate the prediction probabilities of these neighbors to produce a more robust prediction for the given test examples. 
+
+### 
+**Mihai's comments**:
+
+### 
+**Mihai's comments**:
+
 ### 
 **Mihai's comments**:
 
