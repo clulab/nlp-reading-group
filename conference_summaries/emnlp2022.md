@@ -81,8 +81,8 @@
 ### Fine-grained Contrastive Learning for Relation Extraction
 **Mihai's comments**: Nice simple idea for denoising data generated through distant supervision for RE. Using *just* the denoised distantly-supervised data they obtained performance close to the SOTA for TACRED and DocRED.
 
-### 
-**Mihai's comments**:
+### SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning
+**Mihai's comments**: Several multi-hop reasoning methods that operate over knowledge graphs (KG) use reinforcement learning (RL). This paper reframes the task as an encoder-decoder problem, where the decoder generates the multi-hop path in the KG. They show that this approach converges much faster than RL and works at least as well.
 
 ### 
 **Mihai's comments**:
