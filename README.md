@@ -5,9 +5,14 @@ A Computational Linguistics/NLP reading group at the University of Arizona.
 The group meets most Fridays from 3:00pm-4:00pm MST.
 Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week ahead of time.
+
+To get reminders of what we are reading each week (and occasional postings about NLP job openings) sign up on the nlp-read mailing list:
+
+https://list.arizona.edu/sympa/info/nlp-read
+
 The full reading schedule for the semester is here:
 
-* [Fall 2022 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2022-Reading-Schedule)
+[Fall 2022 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2022-Reading-Schedule)
 
 ## Previous Semesters
 
