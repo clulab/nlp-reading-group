@@ -91,15 +91,6 @@
 ### Rescue Implicit and Long-tail Cases: Nearest Neighbor Relation Extraction
 **Mihai's comments**: Addresses long-tail examples for relation extraction (RE). At inference time, they use the representation of the test example to find the closest k examples. Then, they aggregate the prediction probabilities of these neighbors to produce a more robust prediction for the given test examples. 
 
-### 
-**Mihai's comments**:
-
-### 
-**Mihai's comments**:
-
-### 
-**Mihai's comments**:
-
 
 
 
