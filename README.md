@@ -2,7 +2,8 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
-The group meets most Thursdays from 2:00pm-3:00pm MST.
+The group meets most Thursdays from 2:00pm-3:00pm MST either in [Harvill 460](https://interactivefloorplans.arizona.edu/76/0460) or on [zoom](https://arizona.zoom.us/j/82097692651).
+
 Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week ahead of time.
 
