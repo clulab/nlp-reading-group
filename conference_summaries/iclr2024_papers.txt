@@ -1,0 +1,33 @@
+
+Makes LoRA scale up to long context using sparse attention during training: https://arxiv.org/abs/2309.12307
+
+Designs an eviction policy for KV cache by emphasizing local contexts and heads that attend to all tokens: https://arxiv.org/abs/2310.01801
+
+Analyzes the convergence properties of prefixLMs vs. causalLMs for in-context learning when learning linear regressors: https://arxiv.org/abs/2308.06912
+
+Prunes parameters in LLMs with the smallest magnitudes multiplied by the corresponding input activations: https://arxiv.org/abs/2306.11695
+
+A simple prompt for reasoning tasks that forces the LLM to abstract before answering: https://arxiv.org/abs/2310.06117 +++ 
+
+Another simple prompt for reasoning that encourages the LLM to generate relevant examplars before answering: https://arxiv.org/pdf/2310.01714 +++
+
+Shows that the hypothesis that knowledge is stored in "knowledge neurons" is an over-simplification: https://openreview.net/forum?id=2HJRwwbV3G +++
+
+Framework to customize LLMs to thousands of APIs: https://arxiv.org/abs/2307.16789
+
+Trains an LLM for machine translation to/from a low-resource language using solely a grammar book: https://arxiv.org/abs/2309.16575
+
+Shows that LLMs can be aligned with human preferences without fine-tuning, by asking them to evaluate their own generations and "rewinding:" https://arxiv.org/abs/2309.07124
+
+Unsupervised model unlearning by approximating the distribution of representations for the remaining data: https://openreview.net/forum?id=SIZWiya7FE&referrer=%5Bthe%20profile%20of%20Alina%20Bialkowski%5D(%2Fprofile%3Fid%3D~Alina_Bialkowski4)
+
+Retrieval augmented generation approach that summarizes retrieved documents before including them in the context: https://arxiv.org/abs/2310.04408
+
+A platform that can analyze the content of many terabytes of data on a single compute node: https://arxiv.org/abs/2310.20707
+
+Another retrieval augmented generation approach that retrieves with recursize/hierarchical summaries: https://arxiv.org/abs/2401.18059
+
+Zero-shot information extraction that uses an LLM fine-tuned to learn how to attend to task guidelines: https://arxiv.org/abs/2310.03668
+
+
+
