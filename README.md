@@ -2,7 +2,7 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
-The group meets most Fridays from 02:00-03:30 PM MST in [Gould-Simpson 906](https://interactivefloorplans.arizona.edu/77/0906) or on [zoom](https://arizona.zoom.us/).
+The group meets most Fridays from 02:00-03:30 PM MST in [Gould-Simpson 906](https://interactivefloorplans.arizona.edu/77/0906) or on [zoom](https://arizona.zoom.us/j/82228177774).
 
 Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week ahead of time.
