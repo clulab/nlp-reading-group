@@ -1,0 +1,27 @@
+Evaluating n-Gram Novelty of Language Models Using Rusty-DAWG
+https://arxiv.org/pdf/2406.13069
+
+Ranking Manipulation for Conversational Search Engines
+https://arxiv.org/pdf/2406.03589
+
+The Mystery of In-Context Learning: A Comprehensive Survey on Interpretation and Analysis
+Mihai: Possibly good survey. Need to read paper.
+
+Improved Learned Sparse Retrieval with Entity Vocabulary
+Mihai: Learned sparse retrieval has potential due to the much better interpretability!
+
+Toward Robust RALMs: Revealing the Impact of Imperfect Retrieval on Retrieval-Augmented Language Models
+Mihai: Discusses limitations of RAG approaches. Good entry point if working on RAG.
+
+RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation
+https://arxiv.org/abs/2406.05794
+Mihai: Identifies which RAG context helps answering questions correctly
+
+QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios
+Mihai: Dataset for probabilistic QA. Includes neuro-symbolic code with ProgLog!
+
+
+
+
+
+
