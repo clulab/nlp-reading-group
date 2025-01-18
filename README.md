@@ -2,7 +2,7 @@
 
 A Computational Linguistics/NLP reading group at the University of Arizona.
 
-The group meets most Fridays from 02:00-03:30 PM MST in [Gould-Simpson 906](https://interactivefloorplans.arizona.edu/77/0701) or on [zoom](https://arizona.zoom.us/j/84450729419).
+The group meets most Fridays from 02:00-03:30 PM MST in [Gould-Simpson 701](https://interactivefloorplans.arizona.edu/77/0701) or on [zoom](https://arizona.zoom.us/j/84450729419).
 
 Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week ahead of time.
@@ -13,7 +13,7 @@ https://list.arizona.edu/sympa/info/nlp-read
 
 The full reading schedule for the semester is here:
 
-[Spring 2025 Reading Schedule]()
+[Spring 2025 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Spring-2025-Reading-Schedule)
 
 ## Previous Semesters
 
