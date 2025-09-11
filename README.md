@@ -1,6 +1,6 @@
 # nlp-reading-group
 
-A Computational Linguistics/NLP reading group at the University of Arizona.
+A Computational Linguistics (CL) / Natural Language Processing (NLP) reading group at the University of Arizona.
 
 The group meets most Fridays from 02:00-03:30 PM MST in [Harvill 460](https://interactivefloorplans.arizona.edu/76/0460) or on [zoom](https://arizona.zoom.us/j/81085534815).
 
