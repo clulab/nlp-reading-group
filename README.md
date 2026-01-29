@@ -1,23 +1,18 @@
 # nlp-reading-group
 
 A Computational Linguistics (CL) / Natural Language Processing (NLP) reading group at the University of Arizona.
-
-The group meets most Fridays from 02:00-03:30 PM MST in [Gould Simposon 701](https://interactivefloorplans.arizona.edu/77/0701) or on [zoom](https://arizona.zoom.us/j/85177118396).
-
-
 Everyone is welcome to participate (faculty and students alike).
-The only expectation is that participants read the paper scheduled for that week ahead of time.
+The only expectation is that participants read the paper scheduled for that week before attending the meeting.
 
-To get reminders of what we are reading each week (and occasional postings about NLP job openings) sign up on the nlp-read mailing list:
+The group meets most Fridays from 2:00-3:30 PM MST in [Gould Simposon 701](https://interactivefloorplans.arizona.edu/77/0701) or on [zoom](https://arizona.zoom.us/j/85177118396).
 
-https://list.arizona.edu/sympa/info/nlp-read
+To get reminders of the reading each week (and occasional postings about NLP job openings) sign up on the [nlp-read mailing list](https://list.arizona.edu/sympa/info/nlp-read).
 
-The full reading schedule for the semester is here:
+To see the current list of readings, visit the [Spring 2026 reading schedule](https://github.com/clulab/nlp-reading-group/wiki/Spring-2026-Reading-Schedule).
 
-[Spring 2026 Reading Schedule](https://github.com/clulab/nlp-reading-group/wiki/Spring-2026-Reading-Schedule)
-
-## Previous Semesters
-
+<details>
+<summary>Previous reading schedules</summary>
+  
 * [Fall 2025](https://github.com/clulab/nlp-reading-group/wiki/Fall-2025-Reading-Schedule)
 * [Spring 2025](https://github.com/clulab/nlp-reading-group/wiki/Spring-2025-Reading-Schedule)
 * [Fall 2024](https://github.com/clulab/nlp-reading-group/wiki/Fall-2024-Reading-Schedule)
@@ -40,3 +35,5 @@ The full reading schedule for the semester is here:
 * [Fall 2016](https://github.com/clulab/nlp-reading-group/wiki/Fall-2016-Reading-Schedule)
 * [Spring 2016](https://github.com/clulab/nlp-reading-group/wiki/Spring-2016-Reading-Schedule)
 * [Fall 2015](https://github.com/clulab/nlp-reading-group/wiki/Fall-2015-Reading-Schedule)
+
+</details>
