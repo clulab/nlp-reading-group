@@ -12,7 +12,8 @@ To see the current list of readings, visit the [Spring 2026 reading schedule](ht
 
 <details>
 <summary>Previous reading schedules</summary>
-  
+
+* [Spring 2026](https://github.com/clulab/nlp-reading-group/wiki/Spring-2026-Reading-Schedule)  
 * [Fall 2025](https://github.com/clulab/nlp-reading-group/wiki/Fall-2025-Reading-Schedule)
 * [Spring 2025](https://github.com/clulab/nlp-reading-group/wiki/Spring-2025-Reading-Schedule)
 * [Fall 2024](https://github.com/clulab/nlp-reading-group/wiki/Fall-2024-Reading-Schedule)
