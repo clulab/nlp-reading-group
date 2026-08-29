@@ -8,11 +8,12 @@ The group meets most Fridays from 2:00-3:30 PM MST in [Gould Simposon 701](https
 
 To get reminders of the reading each week (and occasional postings about NLP job openings) sign up on the [nlp-read mailing list](https://list.arizona.edu/sympa/info/nlp-read).
 
-To see the current list of readings, visit the [Spring 2026 reading schedule](https://github.com/clulab/nlp-reading-group/wiki/Spring-2026-Reading-Schedule).
+To see the current list of readings, visit the [Fall 2026 reading schedule](https://github.com/clulab/nlp-reading-group/wiki/Fall-2026-Reading-Schedule).
 
 <details>
 <summary>Previous reading schedules</summary>
-  
+
+* [Spring 2026](https://github.com/clulab/nlp-reading-group/wiki/Spring-2026-Reading-Schedule)  
 * [Fall 2025](https://github.com/clulab/nlp-reading-group/wiki/Fall-2025-Reading-Schedule)
 * [Spring 2025](https://github.com/clulab/nlp-reading-group/wiki/Spring-2025-Reading-Schedule)
 * [Fall 2024](https://github.com/clulab/nlp-reading-group/wiki/Fall-2024-Reading-Schedule)
