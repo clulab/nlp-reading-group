@@ -4,7 +4,7 @@ A Computational Linguistics (CL) / Natural Language Processing (NLP) reading gro
 Everyone is welcome to participate (faculty and students alike).
 The only expectation is that participants read the paper scheduled for that week before attending the meeting.
 
-The group meets most Fridays from 2:00-3:30 PM MST in [Gould Simposon 701](https://interactivefloorplans.arizona.edu/77/0701) or on [zoom](https://arizona.zoom.us/j/85177118396).
+The group meets most Fridays from 2:00-3:30 PM MST in [Harvill 460](https://map.arizona.edu/ind/76/0460) or on [zoom](https://arizona.zoom.us/j/3366862561).
 
 To get reminders of the reading each week (and occasional postings about NLP job openings) sign up on the [nlp-read mailing list](https://list.arizona.edu/sympa/info/nlp-read).
 
